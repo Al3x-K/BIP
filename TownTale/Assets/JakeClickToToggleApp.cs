@@ -8,16 +8,22 @@ public class JakeClickToToggleApp : MonoBehaviour
 
     void Awake()
     {
-        social_media_menu = GameObject.Find("SocialMediaMenu").GetComponent<Canvas>();
-        if (social_media_menu != null) 
+        if (social_media_menu != null) {
             Debug.Log("Social Media Menu found and assigned.");
-        else 
+        } else {
             Debug.Log("Social Media Menu not found.");
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Q)) {
+            CloseMenu();
+        }
+    }
+
+    public void CloseMenu() {
+        social_media_menu.enabled = !social_media_menu.enabled;
     }
 }
