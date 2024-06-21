@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: c23e9157376bf8b4bbce5baf76377a12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4982834009224042152
+    second: Dan_shopping_cart_32x32_0
+  - first:
+      213: 4524648520338680329
+    second: Dan_shopping_cart_32x32_1
+  - first:
+      213: -1834115777824757136
+    second: Dan_shopping_cart_32x32_2
+  - first:
+      213: 2577004877150175234
+    second: Dan_shopping_cart_32x32_3
+  - first:
+      213: 6943957538230520819
+    second: Dan_shopping_cart_32x32_4
+  - first:
+      213: -9003516808192978226
+    second: Dan_shopping_cart_32x32_5
+  - first:
+      213: 8528279316919025268
+    second: Dan_shopping_cart_32x32_6
+  - first:
+      213: 4260662418159654143
+    second: Dan_shopping_cart_32x32_7
+  - first:
+      213: -5792853186033631692
+    second: Dan_shopping_cart_32x32_8
+  - first:
+      213: -7912709177365597379
+    second: Dan_shopping_cart_32x32_9
+  - first:
+      213: 642064974791743970
+    second: Dan_shopping_cart_32x32_10
+  - first:
+      213: -1218033919025859385
+    second: Dan_shopping_cart_32x32_11
+  - first:
+      213: -7691618770696019432
+    second: Dan_shopping_cart_32x32_12
+  - first:
+      213: 9206810482682848640
+    second: Dan_shopping_cart_32x32_13
+  - first:
+      213: 8890236384348505192
+    second: Dan_shopping_cart_32x32_14
+  - first:
+      213: 581934245675070260
+    second: Dan_shopping_cart_32x32_15
+  - first:
+      213: -7881243311406278572
+    second: Dan_shopping_cart_32x32_16
+  - first:
+      213: 5311812333747332964
+    second: Dan_shopping_cart_32x32_17
+  - first:
+      213: 140816685452397888
+    second: Dan_shopping_cart_32x32_18
+  - first:
+      213: 7312553574697052759
+    second: Dan_shopping_cart_32x32_19
+  - first:
+      213: -5688666289859262195
+    second: Dan_shopping_cart_32x32_20
+  - first:
+      213: -4188888898383931012
+    second: Dan_shopping_cart_32x32_21
+  - first:
+      213: -263834400220364292
+    second: Dan_shopping_cart_32x32_22
+  - first:
+      213: 5954941177679735850
+    second: Dan_shopping_cart_32x32_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85927796eda69dab0800000000000000
+      internalID: -4982834009224042152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa84c4bd7cace30800000000000000
+      internalID: 4524648520338680329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ae0d9ea69eb86e0800000000000000
+      internalID: -1834115777824757136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004cfe384c53c320800000000000000
+      internalID: 2577004877150175234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb40a12794ed5060800000000000000
+      internalID: 6943957538230520819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec216666a251d0380800000000000000
+      internalID: -9003516808192978226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef44e9ad88a5670800000000000000
+      internalID: 8528279316919025268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4534635e9e02b30800000000000000
+      internalID: 4260662418159654143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb97a18b6ab9fa0800000000000000
+      internalID: -5792853186033631692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3376203de8603290800000000000000
+      internalID: -7912709177365597379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99e2951b219e800800000000000000
+      internalID: 642064974791743970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43614aa9ca81fe0800000000000000
+      internalID: -1218033919025859385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812efe0ea71e14590800000000000000
+      internalID: -7691618770696019432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08567aeaa5925cf70800000000000000
+      internalID: 9206810482682848640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864885a93e6706b70800000000000000
+      internalID: 8890236384348505192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f81cfc12731800800000000000000
+      internalID: 581934245675070260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458943307f230a290800000000000000
+      internalID: -7881243311406278572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4676c82ac2957b940800000000000000
+      internalID: 5311812333747332964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d86d2870844f100800000000000000
+      internalID: 140816685452397888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa4dc8bb86b7560800000000000000
+      internalID: 7312553574697052759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090333362ccd01b0800000000000000
+      internalID: -5688666289859262195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799f389db31ed5c0800000000000000
+      internalID: -4188888898383931012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14657c20ca65cf0800000000000000
+      internalID: -263834400220364292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_shopping_cart_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c62f1537334a250800000000000000
+      internalID: 5954941177679735850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

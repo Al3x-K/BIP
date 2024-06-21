@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 4c3004fcd6ab091449d3469ce236529b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5520632045573513157
+    second: Rob_shopping_cart_48x48_0
+  - first:
+      213: 7483332799370635593
+    second: Rob_shopping_cart_48x48_1
+  - first:
+      213: 1530784334591587367
+    second: Rob_shopping_cart_48x48_2
+  - first:
+      213: 7169155963248193161
+    second: Rob_shopping_cart_48x48_3
+  - first:
+      213: -6872968672828100776
+    second: Rob_shopping_cart_48x48_4
+  - first:
+      213: -4017531330354452408
+    second: Rob_shopping_cart_48x48_5
+  - first:
+      213: -5074663208807755023
+    second: Rob_shopping_cart_48x48_6
+  - first:
+      213: 9027962808192961531
+    second: Rob_shopping_cart_48x48_7
+  - first:
+      213: -319993399677743931
+    second: Rob_shopping_cart_48x48_8
+  - first:
+      213: -1584756352242981659
+    second: Rob_shopping_cart_48x48_9
+  - first:
+      213: 2642747808583586239
+    second: Rob_shopping_cart_48x48_10
+  - first:
+      213: 3145144107864909605
+    second: Rob_shopping_cart_48x48_11
+  - first:
+      213: -5733899875075486844
+    second: Rob_shopping_cart_48x48_12
+  - first:
+      213: 1717826137074709231
+    second: Rob_shopping_cart_48x48_13
+  - first:
+      213: 6924595532663796832
+    second: Rob_shopping_cart_48x48_14
+  - first:
+      213: 1505101108895857152
+    second: Rob_shopping_cart_48x48_15
+  - first:
+      213: 3525170218108293070
+    second: Rob_shopping_cart_48x48_16
+  - first:
+      213: -7814526586959940973
+    second: Rob_shopping_cart_48x48_17
+  - first:
+      213: -4656431694364942174
+    second: Rob_shopping_cart_48x48_18
+  - first:
+      213: 3684350996161453508
+    second: Rob_shopping_cart_48x48_19
+  - first:
+      213: 2836441731101734967
+    second: Rob_shopping_cart_48x48_20
+  - first:
+      213: -4449534324521014399
+    second: Rob_shopping_cart_48x48_21
+  - first:
+      213: -7119764095247995377
+    second: Rob_shopping_cart_48x48_22
+  - first:
+      213: 2211405867647428712
+    second: Rob_shopping_cart_48x48_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1c0c88993d9c40800000000000000
+      internalID: 5520632045573513157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949248a58832ad760800000000000000
+      internalID: 7483332799370635593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724701bed307e3510800000000000000
+      internalID: 1530784334591587367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e28c06d55fd7360800000000000000
+      internalID: 7169155963248193161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 20
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f61b7186f4e90a0800000000000000
+      internalID: -6872968672828100776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84868347a8cde38c0800000000000000
+      internalID: -4017531330354452408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f21544c2bc2399b0800000000000000
+      internalID: -5074663208807755023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb87c38754c94d70800000000000000
+      internalID: 9027962808192961531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0db9c2b72f8bf0800000000000000
+      internalID: -319993399677743931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e463097e70d10ae0800000000000000
+      internalID: -1584756352242981659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb11199412deca420800000000000000
+      internalID: 2642747808583586239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52763b407ebc5ab20800000000000000
+      internalID: 3145144107864909605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b087071781d60b0800000000000000
+      internalID: -5733899875075486844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 20
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2383e25c1f6d710800000000000000
+      internalID: 1717826137074709231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064bea9e2fa191060800000000000000
+      internalID: 6924595532663796832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab8c2fb7133e410800000000000000
+      internalID: 1505101108895857152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 20
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf812fd2abebe030800000000000000
+      internalID: 3525170218108293070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 17
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923868e8793d8390800000000000000
+      internalID: -7814526586959940973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e1887b08016fb0800000000000000
+      internalID: -4656431694364942174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5f02e5b1712330800000000000000
+      internalID: 3684350996161453508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b960f9b01d5720800000000000000
+      internalID: 2836441731101734967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b64034b141042c0800000000000000
+      internalID: -4449534324521014399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea92a0744813d90800000000000000
+      internalID: -7119764095247995377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rob_shopping_cart_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e65b8bed70be10800000000000000
+      internalID: 2211405867647428712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

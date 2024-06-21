@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 813527923e8555c44b35700a071c0742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3220917214930340606
+    second: Lucy_shopping_cart_32x32_0
+  - first:
+      213: 8465505670062382117
+    second: Lucy_shopping_cart_32x32_1
+  - first:
+      213: -9075826931910819639
+    second: Lucy_shopping_cart_32x32_2
+  - first:
+      213: -2470985018637756780
+    second: Lucy_shopping_cart_32x32_3
+  - first:
+      213: -2947037740957389443
+    second: Lucy_shopping_cart_32x32_4
+  - first:
+      213: -504368163645287369
+    second: Lucy_shopping_cart_32x32_5
+  - first:
+      213: -5736360588459713594
+    second: Lucy_shopping_cart_32x32_6
+  - first:
+      213: 5042844225631261875
+    second: Lucy_shopping_cart_32x32_7
+  - first:
+      213: -4371197276271671747
+    second: Lucy_shopping_cart_32x32_8
+  - first:
+      213: 1422828982222229482
+    second: Lucy_shopping_cart_32x32_9
+  - first:
+      213: -6571485239935213603
+    second: Lucy_shopping_cart_32x32_10
+  - first:
+      213: -1748225387862939555
+    second: Lucy_shopping_cart_32x32_11
+  - first:
+      213: -5747619338768854169
+    second: Lucy_shopping_cart_32x32_12
+  - first:
+      213: 1496246900684434242
+    second: Lucy_shopping_cart_32x32_13
+  - first:
+      213: -6239711732323422104
+    second: Lucy_shopping_cart_32x32_14
+  - first:
+      213: 9141365609524860912
+    second: Lucy_shopping_cart_32x32_15
+  - first:
+      213: -1350105838443138188
+    second: Lucy_shopping_cart_32x32_16
+  - first:
+      213: 5892431312417650586
+    second: Lucy_shopping_cart_32x32_17
+  - first:
+      213: -5768219396150604829
+    second: Lucy_shopping_cart_32x32_18
+  - first:
+      213: -2128992329438346492
+    second: Lucy_shopping_cart_32x32_19
+  - first:
+      213: 575252615387005992
+    second: Lucy_shopping_cart_32x32_20
+  - first:
+      213: 6700115371094720944
+    second: Lucy_shopping_cart_32x32_21
+  - first:
+      213: -4782913358549415734
+    second: Lucy_shopping_cart_32x32_22
+  - first:
+      213: 900460391676819289
+    second: Lucy_shopping_cart_32x32_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f221bbd00d43d0800000000000000
+      internalID: -3220917214930340606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c9f140e848b7570800000000000000
+      internalID: 8465505670062382117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04880cd7f2c0280800000000000000
+      internalID: -9075826931910819639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d8c6a73c45bdd0800000000000000
+      internalID: -2470985018637756780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da096e9c40a17d0800000000000000
+      internalID: -2947037740957389443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73418e1d3df1009f0800000000000000
+      internalID: -504368163645287369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbde45ff6a5460b0800000000000000
+      internalID: -5736360588459713594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49166ea18cbf540800000000000000
+      internalID: 5042844225631261875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d360ca0ac336653c0800000000000000
+      internalID: -4371197276271671747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8c7dbb67eeb310800000000000000
+      internalID: 1422828982222229482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf50f2ddf46dc4a0800000000000000
+      internalID: -6571485239935213603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d582c11b54e0db7e0800000000000000
+      internalID: -1748225387862939555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7635480e9aa5c30b0800000000000000
+      internalID: -5747619338768854169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2393f0acb3c410800000000000000
+      internalID: 1496246900684434242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86076062d371869a0800000000000000
+      internalID: -6239711732323422104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f793bdb697acde70800000000000000
+      internalID: 9141365609524860912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 13
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4737a62a4e5734de0800000000000000
+      internalID: -1350105838443138188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 11
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97fa082f0f16c150800000000000000
+      internalID: 5892431312417650586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebcce1450b23ffa0800000000000000
+      internalID: -5768219396150604829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cb4a91cc4472e0800000000000000
+      internalID: -2128992329438346492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824c144b435bbf700800000000000000
+      internalID: 575252615387005992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14c386e679bfc50800000000000000
+      internalID: 6700115371094720944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8013034adaf9db0800000000000000
+      internalID: -4782913358549415734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_shopping_cart_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b43494f31f7c00800000000000000
+      internalID: 900460391676819289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

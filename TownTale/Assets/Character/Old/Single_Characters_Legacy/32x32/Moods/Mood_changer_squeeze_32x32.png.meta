@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: e7ff1906b0986254b9054c32286532a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7572315105114625605
+    second: Mood_changer_squeeze_32x32_0
+  - first:
+      213: -8326634188644816286
+    second: Mood_changer_squeeze_32x32_1
+  - first:
+      213: 7936628749803727386
+    second: Mood_changer_squeeze_32x32_2
+  - first:
+      213: -8300068746718506766
+    second: Mood_changer_squeeze_32x32_3
+  - first:
+      213: 6709592539779889529
+    second: Mood_changer_squeeze_32x32_4
+  - first:
+      213: -1726473269968743592
+    second: Mood_changer_squeeze_32x32_5
+  - first:
+      213: -3097424885846297966
+    second: Mood_changer_squeeze_32x32_6
+  - first:
+      213: 1961112183941389512
+    second: Mood_changer_squeeze_32x32_7
+  - first:
+      213: -1526677227834350117
+    second: Mood_changer_squeeze_32x32_8
+  - first:
+      213: 2028748217537972496
+    second: Mood_changer_squeeze_32x32_9
+  - first:
+      213: -6862005025720350702
+    second: Mood_changer_squeeze_32x32_10
+  - first:
+      213: -1016893591110270919
+    second: Mood_changer_squeeze_32x32_11
+  - first:
+      213: -5976330109096372468
+    second: Mood_changer_squeeze_32x32_12
+  - first:
+      213: 928681803543096643
+    second: Mood_changer_squeeze_32x32_13
+  - first:
+      213: -7445651683528550137
+    second: Mood_changer_squeeze_32x32_14
+  - first:
+      213: 2898656897725097709
+    second: Mood_changer_squeeze_32x32_15
+  - first:
+      213: -760966140546137672
+    second: Mood_changer_squeeze_32x32_16
+  - first:
+      213: -6385916252588366505
+    second: Mood_changer_squeeze_32x32_17
+  - first:
+      213: -5166737517030384805
+    second: Mood_changer_squeeze_32x32_18
+  - first:
+      213: 5207370050794197204
+    second: Mood_changer_squeeze_32x32_19
+  - first:
+      213: 5543608528522159450
+    second: Mood_changer_squeeze_32x32_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5469eafd774461960800000000000000
+      internalID: 7572315105114625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae333625ad17c80800000000000000
+      internalID: -8326634188644816286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 205
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a24324cc1942e60800000000000000
+      internalID: 7936628749803727386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 209
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09584537b30dc80800000000000000
+      internalID: -8300068746718506766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f031bdd24d1d50800000000000000
+      internalID: 6709592539779889529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535e4d45b55a08e0800000000000000
+      internalID: -1726473269968743592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2923da82a7cb305d0800000000000000
+      internalID: -3097424885846297966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc54801425473b10800000000000000
+      internalID: 1961112183941389512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 141
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd56144662720dae0800000000000000
+      internalID: -1526677227834350117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 145
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ce0d41cf872c10800000000000000
+      internalID: 2028748217537972496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 139
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2184efa19c245c0a0800000000000000
+      internalID: -6862005025720350702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304087aaa443e1f0800000000000000
+      internalID: -1016893591110270919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d6d20e6fcf0da0800000000000000
+      internalID: -5976330109096372468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2e811e2753ec00800000000000000
+      internalID: 928681803543096643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ddf91e3bbba890800000000000000
+      internalID: -7445651683528550137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 81
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e3aa37191a3820800000000000000
+      internalID: 2898656897725097709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 75
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1c5a2b3518075f0800000000000000
+      internalID: -760966140546137672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 77
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a317900ba067a0800000000000000
+      internalID: -6385916252588366505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b58b15a9f0c48b0800000000000000
+      internalID: -5166737517030384805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 13
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0989ba87b444840800000000000000
+      internalID: 5207370050794197204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mood_changer_squeeze_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55a36cd59adeec40800000000000000
+      internalID: 5543608528522159450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

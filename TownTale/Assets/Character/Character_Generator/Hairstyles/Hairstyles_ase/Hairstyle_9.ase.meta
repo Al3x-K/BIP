@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: d5deeff628ce2864e9ee3e62e2e6c931
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Hairstyle_9_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 896
+      height: 625
+    spriteID: 1406a7448a2ab0c428db6222a4f3a188
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Hairstyle_9_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 637
+      width: 896
+      height: 625
+    spriteID: 8d7930a759fcb2949882f94ef36f5dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 637}
+  - name: Hairstyle_9_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1270
+      width: 896
+      height: 625
+    spriteID: e185f2d78a8b903448ddef95bd8a4660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1270}
+  - name: Hairstyle_9_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1903
+      width: 896
+      height: 625
+    spriteID: 5dadde34cd832c34abd651c2a0ddef40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1903}
+  - name: Hairstyle_9_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2536
+      width: 896
+      height: 625
+    spriteID: 0429a3c37a9cabb4eb980d82b85dd030
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2536}
+  - name: Hairstyle_9_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3169
+      width: 896
+      height: 625
+    spriteID: 8de3c9697b4614547b063e0ae29b6759
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3169}
+  - name: Hairstyle_9_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.0336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 908
+      y: 4
+      width: 896
+      height: 625
+    spriteID: e7c2a57a520c0064e93c6dfe20c7d6cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 908, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 321502427
+    name: Hairstyle_9
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hairstyle_9_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: 1406a7448a2ab0c428db6222a4f3a188
+    - name: Hairstyle_9_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: 8d7930a759fcb2949882f94ef36f5dec
+    - name: Hairstyle_9_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: e185f2d78a8b903448ddef95bd8a4660
+    - name: Hairstyle_9_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: 5dadde34cd832c34abd651c2a0ddef40
+    - name: Hairstyle_9_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: 0429a3c37a9cabb4eb980d82b85dd030
+    - name: Hairstyle_9_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: 8de3c9697b4614547b063e0ae29b6759
+    - name: Hairstyle_9_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 21
+        width: 896
+        height: 625
+      spriteId: e7c2a57a520c0064e93c6dfe20c7d6cd
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 896, y: 656}

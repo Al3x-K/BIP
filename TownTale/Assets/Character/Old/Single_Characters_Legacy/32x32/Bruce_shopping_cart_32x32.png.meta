@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 0457e9d901c71b04ba2ecfceb033f722
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3560927771327187069
+    second: Bruce_shopping_cart_32x32_0
+  - first:
+      213: 4563402891518456876
+    second: Bruce_shopping_cart_32x32_1
+  - first:
+      213: -7964322125490660800
+    second: Bruce_shopping_cart_32x32_2
+  - first:
+      213: 959806037896069055
+    second: Bruce_shopping_cart_32x32_3
+  - first:
+      213: -4243492907368968171
+    second: Bruce_shopping_cart_32x32_4
+  - first:
+      213: 3404791285532575109
+    second: Bruce_shopping_cart_32x32_5
+  - first:
+      213: 2377033772213877686
+    second: Bruce_shopping_cart_32x32_6
+  - first:
+      213: 1479985285564473190
+    second: Bruce_shopping_cart_32x32_7
+  - first:
+      213: -8933178456419066317
+    second: Bruce_shopping_cart_32x32_8
+  - first:
+      213: 5691277633816658716
+    second: Bruce_shopping_cart_32x32_9
+  - first:
+      213: 4652858328494887407
+    second: Bruce_shopping_cart_32x32_10
+  - first:
+      213: -8147929665593744729
+    second: Bruce_shopping_cart_32x32_11
+  - first:
+      213: 2689870409098482942
+    second: Bruce_shopping_cart_32x32_12
+  - first:
+      213: -2963999753861217579
+    second: Bruce_shopping_cart_32x32_13
+  - first:
+      213: 8294967537081886778
+    second: Bruce_shopping_cart_32x32_14
+  - first:
+      213: 2728663495953302690
+    second: Bruce_shopping_cart_32x32_15
+  - first:
+      213: 5462726868862162547
+    second: Bruce_shopping_cart_32x32_16
+  - first:
+      213: 4573630781205171551
+    second: Bruce_shopping_cart_32x32_17
+  - first:
+      213: 8115196899097793357
+    second: Bruce_shopping_cart_32x32_18
+  - first:
+      213: -3183424713110457369
+    second: Bruce_shopping_cart_32x32_19
+  - first:
+      213: 6665567201252718829
+    second: Bruce_shopping_cart_32x32_20
+  - first:
+      213: -2108618513793649543
+    second: Bruce_shopping_cart_32x32_21
+  - first:
+      213: -855593213390250714
+    second: Bruce_shopping_cart_32x32_22
+  - first:
+      213: -4133795783162398684
+    second: Bruce_shopping_cart_32x32_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387383ffe0b059ec0800000000000000
+      internalID: -3560927771327187069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b2fb70c6745f30800000000000000
+      internalID: 4563402891518456876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a5851493b097190800000000000000
+      internalID: -7964322125490660800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff116918ae15d00800000000000000
+      internalID: 959806037896069055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51012690fa51c15c0800000000000000
+      internalID: -4243492907368968171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585c38482af304f20800000000000000
+      internalID: 3404791285532575109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb3aeb2f9becf020800000000000000
+      internalID: 2377033772213877686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f10e2a6c6f98410800000000000000
+      internalID: 1479985285564473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e18fd1689f60480800000000000000
+      internalID: -8933178456419066317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1384c1bada7bfe40800000000000000
+      internalID: 5691277633816658716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1d7247ff5429040800000000000000
+      internalID: 4652858328494887407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2ea63832dbcee80800000000000000
+      internalID: -8147929665593744729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45622b2e6545520800000000000000
+      internalID: 2689870409098482942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 13
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c1c48de1cdd6d0800000000000000
+      internalID: -2963999753861217579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a92fb605ad1370800000000000000
+      internalID: 8294967537081886778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a44fd31ef82ed520800000000000000
+      internalID: 2728663495953302690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 13
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d28bf4218fcb40800000000000000
+      internalID: 5462726868862162547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc68f96fcc87f30800000000000000
+      internalID: 4573630781205171551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4353156598fe9070800000000000000
+      internalID: 8115196899097793357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f9d5071432d3d0800000000000000
+      internalID: -3183424713110457369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8b929cd0ad08c50800000000000000
+      internalID: 6665567201252718829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974748632aeacb2e0800000000000000
+      internalID: -2108618513793649543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d93ab61825024f0800000000000000
+      internalID: -855593213390250714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruce_shopping_cart_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f89213aec1a6c0800000000000000
+      internalID: -4133795783162398684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

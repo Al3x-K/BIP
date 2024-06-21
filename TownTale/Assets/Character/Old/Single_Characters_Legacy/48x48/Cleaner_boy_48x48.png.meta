@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: f2d49c379a7173a4fbdee14d9590088b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7241568956657875954
+    second: Cleaner_boy_48x48_0
+  - first:
+      213: -4668082874041475012
+    second: Cleaner_boy_48x48_1
+  - first:
+      213: 5982287895782845795
+    second: Cleaner_boy_48x48_2
+  - first:
+      213: -176039740578783348
+    second: Cleaner_boy_48x48_3
+  - first:
+      213: -4031118880297141098
+    second: Cleaner_boy_48x48_4
+  - first:
+      213: 6312170848338633437
+    second: Cleaner_boy_48x48_5
+  - first:
+      213: 6817988968902105502
+    second: Cleaner_boy_48x48_6
+  - first:
+      213: 4828432571335933964
+    second: Cleaner_boy_48x48_7
+  - first:
+      213: -1880420694121517201
+    second: Cleaner_boy_48x48_8
+  - first:
+      213: 8757137947663817360
+    second: Cleaner_boy_48x48_9
+  - first:
+      213: 4991579047459104121
+    second: Cleaner_boy_48x48_10
+  - first:
+      213: -3305213815182088896
+    second: Cleaner_boy_48x48_11
+  - first:
+      213: 6424142459843822769
+    second: Cleaner_boy_48x48_12
+  - first:
+      213: -6154406146098464406
+    second: Cleaner_boy_48x48_13
+  - first:
+      213: 4588652554524214503
+    second: Cleaner_boy_48x48_14
+  - first:
+      213: -4856493641471101158
+    second: Cleaner_boy_48x48_15
+  - first:
+      213: -6493305695052585138
+    second: Cleaner_boy_48x48_16
+  - first:
+      213: 6030064080123360202
+    second: Cleaner_boy_48x48_17
+  - first:
+      213: -5510838999843465210
+    second: Cleaner_boy_48x48_18
+  - first:
+      213: 5139144948260888406
+    second: Cleaner_boy_48x48_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb61e39983f7460800000000000000
+      internalID: 7241568956657875954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c306caecb53a73fb0800000000000000
+      internalID: -4668082874041475012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d614c452b550350800000000000000
+      internalID: 5982287895782845795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1374e9c49e8df0800000000000000
+      internalID: -176039740578783348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cb4847cb69e08c0800000000000000
+      internalID: -4031118880297141098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ecc871f5599750800000000000000
+      internalID: 6312170848338633437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9911fd08dc5e9e50800000000000000
+      internalID: 6817988968902105502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00876c67d9020340800000000000000
+      internalID: 4828432571335933964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe792775767e5e0800000000000000
+      internalID: -1880420694121517201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a589be09a978970800000000000000
+      internalID: 8757137947663817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 290
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975251872b6a54540800000000000000
+      internalID: 4991579047459104121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ab5ffb858122d0800000000000000
+      internalID: -3305213815182088896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ce79d783272950800000000000000
+      internalID: 6424142459843822769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 143
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69f152b738279aa0800000000000000
+      internalID: -6154406146098464406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 143
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ca16cf2b2eaf30800000000000000
+      internalID: 4588652554524214503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17fb2e83c44a9cb0800000000000000
+      internalID: -4856493641471101158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 143
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47ae549fd423e5a0800000000000000
+      internalID: -6493305695052585138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 143
+        width: 289
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3789c05571fa350800000000000000
+      internalID: 6030064080123360202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 289
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60816f790219583b0800000000000000
+      internalID: -5510838999843465210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaner_boy_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 20
+        width: 530
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f55522a19e15740800000000000000
+      internalID: 5139144948260888406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
