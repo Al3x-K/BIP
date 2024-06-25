@@ -1,20 +1,66 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class TopDownPlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Speed at which the player moves
-    private Vector2 movement; // Store movement input
+    public float moveSpeed;
+    public bool isMoving;
+    public Vector2 input;
+   
+    //private Animator animator;
 
-    void Update()
+    public LayerMask solidObjectsLayer;
+   
+    //private void Awake()
+    //{
+     //   animator = GetComponent<Animator>();
+    //}
+
+    private void Update()
     {
-        // Get input from the player
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+        if (!isMoving)
+        {
+            input.x = Input.GetAxisRaw("Horizontal");
+            input.y = Input.GetAxisRaw("Vertical");
+
+            if (input != Vector2.zero)
+            {
+                //animator.SetFloat("moveX", input.x);
+                //animator.SetFloat("moveY", input.y);
+                var targetPos = transform.position;
+                targetPos.x += input.x;
+                targetPos.y += input.y;
+
+                if(isWalkable(targetPos))
+                    StartCoroutine(Move(targetPos));
+            }
+        }
+        //animator.SetBool("isMoving", isMoving);
+
+        
     }
 
-    void FixedUpdate()
+   
+    IEnumerator Move(Vector3 targetPos)
     {
-        // Move the player
-        transform.Translate(movement * moveSpeed * Time.fixedDeltaTime);
+        isMoving = true;
+        while ((targetPos - transform.position).sqrMagnitude > Mathf.Epsilon) // while not at target position
+        {
+            transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
+            yield return null; // wait until next frame
+        }
+        transform.position = targetPos;
+        isMoving = false;
+    }
+
+    private bool isWalkable(Vector3 targetPos)
+    {
+       if(Physics2D.OverlapCircle(targetPos, 0.05f, solidObjectsLayer) != null)
+        {
+            return false;
+        }
+        return true;
     }
 }
+
