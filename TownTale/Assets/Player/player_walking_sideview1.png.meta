@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: c2ed1119165830a438e4df43ae2db2d8
+guid: 16ef5751795bfe143b24927f28e587fb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5942755533593057845
-    second: Conference_man_idle_32x32_0
+      213: -5719507819072568296
+    second: player_walking_sideview1_0
   - first:
-      213: 9146252820693691887
-    second: Conference_man_idle_32x32_1
+      213: -2239092884019900276
+    second: player_walking_sideview1_1
   - first:
-      213: 3987936104824778603
-    second: Conference_man_idle_32x32_2
+      213: -8087729370061514924
+    second: player_walking_sideview1_2
   - first:
-      213: 376055056057475444
-    second: Conference_man_idle_32x32_3
+      213: -3460093305893593637
+    second: player_walking_sideview1_3
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -116,7 +116,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Windows Store Apps
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -131,13 +131,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Conference_man_idle_32x32_0
+      name: player_walking_sideview1_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 246
         y: 0
-        width: 30
-        height: 45
+        width: 17
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc5e2390457178da0800000000000000
-      internalID: -5942755533593057845
+      spriteID: 8144c1a11f930a0b0800000000000000
+      internalID: -5719507819072568296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Conference_man_idle_32x32_1
+      name: player_walking_sideview1_1
       rect:
         serializedVersion: 2
-        x: 31
+        x: 264
         y: 0
-        width: 34
-        height: 45
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fedac534b740eee70800000000000000
-      internalID: 9146252820693691887
+      spriteID: c8093ec92e42de0e0800000000000000
+      internalID: -2239092884019900276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Conference_man_idle_32x32_2
+      name: player_walking_sideview1_2
       rect:
         serializedVersion: 2
-        x: 65
+        x: 283
         y: 0
-        width: 30
-        height: 45
+        width: 17
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6f290322cef75730800000000000000
-      internalID: 3987936104824778603
+      spriteID: 4575df11dfc92cf80800000000000000
+      internalID: -8087729370061514924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Conference_man_idle_32x32_3
+      name: player_walking_sideview1_3
       rect:
         serializedVersion: 2
-        x: 95
+        x: 302
         y: 0
-        width: 33
-        height: 45
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,8 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 471ab40c414083500800000000000000
-      internalID: 376055056057475444
+      spriteID: bdd518c78774bffc0800000000000000
+      internalID: -3460093305893593637
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Conference_man_idle_32x32_0: -5942755533593057845
-      Conference_man_idle_32x32_1: 9146252820693691887
-      Conference_man_idle_32x32_2: 3987936104824778603
-      Conference_man_idle_32x32_3: 376055056057475444
+      player_walking_sideview1_0: -5719507819072568296
+      player_walking_sideview1_1: -2239092884019900276
+      player_walking_sideview1_2: -8087729370061514924
+      player_walking_sideview1_3: -3460093305893593637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

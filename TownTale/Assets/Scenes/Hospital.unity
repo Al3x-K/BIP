@@ -5426,8 +5426,9 @@ GameObject:
   - component: {fileID: 1027303736}
   - component: {fileID: 1027303735}
   - component: {fileID: 1027303734}
+  - component: {fileID: 1027303739}
   m_Layer: 0
-  m_Name: Conference_man_idle_32x32_3
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5467,17 +5468,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.0024464726, y: 0.0073396564}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.03125, y: 1.40625}
+    oldSize: {x: 0.6875, y: 0.84375}
     newSize: {x: 1.03125, y: 1.40625}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.03125, y: 1.40625}
+  m_Size: {x: 0.6349027, y: 0.8043895}
   m_EdgeRadius: 0
 --- !u!50 &1027303735
 Rigidbody2D:
@@ -5565,7 +5566,7 @@ SpriteRenderer:
   m_SortingLayerID: -1829730061
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 376055056057475444, guid: c2ed1119165830a438e4df43ae2db2d8, type: 3}
+  m_Sprite: {fileID: -4133200696874725326, guid: d398b35326619ec45b4d9146166ce034, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5585,13 +5586,35 @@ Transform:
   m_GameObject: {fileID: 1027303733}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.57, y: -2.8, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.76403, y: 1.76403, z: 1.76403}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1162247681}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1027303739
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027303733}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7870f65167cba594db43a9a15c1039f5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1161213677
 GameObject:
   m_ObjectHideFlags: 0
@@ -6612,8 +6635,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1162247678}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.00999999, y: 0.18427587, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.005668832, y: 0.71994233, z: -5.6688375}
+  m_LocalScale: {x: 0.56688374, y: 0.56688374, z: 0.56688374}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1027303738}
