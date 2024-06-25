@@ -71,7 +71,7 @@ public static class DialogueDataList
                 choices = new List<ChoiceData>
                 {
                     new ChoiceData { text = "What kind of events happen here?", reputationChange = 3, nextDialogueID = "vibrantEvents" },
-                    new ChoiceData { text = "Do people even care about this history?", reputationChange = -3, nextDialogueID = "importanceOfHistory" }
+                    new ChoiceData { text = "Do people even care about this history?", reputationChange = -3, nextDialogueID = "hospitalIntro" }
                 }
             },
 
