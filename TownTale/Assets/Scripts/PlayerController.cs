@@ -8,14 +8,14 @@ public class PlayerController : MonoBehaviour
     public bool isMoving;
     public Vector2 input;
    
-    //private Animator animator;
+    private Animator animator;
 
     public LayerMask solidObjectsLayer;
    
-    //private void Awake()
-    //{
-     //   animator = GetComponent<Animator>();
-    //}
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     private void Update()
     {
@@ -26,8 +26,8 @@ public class PlayerController : MonoBehaviour
 
             if (input != Vector2.zero)
             {
-                //animator.SetFloat("moveX", input.x);
-                //animator.SetFloat("moveY", input.y);
+                animator.SetFloat("moveX", input.x);
+                animator.SetFloat("moveY", input.y);
                 var targetPos = transform.position;
                 targetPos.x += input.x;
                 targetPos.y += input.y;
@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
                     StartCoroutine(Move(targetPos));
             }
         }
-        //animator.SetBool("isMoving", isMoving);
+        animator.SetBool("isMoving", isMoving);
 
         
     }
