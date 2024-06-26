@@ -304,6 +304,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1808,7 +1832,78 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_thinking_emotes_animation_16x16_0: 6883731894449772930
+      UI_thinking_emotes_animation_16x16_1: -6663227154134614104
+      UI_thinking_emotes_animation_16x16_10: 745892218248755938
+      UI_thinking_emotes_animation_16x16_11: 574270588346449748
+      UI_thinking_emotes_animation_16x16_12: 3403449471748496734
+      UI_thinking_emotes_animation_16x16_13: -3574602957273351064
+      UI_thinking_emotes_animation_16x16_14: 1796911368519625002
+      UI_thinking_emotes_animation_16x16_15: -4455739226547153802
+      UI_thinking_emotes_animation_16x16_16: 2507801923337829401
+      UI_thinking_emotes_animation_16x16_17: -4271507320841693503
+      UI_thinking_emotes_animation_16x16_18: -229021870736306262
+      UI_thinking_emotes_animation_16x16_19: 1827187243451109414
+      UI_thinking_emotes_animation_16x16_2: 8982591453445369065
+      UI_thinking_emotes_animation_16x16_20: 4223744772696532998
+      UI_thinking_emotes_animation_16x16_21: -5594503112804950973
+      UI_thinking_emotes_animation_16x16_22: -6577866388365001181
+      UI_thinking_emotes_animation_16x16_23: -6743997325422923970
+      UI_thinking_emotes_animation_16x16_24: 7659830349084165499
+      UI_thinking_emotes_animation_16x16_25: -165050030753010867
+      UI_thinking_emotes_animation_16x16_26: -2293522274681251130
+      UI_thinking_emotes_animation_16x16_27: -3229621980723832684
+      UI_thinking_emotes_animation_16x16_28: -1339693806808233853
+      UI_thinking_emotes_animation_16x16_29: -8826785738161987735
+      UI_thinking_emotes_animation_16x16_3: 1970737468924346861
+      UI_thinking_emotes_animation_16x16_30: 2083078170228569736
+      UI_thinking_emotes_animation_16x16_31: -8817200618797196162
+      UI_thinking_emotes_animation_16x16_32: -6449515511941156572
+      UI_thinking_emotes_animation_16x16_33: -4182804944563887430
+      UI_thinking_emotes_animation_16x16_34: 2035740180835103884
+      UI_thinking_emotes_animation_16x16_35: 8076014568578081630
+      UI_thinking_emotes_animation_16x16_36: 2669957068786330591
+      UI_thinking_emotes_animation_16x16_37: 5407178783805312891
+      UI_thinking_emotes_animation_16x16_38: -8745446326093851523
+      UI_thinking_emotes_animation_16x16_39: -7039632153502820058
+      UI_thinking_emotes_animation_16x16_4: -1480976855476387369
+      UI_thinking_emotes_animation_16x16_40: -2134488178676232150
+      UI_thinking_emotes_animation_16x16_41: 2236118879486003785
+      UI_thinking_emotes_animation_16x16_42: 5715451698529578737
+      UI_thinking_emotes_animation_16x16_43: -7522992131281286277
+      UI_thinking_emotes_animation_16x16_44: 2852425794838679079
+      UI_thinking_emotes_animation_16x16_45: -8503566041260067398
+      UI_thinking_emotes_animation_16x16_46: -6245227096020205422
+      UI_thinking_emotes_animation_16x16_47: 6811608885586501174
+      UI_thinking_emotes_animation_16x16_48: -4072285744327731658
+      UI_thinking_emotes_animation_16x16_49: 4866122959272904501
+      UI_thinking_emotes_animation_16x16_5: 84182144695247457
+      UI_thinking_emotes_animation_16x16_50: -3502562687212671475
+      UI_thinking_emotes_animation_16x16_51: -4251412527728213056
+      UI_thinking_emotes_animation_16x16_52: 2110616755204938991
+      UI_thinking_emotes_animation_16x16_53: 493767713468419209
+      UI_thinking_emotes_animation_16x16_54: 6790832154475966419
+      UI_thinking_emotes_animation_16x16_55: 6461845688538171436
+      UI_thinking_emotes_animation_16x16_56: -9066919366066462358
+      UI_thinking_emotes_animation_16x16_57: -4733445370813553726
+      UI_thinking_emotes_animation_16x16_58: 5103250410083346459
+      UI_thinking_emotes_animation_16x16_59: 5844442932964291055
+      UI_thinking_emotes_animation_16x16_6: -7759779903745775717
+      UI_thinking_emotes_animation_16x16_60: 2625860398239619742
+      UI_thinking_emotes_animation_16x16_61: 992402875184031374
+      UI_thinking_emotes_animation_16x16_62: 1742569443269116909
+      UI_thinking_emotes_animation_16x16_63: -7568928908432414569
+      UI_thinking_emotes_animation_16x16_64: -9154134045650015576
+      UI_thinking_emotes_animation_16x16_65: -3170937179812533323
+      UI_thinking_emotes_animation_16x16_66: 3476500289234072030
+      UI_thinking_emotes_animation_16x16_67: 1763302674049022901
+      UI_thinking_emotes_animation_16x16_68: -2355190151329266035
+      UI_thinking_emotes_animation_16x16_69: -5558712176245010151
+      UI_thinking_emotes_animation_16x16_7: -1525846402097457533
+      UI_thinking_emotes_animation_16x16_70: -6017258645567405316
+      UI_thinking_emotes_animation_16x16_8: -536553796480397458
+      UI_thinking_emotes_animation_16x16_9: -4726091893395014000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

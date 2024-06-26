@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Molly_shopping_cart_32x32_0: -4901464259230300808
+      Molly_shopping_cart_32x32_1: 6952602610612850945
+      Molly_shopping_cart_32x32_10: -626458686593424963
+      Molly_shopping_cart_32x32_11: -2278099362710296900
+      Molly_shopping_cart_32x32_12: -5385138251468320216
+      Molly_shopping_cart_32x32_13: 6528945385061425644
+      Molly_shopping_cart_32x32_14: -5069990023419953957
+      Molly_shopping_cart_32x32_15: 8579920011837561423
+      Molly_shopping_cart_32x32_16: -401233374697824637
+      Molly_shopping_cart_32x32_17: -3583548343331123765
+      Molly_shopping_cart_32x32_18: -7813129821746653673
+      Molly_shopping_cart_32x32_19: -764494097324961811
+      Molly_shopping_cart_32x32_2: 1360311666991172005
+      Molly_shopping_cart_32x32_20: 7145579086712995593
+      Molly_shopping_cart_32x32_21: -2016525695461016812
+      Molly_shopping_cart_32x32_22: -5483026764004882212
+      Molly_shopping_cart_32x32_23: -1108400343951574274
+      Molly_shopping_cart_32x32_3: -2928987255876439433
+      Molly_shopping_cart_32x32_4: 3474155637214518241
+      Molly_shopping_cart_32x32_5: -6452087289070456541
+      Molly_shopping_cart_32x32_6: -851463420159750848
+      Molly_shopping_cart_32x32_7: 7761244696933579102
+      Molly_shopping_cart_32x32_8: 7371090540355349492
+      Molly_shopping_cart_32x32_9: -8947984322217923131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

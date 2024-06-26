@@ -172,6 +172,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -752,7 +776,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nurse_2_32x32_0: 3329826509142824768
+      Nurse_2_32x32_1: -6204780613336558913
+      Nurse_2_32x32_10: -4147579893470425315
+      Nurse_2_32x32_11: 7790912395365458014
+      Nurse_2_32x32_12: -7816587634982478115
+      Nurse_2_32x32_13: 1610975111949950888
+      Nurse_2_32x32_14: -1828090086975202392
+      Nurse_2_32x32_15: 3686922987581004150
+      Nurse_2_32x32_16: 223266914007268449
+      Nurse_2_32x32_17: -6584650456832219810
+      Nurse_2_32x32_18: 6414945558323786513
+      Nurse_2_32x32_19: 2701389996108498707
+      Nurse_2_32x32_2: -8085682933450035782
+      Nurse_2_32x32_20: 6347242835244417754
+      Nurse_2_32x32_21: 5213428334865452500
+      Nurse_2_32x32_22: -3354676295829058526
+      Nurse_2_32x32_23: 4008174247659303726
+      Nurse_2_32x32_24: 2800763828144309394
+      Nurse_2_32x32_25: -834045617468054949
+      Nurse_2_32x32_26: 1026088734446660300
+      Nurse_2_32x32_3: -1799586723136071466
+      Nurse_2_32x32_4: 8249434553179517346
+      Nurse_2_32x32_5: -2635839810277729945
+      Nurse_2_32x32_6: -5202399108732827556
+      Nurse_2_32x32_7: -2275930250015312388
+      Nurse_2_32x32_8: 2340484589026231798
+      Nurse_2_32x32_9: 5342821426398858332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Amelia_shopping_cart_16x16_0: -5835983433692108054
+      Amelia_shopping_cart_16x16_1: 5104334167129389539
+      Amelia_shopping_cart_16x16_10: 1989655191951485582
+      Amelia_shopping_cart_16x16_11: -487805304930660146
+      Amelia_shopping_cart_16x16_12: 132523032632504052
+      Amelia_shopping_cart_16x16_13: -3529583126891677983
+      Amelia_shopping_cart_16x16_14: 836753830540816477
+      Amelia_shopping_cart_16x16_15: 5869849067799305717
+      Amelia_shopping_cart_16x16_16: 5194843118290525464
+      Amelia_shopping_cart_16x16_17: 5561397199897096575
+      Amelia_shopping_cart_16x16_18: -2208647033054483211
+      Amelia_shopping_cart_16x16_19: -7832737064788858879
+      Amelia_shopping_cart_16x16_2: 1298263515978825181
+      Amelia_shopping_cart_16x16_20: 1485608928656429722
+      Amelia_shopping_cart_16x16_21: 3945481191211481639
+      Amelia_shopping_cart_16x16_22: -6431237751819892561
+      Amelia_shopping_cart_16x16_23: -1355500248237705792
+      Amelia_shopping_cart_16x16_3: 52191494660645268
+      Amelia_shopping_cart_16x16_4: 1435762336110941710
+      Amelia_shopping_cart_16x16_5: 3987392192423443106
+      Amelia_shopping_cart_16x16_6: 8788185303844889390
+      Amelia_shopping_cart_16x16_7: -940520778909449433
+      Amelia_shopping_cart_16x16_8: 2963124001202165013
+      Amelia_shopping_cart_16x16_9: -4806171489150586121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bouncer_sit_16x16_0: -2658591243529914428
+      Bouncer_sit_16x16_1: 3636944616132126072
+      Bouncer_sit_16x16_10: 3108754350239494795
+      Bouncer_sit_16x16_11: 87941188003448580
+      Bouncer_sit_16x16_2: 1959782516982474095
+      Bouncer_sit_16x16_3: -6090790130366706344
+      Bouncer_sit_16x16_4: -6861394066304665030
+      Bouncer_sit_16x16_5: 136945347773564736
+      Bouncer_sit_16x16_6: -4980962364367790634
+      Bouncer_sit_16x16_7: -869319012457578113
+      Bouncer_sit_16x16_8: -2395200137606377224
+      Bouncer_sit_16x16_9: -3395918041262981999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

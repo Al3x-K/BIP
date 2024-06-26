@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Oscar_idle_anim_48x48_0: -934265914894272751
+      kid_Oscar_idle_anim_48x48_1: 5155081963502020793
+      kid_Oscar_idle_anim_48x48_10: 7064310327078752408
+      kid_Oscar_idle_anim_48x48_11: 2431763922029791307
+      kid_Oscar_idle_anim_48x48_12: -2701835473861654497
+      kid_Oscar_idle_anim_48x48_13: -5512171117858314745
+      kid_Oscar_idle_anim_48x48_14: 8439771236144278995
+      kid_Oscar_idle_anim_48x48_15: -3243239643278578358
+      kid_Oscar_idle_anim_48x48_16: 7311449135349871431
+      kid_Oscar_idle_anim_48x48_17: 4844996109152470816
+      kid_Oscar_idle_anim_48x48_18: 962626992489833904
+      kid_Oscar_idle_anim_48x48_19: 4599346963635249254
+      kid_Oscar_idle_anim_48x48_2: -3022530611835652940
+      kid_Oscar_idle_anim_48x48_20: 2262917401239518153
+      kid_Oscar_idle_anim_48x48_21: 8551825688632488365
+      kid_Oscar_idle_anim_48x48_22: 1156609907994546944
+      kid_Oscar_idle_anim_48x48_23: -8697232787964472883
+      kid_Oscar_idle_anim_48x48_3: -2722350243434748923
+      kid_Oscar_idle_anim_48x48_4: -3373161724637344725
+      kid_Oscar_idle_anim_48x48_5: -1153356539470588461
+      kid_Oscar_idle_anim_48x48_6: 1517930804819646652
+      kid_Oscar_idle_anim_48x48_7: -1111419062162838824
+      kid_Oscar_idle_anim_48x48_8: 3301713108152602601
+      kid_Oscar_idle_anim_48x48_9: 6195999202486678508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

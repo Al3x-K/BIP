@@ -148,6 +148,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -560,7 +584,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Prisoner_2_run_16x16_0: 3564418132821674585
+      Prisoner_2_run_16x16_1: 894793045276815707
+      Prisoner_2_run_16x16_10: 8241653814172498285
+      Prisoner_2_run_16x16_11: 8215177087260135335
+      Prisoner_2_run_16x16_12: -7649431029259047060
+      Prisoner_2_run_16x16_13: 1625826654065949072
+      Prisoner_2_run_16x16_14: 1370959632143912894
+      Prisoner_2_run_16x16_15: 1188405443499530568
+      Prisoner_2_run_16x16_16: -4030502188918565094
+      Prisoner_2_run_16x16_17: -5907281205294019157
+      Prisoner_2_run_16x16_18: 7691214222748584552
+      Prisoner_2_run_16x16_2: -4484899507977077995
+      Prisoner_2_run_16x16_3: -6968053280949673867
+      Prisoner_2_run_16x16_4: 7751259506422122373
+      Prisoner_2_run_16x16_5: -2428674824710449195
+      Prisoner_2_run_16x16_6: 6209649170555157902
+      Prisoner_2_run_16x16_7: -2333265440436240783
+      Prisoner_2_run_16x16_8: -2727508015150934435
+      Prisoner_2_run_16x16_9: -3989170059152927617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dan_idle_anim_32x32_0: 3818240265293159199
+      Dan_idle_anim_32x32_1: -2549438813141857862
+      Dan_idle_anim_32x32_10: -2058460654847993886
+      Dan_idle_anim_32x32_11: 2156855468299936898
+      Dan_idle_anim_32x32_12: -1390447813205465752
+      Dan_idle_anim_32x32_13: -886839964944649504
+      Dan_idle_anim_32x32_2: -3187242449732183962
+      Dan_idle_anim_32x32_3: -5795761070104244079
+      Dan_idle_anim_32x32_4: -2232323971346787490
+      Dan_idle_anim_32x32_5: 1084053800971305369
+      Dan_idle_anim_32x32_6: -3358086806231575146
+      Dan_idle_anim_32x32_7: 5644827107626347911
+      Dan_idle_anim_32x32_8: -4722351208034969732
+      Dan_idle_anim_32x32_9: 2246790373784220536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

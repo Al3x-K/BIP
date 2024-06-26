@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_sit2_32x32_0: 1651980913734610464
+      Conference_man_sit2_32x32_1: 9045989392239088741
+      Conference_man_sit2_32x32_10: 1487934464192931665
+      Conference_man_sit2_32x32_11: 6299553477203547797
+      Conference_man_sit2_32x32_2: 2691647553039661045
+      Conference_man_sit2_32x32_3: -4574333059793691957
+      Conference_man_sit2_32x32_4: -4318584165191900497
+      Conference_man_sit2_32x32_5: -6780293073404032364
+      Conference_man_sit2_32x32_6: 7097703234532856480
+      Conference_man_sit2_32x32_7: 140348687972058132
+      Conference_man_sit2_32x32_8: 3156331913678349862
+      Conference_man_sit2_32x32_9: 5477910002522732678
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

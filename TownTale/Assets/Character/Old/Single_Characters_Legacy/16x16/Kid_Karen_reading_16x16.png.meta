@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Karen_reading_16x16_0: -7809007848831851549
+      Kid_Karen_reading_16x16_1: 4321388207601793808
+      Kid_Karen_reading_16x16_10: -7633955162740254028
+      Kid_Karen_reading_16x16_11: -9187742784035564540
+      Kid_Karen_reading_16x16_12: 2761531859476894069
+      Kid_Karen_reading_16x16_13: -5611627926277660310
+      Kid_Karen_reading_16x16_14: 650573599047503720
+      Kid_Karen_reading_16x16_15: -7235317941746051536
+      Kid_Karen_reading_16x16_16: 8933806970894071775
+      Kid_Karen_reading_16x16_17: 4257572131627434606
+      Kid_Karen_reading_16x16_2: -1606003785802114321
+      Kid_Karen_reading_16x16_3: 8623968336007314873
+      Kid_Karen_reading_16x16_4: -6974925005009288281
+      Kid_Karen_reading_16x16_5: -8818174420909719493
+      Kid_Karen_reading_16x16_6: 5932288120809391512
+      Kid_Karen_reading_16x16_7: -2584080015562546481
+      Kid_Karen_reading_16x16_8: -2283563227782378026
+      Kid_Karen_reading_16x16_9: -1150743514751566804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

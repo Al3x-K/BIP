@@ -313,6 +313,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1880,7 +1904,81 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character_template_32x32_0: -567785793700933354
+      Character_template_32x32_1: -1915661805687326243
+      Character_template_32x32_10: -248849564311659400
+      Character_template_32x32_11: -2288099520923943599
+      Character_template_32x32_12: -8639839009255136319
+      Character_template_32x32_13: -646019039938510568
+      Character_template_32x32_14: 5685168145715756004
+      Character_template_32x32_15: 2536354370441645965
+      Character_template_32x32_16: 5948502390575455229
+      Character_template_32x32_17: 8946460475794218395
+      Character_template_32x32_18: 1764438765891262581
+      Character_template_32x32_19: -651624729331324960
+      Character_template_32x32_2: -4351948849610325446
+      Character_template_32x32_20: 8504993013459601750
+      Character_template_32x32_21: 4576806671595340558
+      Character_template_32x32_22: -9161935854725911055
+      Character_template_32x32_23: -5332446486625181429
+      Character_template_32x32_24: 5053307285773614554
+      Character_template_32x32_25: -5400975268297025207
+      Character_template_32x32_26: -3321007314622600600
+      Character_template_32x32_27: -5581996668162069560
+      Character_template_32x32_28: 1230203076766268763
+      Character_template_32x32_29: 8470655766534661174
+      Character_template_32x32_3: -4185730508865301511
+      Character_template_32x32_30: 8270512290229205094
+      Character_template_32x32_31: -2072984865297602051
+      Character_template_32x32_32: -7572449807705566911
+      Character_template_32x32_33: -6954494119424979692
+      Character_template_32x32_34: -1184319226209050221
+      Character_template_32x32_35: -2077411914587816045
+      Character_template_32x32_36: -4851298061785138723
+      Character_template_32x32_37: 9091719608419373435
+      Character_template_32x32_38: -308657438852245829
+      Character_template_32x32_39: -3030995774365172261
+      Character_template_32x32_4: -7047779556962768005
+      Character_template_32x32_40: -2893380502498940447
+      Character_template_32x32_41: 291523855512333411
+      Character_template_32x32_42: 7002701188433957217
+      Character_template_32x32_43: -4900698981874799382
+      Character_template_32x32_44: -2465957647463405700
+      Character_template_32x32_45: 4147059177304114751
+      Character_template_32x32_46: -1325096880720966676
+      Character_template_32x32_47: 6191060785820197232
+      Character_template_32x32_48: -3384811273942556692
+      Character_template_32x32_49: 5559460809181811393
+      Character_template_32x32_5: -157287453487522416
+      Character_template_32x32_50: -7749575796341927953
+      Character_template_32x32_51: 7447990679812685442
+      Character_template_32x32_52: -4730736619075531060
+      Character_template_32x32_53: 8692216227801471099
+      Character_template_32x32_54: -2187794373426568146
+      Character_template_32x32_55: 1886495850724990331
+      Character_template_32x32_56: -5001825055279389559
+      Character_template_32x32_57: 5086568355183976717
+      Character_template_32x32_58: -7973991516691707253
+      Character_template_32x32_59: 268097804401712474
+      Character_template_32x32_6: -5465811476406015336
+      Character_template_32x32_60: 7806072916335542054
+      Character_template_32x32_61: -7163128276083274283
+      Character_template_32x32_62: -5611213826491866652
+      Character_template_32x32_63: -4335857105975721286
+      Character_template_32x32_64: 7761077952413908136
+      Character_template_32x32_65: 873719726559462041
+      Character_template_32x32_66: 6863446815934129753
+      Character_template_32x32_67: -4532373552876244340
+      Character_template_32x32_68: 8487921128629699186
+      Character_template_32x32_69: -3548946587993351444
+      Character_template_32x32_7: 7890023448551295022
+      Character_template_32x32_70: 3022828326002668942
+      Character_template_32x32_71: 19948221014598244
+      Character_template_32x32_72: 3339390689600794926
+      Character_template_32x32_73: 1994087029450479815
+      Character_template_32x32_8: -2515601601097063730
+      Character_template_32x32_9: -3708888785046717070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

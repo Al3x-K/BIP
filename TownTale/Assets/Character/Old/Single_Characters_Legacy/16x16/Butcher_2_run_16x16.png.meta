@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Butcher_2_run_16x16_0: 3064766573620301073
+      Butcher_2_run_16x16_1: -1024292676721380183
+      Butcher_2_run_16x16_10: -6193776200514745100
+      Butcher_2_run_16x16_11: -3743942899195570609
+      Butcher_2_run_16x16_12: -7036226671670260275
+      Butcher_2_run_16x16_13: -6626869426001091514
+      Butcher_2_run_16x16_14: 170986751342596
+      Butcher_2_run_16x16_15: -9092702956054316959
+      Butcher_2_run_16x16_16: -2544318424253987306
+      Butcher_2_run_16x16_17: 7997393509798045205
+      Butcher_2_run_16x16_18: -8808800860298019496
+      Butcher_2_run_16x16_19: 2838817567032371837
+      Butcher_2_run_16x16_2: 584033430127378797
+      Butcher_2_run_16x16_20: -8697956706176467200
+      Butcher_2_run_16x16_21: -2480511397738357120
+      Butcher_2_run_16x16_22: 8739661024916661002
+      Butcher_2_run_16x16_3: -4549790038754218046
+      Butcher_2_run_16x16_4: -2112825898216098030
+      Butcher_2_run_16x16_5: 4494364824869118724
+      Butcher_2_run_16x16_6: -8917138070170566222
+      Butcher_2_run_16x16_7: -3093571820582895256
+      Butcher_2_run_16x16_8: -4200571427280325997
+      Butcher_2_run_16x16_9: -8217717618155100327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

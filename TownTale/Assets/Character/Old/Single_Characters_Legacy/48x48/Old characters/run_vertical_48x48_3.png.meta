@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      run_vertical_48x48_3_0: 5658286817220359820
+      run_vertical_48x48_3_1: 8926991644084562013
+      run_vertical_48x48_3_10: 8818909303584603352
+      run_vertical_48x48_3_11: -6532718493263742998
+      run_vertical_48x48_3_12: 2937583290634590724
+      run_vertical_48x48_3_13: 3248173891955491519
+      run_vertical_48x48_3_14: -8161128806039159160
+      run_vertical_48x48_3_15: 7088971272540244633
+      run_vertical_48x48_3_16: -5017459084286003913
+      run_vertical_48x48_3_17: -6351800960465592829
+      run_vertical_48x48_3_18: -431393796245426856
+      run_vertical_48x48_3_19: -8858746783692519624
+      run_vertical_48x48_3_2: -7368139143304329061
+      run_vertical_48x48_3_20: 6271444766980980386
+      run_vertical_48x48_3_21: -1649186819428552880
+      run_vertical_48x48_3_22: 6575116788534422159
+      run_vertical_48x48_3_3: 4931063673828019547
+      run_vertical_48x48_3_4: -99392867137440251
+      run_vertical_48x48_3_5: -6385236911938790937
+      run_vertical_48x48_3_6: 2421186161840209530
+      run_vertical_48x48_3_7: -3622868175171314726
+      run_vertical_48x48_3_8: -2916940119283702095
+      run_vertical_48x48_3_9: -1834050808115618493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

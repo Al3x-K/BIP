@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pier_sit_32x32_0: 5351549447350240515
+      Pier_sit_32x32_1: 2415974423205889020
+      Pier_sit_32x32_10: -6301354465137462062
+      Pier_sit_32x32_11: -4210682394018956184
+      Pier_sit_32x32_2: 3617156865404886364
+      Pier_sit_32x32_3: -768363719888566269
+      Pier_sit_32x32_4: 5241530523335223725
+      Pier_sit_32x32_5: 373727745186075295
+      Pier_sit_32x32_6: 2636967180286986388
+      Pier_sit_32x32_7: -8945975468193483385
+      Pier_sit_32x32_8: -4550696404407470910
+      Pier_sit_32x32_9: -2236234877860980567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

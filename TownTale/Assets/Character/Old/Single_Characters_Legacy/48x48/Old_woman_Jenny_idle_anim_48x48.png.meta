@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_woman_Jenny_idle_anim_48x48_0: 3118084053872248275
+      Old_woman_Jenny_idle_anim_48x48_1: 6845093059604640617
+      Old_woman_Jenny_idle_anim_48x48_10: -198392937882358197
+      Old_woman_Jenny_idle_anim_48x48_11: -3849710286848300621
+      Old_woman_Jenny_idle_anim_48x48_12: 6358479514385746210
+      Old_woman_Jenny_idle_anim_48x48_2: 3742736747386829428
+      Old_woman_Jenny_idle_anim_48x48_3: -1847437284375359618
+      Old_woman_Jenny_idle_anim_48x48_4: -8863637060698184139
+      Old_woman_Jenny_idle_anim_48x48_5: -6477387947969620444
+      Old_woman_Jenny_idle_anim_48x48_6: 1593335551784048321
+      Old_woman_Jenny_idle_anim_48x48_7: 740160651032530508
+      Old_woman_Jenny_idle_anim_48x48_8: -7750365661767986650
+      Old_woman_Jenny_idle_anim_48x48_9: -8334529230510543965
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

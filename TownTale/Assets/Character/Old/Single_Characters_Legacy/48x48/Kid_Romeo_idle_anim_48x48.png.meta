@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Romeo_idle_anim_48x48_0: 1938557728544444651
+      Kid_Romeo_idle_anim_48x48_1: -3776155417101177333
+      Kid_Romeo_idle_anim_48x48_10: 6965755628421144547
+      Kid_Romeo_idle_anim_48x48_11: -5390297063390471493
+      Kid_Romeo_idle_anim_48x48_12: 3256189406140615396
+      Kid_Romeo_idle_anim_48x48_13: -3476093997750870294
+      Kid_Romeo_idle_anim_48x48_14: 8245095272948011029
+      Kid_Romeo_idle_anim_48x48_15: 403752423504990089
+      Kid_Romeo_idle_anim_48x48_16: 6020938094228556787
+      Kid_Romeo_idle_anim_48x48_17: 6536822668974379181
+      Kid_Romeo_idle_anim_48x48_18: -4445101908111847987
+      Kid_Romeo_idle_anim_48x48_19: -3514634903133151667
+      Kid_Romeo_idle_anim_48x48_2: 255331915199716239
+      Kid_Romeo_idle_anim_48x48_20: -4623779522947384634
+      Kid_Romeo_idle_anim_48x48_21: -4168411965170263251
+      Kid_Romeo_idle_anim_48x48_22: 4167801249521912306
+      Kid_Romeo_idle_anim_48x48_23: -361416445570664265
+      Kid_Romeo_idle_anim_48x48_3: 3837800488946675545
+      Kid_Romeo_idle_anim_48x48_4: 4294382639248602490
+      Kid_Romeo_idle_anim_48x48_5: -6666322565580572863
+      Kid_Romeo_idle_anim_48x48_6: -7258377336249229919
+      Kid_Romeo_idle_anim_48x48_7: -1662742022917998243
+      Kid_Romeo_idle_anim_48x48_8: -4842525071832858930
+      Kid_Romeo_idle_anim_48x48_9: -6583493721386136137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

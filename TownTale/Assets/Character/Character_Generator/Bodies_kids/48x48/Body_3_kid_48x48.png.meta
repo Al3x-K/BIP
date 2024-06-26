@@ -265,6 +265,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1496,7 +1520,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Body_3_kid_48x48_0: -2358035916196872134
+      Body_3_kid_48x48_1: -5054346157949330768
+      Body_3_kid_48x48_10: 6757157532605239930
+      Body_3_kid_48x48_11: -922461162306925195
+      Body_3_kid_48x48_12: -6161222889895820221
+      Body_3_kid_48x48_13: 5536985897535076479
+      Body_3_kid_48x48_14: 7817763706927751871
+      Body_3_kid_48x48_15: -6488968831170048733
+      Body_3_kid_48x48_16: 2927212949670917986
+      Body_3_kid_48x48_17: 739047818283637516
+      Body_3_kid_48x48_18: -3961884673366952755
+      Body_3_kid_48x48_19: -5332936017783264173
+      Body_3_kid_48x48_2: -5465310036772292707
+      Body_3_kid_48x48_20: -6135857576001047377
+      Body_3_kid_48x48_21: 1188393266008034612
+      Body_3_kid_48x48_22: -460096994136441427
+      Body_3_kid_48x48_23: -1967897669978539277
+      Body_3_kid_48x48_24: -8506858774631529496
+      Body_3_kid_48x48_25: 2024528759192117223
+      Body_3_kid_48x48_26: 5395955437431596316
+      Body_3_kid_48x48_27: -6742651534667954458
+      Body_3_kid_48x48_28: -4613013688210969530
+      Body_3_kid_48x48_29: -6374936419249131416
+      Body_3_kid_48x48_3: -3183459170122376198
+      Body_3_kid_48x48_30: -8400703943637995341
+      Body_3_kid_48x48_31: -8207175185463048597
+      Body_3_kid_48x48_32: 8569469819007221988
+      Body_3_kid_48x48_33: 8639124605593244362
+      Body_3_kid_48x48_34: -8056626111504196606
+      Body_3_kid_48x48_35: 5147436484183545284
+      Body_3_kid_48x48_36: -5322937060330817138
+      Body_3_kid_48x48_37: -3741763151035844412
+      Body_3_kid_48x48_38: 4202313417509367657
+      Body_3_kid_48x48_39: -1671422443883915183
+      Body_3_kid_48x48_4: -8343663786061373570
+      Body_3_kid_48x48_40: -6906676065737177522
+      Body_3_kid_48x48_41: 2595937455861930067
+      Body_3_kid_48x48_42: 6096044460231497922
+      Body_3_kid_48x48_43: -2987704114180549401
+      Body_3_kid_48x48_44: 7663552573699507648
+      Body_3_kid_48x48_45: 609073373970089649
+      Body_3_kid_48x48_46: 4168502432387746999
+      Body_3_kid_48x48_47: 6761631840688923780
+      Body_3_kid_48x48_48: -1281669348796829540
+      Body_3_kid_48x48_49: 1612134631789536030
+      Body_3_kid_48x48_5: 8933944457339620567
+      Body_3_kid_48x48_50: -5277666516645204802
+      Body_3_kid_48x48_51: -879666562125963304
+      Body_3_kid_48x48_52: -3507309076229307615
+      Body_3_kid_48x48_53: -5583387152370419485
+      Body_3_kid_48x48_54: 8245517384647355114
+      Body_3_kid_48x48_55: 8864504619396164757
+      Body_3_kid_48x48_56: -4013776231498298407
+      Body_3_kid_48x48_57: -3720865380503755479
+      Body_3_kid_48x48_6: 3689730651537249628
+      Body_3_kid_48x48_7: 7084944145385060047
+      Body_3_kid_48x48_8: -5732954439091335667
+      Body_3_kid_48x48_9: 1950477101264615889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

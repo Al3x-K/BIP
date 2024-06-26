@@ -427,6 +427,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2792,7 +2816,119 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_17_Medical_Mask_01_0: 3985212553742484606
+      Accessory_17_Medical_Mask_01_1: 2481150574305123909
+      Accessory_17_Medical_Mask_01_10: -1962072211928591716
+      Accessory_17_Medical_Mask_01_100: -6278424984856809988
+      Accessory_17_Medical_Mask_01_101: -4397116742996980447
+      Accessory_17_Medical_Mask_01_102: -1111101375316629024
+      Accessory_17_Medical_Mask_01_103: -2786599413290782596
+      Accessory_17_Medical_Mask_01_104: 8590275943967157826
+      Accessory_17_Medical_Mask_01_105: -3233496530526777868
+      Accessory_17_Medical_Mask_01_106: -6134596379104885009
+      Accessory_17_Medical_Mask_01_107: 8398896637865446854
+      Accessory_17_Medical_Mask_01_108: 4759086601579101121
+      Accessory_17_Medical_Mask_01_109: 8736271389485527426
+      Accessory_17_Medical_Mask_01_11: 7807336722818187308
+      Accessory_17_Medical_Mask_01_110: -2173665762402604054
+      Accessory_17_Medical_Mask_01_111: 3601040105799636526
+      Accessory_17_Medical_Mask_01_12: 4612222673981083044
+      Accessory_17_Medical_Mask_01_13: 1973552064618524457
+      Accessory_17_Medical_Mask_01_14: 892370030701633733
+      Accessory_17_Medical_Mask_01_15: 6179167256179643970
+      Accessory_17_Medical_Mask_01_16: 8419994790823083129
+      Accessory_17_Medical_Mask_01_17: 1656238195671211668
+      Accessory_17_Medical_Mask_01_18: 2747265588110464773
+      Accessory_17_Medical_Mask_01_19: 8288275245259809861
+      Accessory_17_Medical_Mask_01_2: 1433622467976208114
+      Accessory_17_Medical_Mask_01_20: -4535659329975129613
+      Accessory_17_Medical_Mask_01_21: 610407017111281984
+      Accessory_17_Medical_Mask_01_22: -1229615456421263722
+      Accessory_17_Medical_Mask_01_23: -6024207159145817687
+      Accessory_17_Medical_Mask_01_24: -180644240027797181
+      Accessory_17_Medical_Mask_01_25: 9054308486921769584
+      Accessory_17_Medical_Mask_01_26: 6656538559799037606
+      Accessory_17_Medical_Mask_01_27: -7351443511911638037
+      Accessory_17_Medical_Mask_01_28: 753375648238273111
+      Accessory_17_Medical_Mask_01_29: 6944448924515821346
+      Accessory_17_Medical_Mask_01_3: -665197682612365634
+      Accessory_17_Medical_Mask_01_30: 7872875092730792834
+      Accessory_17_Medical_Mask_01_31: -5456141714801497329
+      Accessory_17_Medical_Mask_01_32: -2716481545077697188
+      Accessory_17_Medical_Mask_01_33: 7952178915132356980
+      Accessory_17_Medical_Mask_01_34: 7681368691831403202
+      Accessory_17_Medical_Mask_01_35: 6988105073798811867
+      Accessory_17_Medical_Mask_01_36: 4998315279941840077
+      Accessory_17_Medical_Mask_01_37: -2194439348750783404
+      Accessory_17_Medical_Mask_01_38: 1468098983640043796
+      Accessory_17_Medical_Mask_01_39: -2210499223378936994
+      Accessory_17_Medical_Mask_01_4: -4676087084910410918
+      Accessory_17_Medical_Mask_01_40: -3571671075899298771
+      Accessory_17_Medical_Mask_01_41: -7771421554103605056
+      Accessory_17_Medical_Mask_01_42: 8136050102498619948
+      Accessory_17_Medical_Mask_01_43: -167170776936352112
+      Accessory_17_Medical_Mask_01_44: 2303368930855975888
+      Accessory_17_Medical_Mask_01_45: 7639146502651530656
+      Accessory_17_Medical_Mask_01_46: -6882349754328643817
+      Accessory_17_Medical_Mask_01_47: -5071235967242757111
+      Accessory_17_Medical_Mask_01_48: 5898744702448134284
+      Accessory_17_Medical_Mask_01_49: 2634922464139097088
+      Accessory_17_Medical_Mask_01_5: 3511826105402425778
+      Accessory_17_Medical_Mask_01_50: -6312191772909150078
+      Accessory_17_Medical_Mask_01_51: 4402315199789475237
+      Accessory_17_Medical_Mask_01_52: -5425705549335455580
+      Accessory_17_Medical_Mask_01_53: -7054057669749825146
+      Accessory_17_Medical_Mask_01_54: -5890973302457841357
+      Accessory_17_Medical_Mask_01_55: 4494388744500584130
+      Accessory_17_Medical_Mask_01_56: 6247311809694499365
+      Accessory_17_Medical_Mask_01_57: 3006928327955617804
+      Accessory_17_Medical_Mask_01_58: -4243787614442883625
+      Accessory_17_Medical_Mask_01_59: -5437212580722194497
+      Accessory_17_Medical_Mask_01_6: 8082580374058512320
+      Accessory_17_Medical_Mask_01_60: -754385631036499220
+      Accessory_17_Medical_Mask_01_61: 3342222914476602493
+      Accessory_17_Medical_Mask_01_62: 5724713761452742308
+      Accessory_17_Medical_Mask_01_63: -4180280134987695631
+      Accessory_17_Medical_Mask_01_64: -5859954707236607506
+      Accessory_17_Medical_Mask_01_65: -4735601538148600122
+      Accessory_17_Medical_Mask_01_66: 2391600976761635956
+      Accessory_17_Medical_Mask_01_67: -1654830779488943063
+      Accessory_17_Medical_Mask_01_68: 8532836577449273180
+      Accessory_17_Medical_Mask_01_69: 4442187438244173860
+      Accessory_17_Medical_Mask_01_7: -2070928651536091740
+      Accessory_17_Medical_Mask_01_70: 2671471783265979426
+      Accessory_17_Medical_Mask_01_71: -6891344224289262379
+      Accessory_17_Medical_Mask_01_72: 4268627700617661242
+      Accessory_17_Medical_Mask_01_73: 1169469781829431482
+      Accessory_17_Medical_Mask_01_74: 2811477143538902448
+      Accessory_17_Medical_Mask_01_75: 8325908874348072347
+      Accessory_17_Medical_Mask_01_76: -5951321211285085894
+      Accessory_17_Medical_Mask_01_77: 8225926291438687036
+      Accessory_17_Medical_Mask_01_78: 3663111095722778544
+      Accessory_17_Medical_Mask_01_79: -3156864811225959465
+      Accessory_17_Medical_Mask_01_8: -8581433750785780463
+      Accessory_17_Medical_Mask_01_80: 498926731343949489
+      Accessory_17_Medical_Mask_01_81: 246031983730763627
+      Accessory_17_Medical_Mask_01_82: 2334512474351893865
+      Accessory_17_Medical_Mask_01_83: -3168708348277258483
+      Accessory_17_Medical_Mask_01_84: -4657068699096817443
+      Accessory_17_Medical_Mask_01_85: 8016607834892243143
+      Accessory_17_Medical_Mask_01_86: 5902185877915672740
+      Accessory_17_Medical_Mask_01_87: -7020035638955361106
+      Accessory_17_Medical_Mask_01_88: -1375332535718201795
+      Accessory_17_Medical_Mask_01_89: 7146017062951566635
+      Accessory_17_Medical_Mask_01_9: -8953446705082259833
+      Accessory_17_Medical_Mask_01_90: 6129462447244143127
+      Accessory_17_Medical_Mask_01_91: -6842509333586963977
+      Accessory_17_Medical_Mask_01_92: 8516313755990195111
+      Accessory_17_Medical_Mask_01_93: -5824127361750638733
+      Accessory_17_Medical_Mask_01_94: 467907009440395181
+      Accessory_17_Medical_Mask_01_95: -1370405869268173725
+      Accessory_17_Medical_Mask_01_96: -2110880955991355434
+      Accessory_17_Medical_Mask_01_97: 473203150714922879
+      Accessory_17_Medical_Mask_01_98: -6734596709189312420
+      Accessory_17_Medical_Mask_01_99: 6552043174133911654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bob_idle_anim_48x48_0: 831543710325836122
+      Bob_idle_anim_48x48_1: 3338227350339112376
+      Bob_idle_anim_48x48_10: 619538298773257506
+      Bob_idle_anim_48x48_11: 3966555982802685239
+      Bob_idle_anim_48x48_12: -8968938349002617098
+      Bob_idle_anim_48x48_13: -4504635487249204502
+      Bob_idle_anim_48x48_2: -7804176378215013095
+      Bob_idle_anim_48x48_3: 158246801873651653
+      Bob_idle_anim_48x48_4: -8465323890994823232
+      Bob_idle_anim_48x48_5: -8353842248846761725
+      Bob_idle_anim_48x48_6: -4116828821013658098
+      Bob_idle_anim_48x48_7: -8905050139056182904
+      Bob_idle_anim_48x48_8: 3792459370451621365
+      Bob_idle_anim_48x48_9: -142127553761280378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

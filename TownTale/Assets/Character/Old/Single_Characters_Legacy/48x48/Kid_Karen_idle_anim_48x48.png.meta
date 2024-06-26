@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Karen_idle_anim_48x48_0: -5568887131719755988
+      Kid_Karen_idle_anim_48x48_1: 7974014494134436395
+      Kid_Karen_idle_anim_48x48_10: -2258539937849294058
+      Kid_Karen_idle_anim_48x48_11: 4271694618635077654
+      Kid_Karen_idle_anim_48x48_12: -4232026711670334934
+      Kid_Karen_idle_anim_48x48_13: 5573513068612262465
+      Kid_Karen_idle_anim_48x48_14: 591351942675541675
+      Kid_Karen_idle_anim_48x48_15: -8421626772093034772
+      Kid_Karen_idle_anim_48x48_16: 5174168991598259414
+      Kid_Karen_idle_anim_48x48_17: 1303927775230966923
+      Kid_Karen_idle_anim_48x48_18: 2179657744260135935
+      Kid_Karen_idle_anim_48x48_19: 3983019223209502054
+      Kid_Karen_idle_anim_48x48_2: 2612723928775935336
+      Kid_Karen_idle_anim_48x48_20: -5093588449729835757
+      Kid_Karen_idle_anim_48x48_21: -589800781213483813
+      Kid_Karen_idle_anim_48x48_22: -5724139814504764968
+      Kid_Karen_idle_anim_48x48_23: -1836549170538514279
+      Kid_Karen_idle_anim_48x48_3: 3584820831514648289
+      Kid_Karen_idle_anim_48x48_4: -2203518286527387476
+      Kid_Karen_idle_anim_48x48_5: -7010383352581809427
+      Kid_Karen_idle_anim_48x48_6: -484958647717874734
+      Kid_Karen_idle_anim_48x48_7: 5097439293912565091
+      Kid_Karen_idle_anim_48x48_8: 5660449110842243755
+      Kid_Karen_idle_anim_48x48_9: -8839422953992829260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

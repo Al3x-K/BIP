@@ -124,6 +124,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -368,7 +392,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Molly_sit3_48x48_0: 489826222036279027
+      Molly_sit3_48x48_1: 5075633908948245090
+      Molly_sit3_48x48_10: 1426061209555890574
+      Molly_sit3_48x48_2: 471247625089536911
+      Molly_sit3_48x48_3: -4161050210384158466
+      Molly_sit3_48x48_4: -8876423877117825913
+      Molly_sit3_48x48_5: -5346766723881572109
+      Molly_sit3_48x48_6: -6637926539532533339
+      Molly_sit3_48x48_7: 7485674279550495089
+      Molly_sit3_48x48_8: -1732176332680043308
+      Molly_sit3_48x48_9: 4367513231815239640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

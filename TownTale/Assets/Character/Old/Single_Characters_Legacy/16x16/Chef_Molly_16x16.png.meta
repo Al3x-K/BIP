@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Molly_16x16_0: 75804907758544297
+      Chef_Molly_16x16_1: 4201960330031444707
+      Chef_Molly_16x16_10: 8234473892770560166
+      Chef_Molly_16x16_11: -990835058272619965
+      Chef_Molly_16x16_12: -7370021446513647805
+      Chef_Molly_16x16_13: -2738735961146142236
+      Chef_Molly_16x16_14: 3304474831405840782
+      Chef_Molly_16x16_15: 697303536248265607
+      Chef_Molly_16x16_16: 2619665861404022003
+      Chef_Molly_16x16_17: 3296816621999381952
+      Chef_Molly_16x16_18: -8569240034912660247
+      Chef_Molly_16x16_19: 3868453346175613952
+      Chef_Molly_16x16_2: -1419086986466996476
+      Chef_Molly_16x16_20: 2000506208111673044
+      Chef_Molly_16x16_21: -2580508097816470521
+      Chef_Molly_16x16_22: 3497827576734868739
+      Chef_Molly_16x16_23: -3496004857886829801
+      Chef_Molly_16x16_3: -3721408035055716233
+      Chef_Molly_16x16_4: 5416942498725640588
+      Chef_Molly_16x16_5: 2988884121558762764
+      Chef_Molly_16x16_6: -3963358145239961423
+      Chef_Molly_16x16_7: -5282221828714443166
+      Chef_Molly_16x16_8: 5476538510909933726
+      Chef_Molly_16x16_9: -1168993263708061129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

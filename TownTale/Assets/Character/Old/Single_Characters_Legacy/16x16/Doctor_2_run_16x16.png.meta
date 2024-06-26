@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doctor_2_run_16x16_0: -1412945053190894351
+      Doctor_2_run_16x16_1: -9210271995022392054
+      Doctor_2_run_16x16_10: -3145191042458487353
+      Doctor_2_run_16x16_11: -6276757438594000677
+      Doctor_2_run_16x16_12: 5258512666228709698
+      Doctor_2_run_16x16_2: -7058707720181530257
+      Doctor_2_run_16x16_3: -883231735509570008
+      Doctor_2_run_16x16_4: -396848481290578616
+      Doctor_2_run_16x16_5: 8344921690658727052
+      Doctor_2_run_16x16_6: 2452225999759174628
+      Doctor_2_run_16x16_7: -9040464190561530754
+      Doctor_2_run_16x16_8: -2602173508951844492
+      Doctor_2_run_16x16_9: -3574154783081426842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -169,6 +169,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -728,7 +752,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Rob_16x16_0: 2337205087833135102
+      Chef_Rob_16x16_1: 8130122950618360214
+      Chef_Rob_16x16_10: 4235853641882199201
+      Chef_Rob_16x16_11: 5496541338660561490
+      Chef_Rob_16x16_12: -1427754956336454165
+      Chef_Rob_16x16_13: -8026581170018553073
+      Chef_Rob_16x16_14: -8915268096964585656
+      Chef_Rob_16x16_15: 5022521157577188497
+      Chef_Rob_16x16_16: -6575183217334252914
+      Chef_Rob_16x16_17: -7639442416234256816
+      Chef_Rob_16x16_18: 5490325256010681717
+      Chef_Rob_16x16_19: 3299067029965447585
+      Chef_Rob_16x16_2: 1569512327206047917
+      Chef_Rob_16x16_20: 6219228299638250595
+      Chef_Rob_16x16_21: -9216224792521435591
+      Chef_Rob_16x16_22: -6469784326043059259
+      Chef_Rob_16x16_23: 1337276138575039795
+      Chef_Rob_16x16_24: 8721963948632143230
+      Chef_Rob_16x16_25: 8961217228847056800
+      Chef_Rob_16x16_3: 5987346604892152983
+      Chef_Rob_16x16_4: -103595976015797745
+      Chef_Rob_16x16_5: -2853456938931121879
+      Chef_Rob_16x16_6: 6988767003699159740
+      Chef_Rob_16x16_7: -695733996427829474
+      Chef_Rob_16x16_8: 2398717952680956658
+      Chef_Rob_16x16_9: -8688920077204542164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

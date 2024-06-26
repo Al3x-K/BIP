@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishmonger_1_run_48x48_0: 2840711864959079546
+      Fishmonger_1_run_48x48_1: 6298584228252210363
+      Fishmonger_1_run_48x48_10: 162911793451512101
+      Fishmonger_1_run_48x48_11: 4755131341596440272
+      Fishmonger_1_run_48x48_12: 6732432512824998382
+      Fishmonger_1_run_48x48_13: 8386706381006912105
+      Fishmonger_1_run_48x48_14: -4462927517479085041
+      Fishmonger_1_run_48x48_15: 6152057431308394814
+      Fishmonger_1_run_48x48_16: 8968302670842020556
+      Fishmonger_1_run_48x48_17: 5002924889035232649
+      Fishmonger_1_run_48x48_18: -3325960800889126969
+      Fishmonger_1_run_48x48_19: -5990932774704196757
+      Fishmonger_1_run_48x48_2: -5087422347739282011
+      Fishmonger_1_run_48x48_20: -5121084463135288699
+      Fishmonger_1_run_48x48_21: 8486346051684194133
+      Fishmonger_1_run_48x48_22: -7920787840763864309
+      Fishmonger_1_run_48x48_3: 958916200608904939
+      Fishmonger_1_run_48x48_4: 4029702591079957841
+      Fishmonger_1_run_48x48_5: -6043722191358222868
+      Fishmonger_1_run_48x48_6: 7485770648112264743
+      Fishmonger_1_run_48x48_7: -6906792687258624386
+      Fishmonger_1_run_48x48_8: 6379127490478463660
+      Fishmonger_1_run_48x48_9: -1056214127268074170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

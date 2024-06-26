@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Edward_sit_32x32_0: -1039368797132242489
+      Edward_sit_32x32_1: 3792428556850593032
+      Edward_sit_32x32_10: -5965999670207492784
+      Edward_sit_32x32_11: 2157961137667473097
+      Edward_sit_32x32_2: -6293318631806556215
+      Edward_sit_32x32_3: -8332540387895153676
+      Edward_sit_32x32_4: 2893076504752620504
+      Edward_sit_32x32_5: 2103304531058405311
+      Edward_sit_32x32_6: -481924648143753782
+      Edward_sit_32x32_7: -6580785835665425066
+      Edward_sit_32x32_8: 1861073393054023094
+      Edward_sit_32x32_9: 3027445029618353861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

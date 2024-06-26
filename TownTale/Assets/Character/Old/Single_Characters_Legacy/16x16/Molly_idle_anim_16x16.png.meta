@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Molly_idle_anim_16x16_0: -4757416484428169739
+      Molly_idle_anim_16x16_1: 2274843622831407024
+      Molly_idle_anim_16x16_10: -1631346908127580020
+      Molly_idle_anim_16x16_11: 2302781989855550605
+      Molly_idle_anim_16x16_12: 5361986333811419263
+      Molly_idle_anim_16x16_13: -5340367774520741805
+      Molly_idle_anim_16x16_2: -7235207480872101953
+      Molly_idle_anim_16x16_3: -8440795484562934212
+      Molly_idle_anim_16x16_4: -6395156413862106648
+      Molly_idle_anim_16x16_5: -7628265234060493403
+      Molly_idle_anim_16x16_6: -1879367129980933212
+      Molly_idle_anim_16x16_7: 1839739553827657803
+      Molly_idle_anim_16x16_8: -2175813154313527291
+      Molly_idle_anim_16x16_9: 5275039018836848478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

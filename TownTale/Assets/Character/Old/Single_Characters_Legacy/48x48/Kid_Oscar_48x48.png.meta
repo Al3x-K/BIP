@@ -436,6 +436,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2864,7 +2888,122 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Oscar_48x48_0: 8198038754816091420
+      Kid_Oscar_48x48_1: 7144786556170916870
+      Kid_Oscar_48x48_10: -5884467030015791665
+      Kid_Oscar_48x48_100: -3557859965973161276
+      Kid_Oscar_48x48_101: -116010708310823376
+      Kid_Oscar_48x48_102: 7315861660606942429
+      Kid_Oscar_48x48_103: 1716819803661308896
+      Kid_Oscar_48x48_104: -8109427889487505694
+      Kid_Oscar_48x48_105: 5073220900010081444
+      Kid_Oscar_48x48_106: 9108229840127536806
+      Kid_Oscar_48x48_107: -5594368214323364210
+      Kid_Oscar_48x48_108: 2929530413336728650
+      Kid_Oscar_48x48_109: 3507148700273220980
+      Kid_Oscar_48x48_11: 8600680459966083813
+      Kid_Oscar_48x48_110: -4076146868498161894
+      Kid_Oscar_48x48_111: -3059511443020563795
+      Kid_Oscar_48x48_112: -9175414251879689524
+      Kid_Oscar_48x48_113: -8188127651260581183
+      Kid_Oscar_48x48_114: -4237504059421732845
+      Kid_Oscar_48x48_12: -3357518438301531361
+      Kid_Oscar_48x48_13: -8305680754615405374
+      Kid_Oscar_48x48_14: 546667045789882293
+      Kid_Oscar_48x48_15: 7360772350946731591
+      Kid_Oscar_48x48_16: 8070382935053354704
+      Kid_Oscar_48x48_17: -5543675476847168321
+      Kid_Oscar_48x48_18: 852068772910903725
+      Kid_Oscar_48x48_19: 7916124701944379836
+      Kid_Oscar_48x48_2: 6691664152457086013
+      Kid_Oscar_48x48_20: 1260444613105317313
+      Kid_Oscar_48x48_21: 6388152953186261522
+      Kid_Oscar_48x48_22: 3600029579498047459
+      Kid_Oscar_48x48_23: -8100583615373414798
+      Kid_Oscar_48x48_24: 794808718964492927
+      Kid_Oscar_48x48_25: 3218679172642155338
+      Kid_Oscar_48x48_26: -1494004726412087420
+      Kid_Oscar_48x48_27: -7804341900550765933
+      Kid_Oscar_48x48_28: 6116224810593204287
+      Kid_Oscar_48x48_29: 5296574953562839224
+      Kid_Oscar_48x48_3: -4560681583781134017
+      Kid_Oscar_48x48_30: -4488067834026057844
+      Kid_Oscar_48x48_31: 1060145126669033985
+      Kid_Oscar_48x48_32: -241643860499049007
+      Kid_Oscar_48x48_33: -139215035721220887
+      Kid_Oscar_48x48_34: -5627361941367789291
+      Kid_Oscar_48x48_35: 2373508794401971271
+      Kid_Oscar_48x48_36: -6708856652089257954
+      Kid_Oscar_48x48_37: -7080871106491723563
+      Kid_Oscar_48x48_38: -5842624508008998626
+      Kid_Oscar_48x48_39: -741668517132313157
+      Kid_Oscar_48x48_4: -7187668343280548084
+      Kid_Oscar_48x48_40: -1771692366504683215
+      Kid_Oscar_48x48_41: 998253015599354067
+      Kid_Oscar_48x48_42: -6992553616392498695
+      Kid_Oscar_48x48_43: -383298012105860413
+      Kid_Oscar_48x48_44: 591438579420385504
+      Kid_Oscar_48x48_45: 9030551734269645087
+      Kid_Oscar_48x48_46: 6927625747962932423
+      Kid_Oscar_48x48_47: 548026494298207010
+      Kid_Oscar_48x48_48: -6139427605997552487
+      Kid_Oscar_48x48_49: -3298141475703824012
+      Kid_Oscar_48x48_5: 3516069311531513649
+      Kid_Oscar_48x48_50: 722155747570702081
+      Kid_Oscar_48x48_51: -4673859587762840532
+      Kid_Oscar_48x48_52: 506016932584871569
+      Kid_Oscar_48x48_53: -2537038119566789617
+      Kid_Oscar_48x48_54: -3907629541302651157
+      Kid_Oscar_48x48_55: 5515627115648226775
+      Kid_Oscar_48x48_56: -3874324699127701037
+      Kid_Oscar_48x48_57: 1440785095733592848
+      Kid_Oscar_48x48_58: -1929692109553445335
+      Kid_Oscar_48x48_59: -5650441146027701483
+      Kid_Oscar_48x48_6: 8035737017360322409
+      Kid_Oscar_48x48_60: -932799303427742061
+      Kid_Oscar_48x48_61: -2722817377670956893
+      Kid_Oscar_48x48_62: 2523386053704381755
+      Kid_Oscar_48x48_63: 6523061863561568071
+      Kid_Oscar_48x48_64: -735264420006272045
+      Kid_Oscar_48x48_65: -8132402971864998112
+      Kid_Oscar_48x48_66: -7738450546128820824
+      Kid_Oscar_48x48_67: 1102707576787120531
+      Kid_Oscar_48x48_68: -6931328442861811703
+      Kid_Oscar_48x48_69: -1674609397512807817
+      Kid_Oscar_48x48_7: 2079016603921752789
+      Kid_Oscar_48x48_70: 4122442094013276736
+      Kid_Oscar_48x48_71: -3150631642812075276
+      Kid_Oscar_48x48_72: -1716247710500418760
+      Kid_Oscar_48x48_73: -4222256479220475486
+      Kid_Oscar_48x48_74: -3446155271790881230
+      Kid_Oscar_48x48_75: -7544667698738194333
+      Kid_Oscar_48x48_76: -6245736023397208
+      Kid_Oscar_48x48_77: -6400488187239912568
+      Kid_Oscar_48x48_78: 6202686765881810889
+      Kid_Oscar_48x48_79: 9142364412535474011
+      Kid_Oscar_48x48_8: 2536729028759438463
+      Kid_Oscar_48x48_80: -4854642646480526355
+      Kid_Oscar_48x48_81: 908894289670190432
+      Kid_Oscar_48x48_82: -2335932161509921913
+      Kid_Oscar_48x48_83: -2789491101157792520
+      Kid_Oscar_48x48_84: -4240321153466013770
+      Kid_Oscar_48x48_85: 2540011894375335492
+      Kid_Oscar_48x48_86: 1808530745008307559
+      Kid_Oscar_48x48_87: 8446960414129789408
+      Kid_Oscar_48x48_88: 5490115410549737629
+      Kid_Oscar_48x48_89: 6476553352645982058
+      Kid_Oscar_48x48_9: 4678201682602252216
+      Kid_Oscar_48x48_90: -2686014476025848031
+      Kid_Oscar_48x48_91: -5699049251835047819
+      Kid_Oscar_48x48_92: -3381968143695071106
+      Kid_Oscar_48x48_93: -2107171816971810402
+      Kid_Oscar_48x48_94: 3143241630197653636
+      Kid_Oscar_48x48_95: 3759958376825248306
+      Kid_Oscar_48x48_96: -8304673515438554834
+      Kid_Oscar_48x48_97: -9075478829317275023
+      Kid_Oscar_48x48_98: 5636797915002900386
+      Kid_Oscar_48x48_99: 4951942359264275879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

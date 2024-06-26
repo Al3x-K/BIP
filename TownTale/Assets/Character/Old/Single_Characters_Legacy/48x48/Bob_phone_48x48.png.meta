@@ -118,6 +118,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -320,7 +344,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bob_phone_48x48_0: 8022498906116909426
+      Bob_phone_48x48_1: -3295960794724027861
+      Bob_phone_48x48_2: -2483993449088049180
+      Bob_phone_48x48_3: -1563367055108394804
+      Bob_phone_48x48_4: 4335353153201316246
+      Bob_phone_48x48_5: 220509405239202458
+      Bob_phone_48x48_6: -7155171040544055719
+      Bob_phone_48x48_7: -1031522476326530452
+      Bob_phone_48x48_8: -7637139899016675618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

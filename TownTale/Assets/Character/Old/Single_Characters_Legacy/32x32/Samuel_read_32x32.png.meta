@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samuel_read_32x32_0: -5285806008193942701
+      Samuel_read_32x32_1: -7051994485376251416
+      Samuel_read_32x32_10: -1189052948125933385
+      Samuel_read_32x32_11: -3860794980761079945
+      Samuel_read_32x32_12: -6301431686397519298
+      Samuel_read_32x32_13: -549586746641671140
+      Samuel_read_32x32_14: 3700491862518507269
+      Samuel_read_32x32_15: -6944113154637686606
+      Samuel_read_32x32_16: 4054492476771841140
+      Samuel_read_32x32_17: -8310340092427067521
+      Samuel_read_32x32_2: 2655115203552127114
+      Samuel_read_32x32_3: 7067822216175656996
+      Samuel_read_32x32_4: -2225796807313225380
+      Samuel_read_32x32_5: -570829690570975981
+      Samuel_read_32x32_6: -6084005432528136200
+      Samuel_read_32x32_7: 2327502697942340696
+      Samuel_read_32x32_8: 3280040898913510425
+      Samuel_read_32x32_9: 2008923793900396668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

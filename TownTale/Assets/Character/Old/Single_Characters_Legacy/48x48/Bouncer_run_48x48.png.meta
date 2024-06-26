@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bouncer_run_48x48_0: -6672679172658707013
+      Bouncer_run_48x48_1: 1751275756229819534
+      Bouncer_run_48x48_10: -3096351489386895861
+      Bouncer_run_48x48_11: 4149894173930216452
+      Bouncer_run_48x48_12: 3103155416744473392
+      Bouncer_run_48x48_13: -4346269728241917557
+      Bouncer_run_48x48_14: -8389619221192664999
+      Bouncer_run_48x48_15: -5165033633315740143
+      Bouncer_run_48x48_16: -6185091003873792024
+      Bouncer_run_48x48_17: 3112702144717145932
+      Bouncer_run_48x48_18: -6161531815549156083
+      Bouncer_run_48x48_19: -6679065198579095219
+      Bouncer_run_48x48_2: 7819623090782414723
+      Bouncer_run_48x48_20: -5636477700578790484
+      Bouncer_run_48x48_21: 949819251829984637
+      Bouncer_run_48x48_22: 8388087517857489430
+      Bouncer_run_48x48_3: 9048777580713594806
+      Bouncer_run_48x48_4: 9012910481486600909
+      Bouncer_run_48x48_5: -1044005222159805470
+      Bouncer_run_48x48_6: 539109178817517748
+      Bouncer_run_48x48_7: -5032791370734357084
+      Bouncer_run_48x48_8: -6096475544617192665
+      Bouncer_run_48x48_9: -4593645815478260096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

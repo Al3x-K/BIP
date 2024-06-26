@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_run_32x32_0: -7641976812823125922
+      Bruce_run_32x32_1: 3939306304790787191
+      Bruce_run_32x32_10: -3249735773145188900
+      Bruce_run_32x32_11: -3239159165835514752
+      Bruce_run_32x32_12: -744421929361328185
+      Bruce_run_32x32_2: -6194522754687765136
+      Bruce_run_32x32_3: -4605965486545483264
+      Bruce_run_32x32_4: -4459356959580875298
+      Bruce_run_32x32_5: -1656716198114767639
+      Bruce_run_32x32_6: 1611381820010372480
+      Bruce_run_32x32_7: -8999159518208643827
+      Bruce_run_32x32_8: 5068173208995045505
+      Bruce_run_32x32_9: 7488452009549013713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

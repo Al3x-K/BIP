@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_man_Josh_reading_48x48_0: 1788141359970564922
+      Old_man_Josh_reading_48x48_1: 5841285828428925034
+      Old_man_Josh_reading_48x48_10: -3058730922308478905
+      Old_man_Josh_reading_48x48_11: 6725583459357226350
+      Old_man_Josh_reading_48x48_12: 798569090243749206
+      Old_man_Josh_reading_48x48_13: 7431079748102659165
+      Old_man_Josh_reading_48x48_14: -3401406472652402153
+      Old_man_Josh_reading_48x48_15: -7082028061707941638
+      Old_man_Josh_reading_48x48_16: -2849367957220851204
+      Old_man_Josh_reading_48x48_17: -5965824253762774165
+      Old_man_Josh_reading_48x48_2: -2987608936860870958
+      Old_man_Josh_reading_48x48_3: 2143305669085395388
+      Old_man_Josh_reading_48x48_4: 3013538126864174263
+      Old_man_Josh_reading_48x48_5: 9022960291969085772
+      Old_man_Josh_reading_48x48_6: -1528129052453369846
+      Old_man_Josh_reading_48x48_7: 238585433844952398
+      Old_man_Josh_reading_48x48_8: -8713872304195408597
+      Old_man_Josh_reading_48x48_9: 7991105822799144428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

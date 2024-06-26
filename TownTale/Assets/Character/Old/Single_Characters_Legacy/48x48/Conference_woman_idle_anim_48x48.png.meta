@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_woman_idle_anim_48x48_0: -2397159098454971249
+      Conference_woman_idle_anim_48x48_1: -4511372392269496319
+      Conference_woman_idle_anim_48x48_10: 6287654391962311358
+      Conference_woman_idle_anim_48x48_11: 6236208854785058932
+      Conference_woman_idle_anim_48x48_12: 7308790577965881361
+      Conference_woman_idle_anim_48x48_13: 3550520174307414503
+      Conference_woman_idle_anim_48x48_2: -110792069008933446
+      Conference_woman_idle_anim_48x48_3: -228857148751362395
+      Conference_woman_idle_anim_48x48_4: -3901034291762539463
+      Conference_woman_idle_anim_48x48_5: -2972110135357399893
+      Conference_woman_idle_anim_48x48_6: -1821851689729194729
+      Conference_woman_idle_anim_48x48_7: -1723327199123466012
+      Conference_woman_idle_anim_48x48_8: 3703000790549857474
+      Conference_woman_idle_anim_48x48_9: -302651229032531965
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

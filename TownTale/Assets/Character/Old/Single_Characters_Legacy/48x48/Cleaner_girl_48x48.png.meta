@@ -139,6 +139,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -488,7 +512,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_girl_48x48_0: -2760657477197120711
+      Cleaner_girl_48x48_1: -3246269752521195430
+      Cleaner_girl_48x48_10: -8404246426961861910
+      Cleaner_girl_48x48_11: -244519137710790247
+      Cleaner_girl_48x48_12: -4791844684860506763
+      Cleaner_girl_48x48_13: 9040513107963011763
+      Cleaner_girl_48x48_14: -3259302125385383521
+      Cleaner_girl_48x48_15: -1342079141120059534
+      Cleaner_girl_48x48_2: 2118950698647197846
+      Cleaner_girl_48x48_3: 6070687908542517810
+      Cleaner_girl_48x48_4: -6331380982913558249
+      Cleaner_girl_48x48_5: 1855218289255788986
+      Cleaner_girl_48x48_6: 1237871230407242470
+      Cleaner_girl_48x48_7: -8344309769008493086
+      Cleaner_girl_48x48_8: 974546138452211418
+      Cleaner_girl_48x48_9: -8881195456902941606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

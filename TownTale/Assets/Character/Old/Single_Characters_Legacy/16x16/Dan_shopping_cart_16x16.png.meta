@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dan_shopping_cart_16x16_0: -668231291541220552
+      Dan_shopping_cart_16x16_1: -1380068711118475139
+      Dan_shopping_cart_16x16_10: -2515374219421090638
+      Dan_shopping_cart_16x16_11: 8541218438622450763
+      Dan_shopping_cart_16x16_12: -2515807225838046266
+      Dan_shopping_cart_16x16_13: -1489894731678828377
+      Dan_shopping_cart_16x16_14: -3040479002376987392
+      Dan_shopping_cart_16x16_15: 7592750097981624717
+      Dan_shopping_cart_16x16_16: -4798857847632315810
+      Dan_shopping_cart_16x16_17: 3999281760958374081
+      Dan_shopping_cart_16x16_18: -8817765169182132876
+      Dan_shopping_cart_16x16_19: -4097876257444057838
+      Dan_shopping_cart_16x16_2: 7628536196449686270
+      Dan_shopping_cart_16x16_20: 1540121560254755085
+      Dan_shopping_cart_16x16_21: -7428657498989468843
+      Dan_shopping_cart_16x16_22: -3499665161553474785
+      Dan_shopping_cart_16x16_23: 8383393952571668642
+      Dan_shopping_cart_16x16_3: -701438776298901778
+      Dan_shopping_cart_16x16_4: 128441010919220399
+      Dan_shopping_cart_16x16_5: -6917452840449066752
+      Dan_shopping_cart_16x16_6: -5935092099553896168
+      Dan_shopping_cart_16x16_7: 6687842288134792389
+      Dan_shopping_cart_16x16_8: -2095223776492460285
+      Dan_shopping_cart_16x16_9: -1509498736122503546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

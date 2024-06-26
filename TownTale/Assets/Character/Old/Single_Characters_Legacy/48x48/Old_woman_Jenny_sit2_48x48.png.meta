@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_woman_Jenny_sit2_48x48_0: 8276516866819076731
+      Old_woman_Jenny_sit2_48x48_1: -2659951259593984720
+      Old_woman_Jenny_sit2_48x48_10: -6631587773685521039
+      Old_woman_Jenny_sit2_48x48_11: -7457396889603963038
+      Old_woman_Jenny_sit2_48x48_2: -241857425543527479
+      Old_woman_Jenny_sit2_48x48_3: -2186573777069716636
+      Old_woman_Jenny_sit2_48x48_4: 5418640069232340340
+      Old_woman_Jenny_sit2_48x48_5: 7951976824185853483
+      Old_woman_Jenny_sit2_48x48_6: 931047067919572903
+      Old_woman_Jenny_sit2_48x48_7: -7619118538321194950
+      Old_woman_Jenny_sit2_48x48_8: 3469150296905704383
+      Old_woman_Jenny_sit2_48x48_9: 8284177009355209359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roki_idle_anim_16x16_0: -7473871660725538733
+      Roki_idle_anim_16x16_1: 8018383563692579705
+      Roki_idle_anim_16x16_10: 5920832598404245331
+      Roki_idle_anim_16x16_11: 806042787939377588
+      Roki_idle_anim_16x16_12: 246958335890593987
+      Roki_idle_anim_16x16_13: 1913810490311029059
+      Roki_idle_anim_16x16_2: 2373242077800282273
+      Roki_idle_anim_16x16_3: -6556611535008147181
+      Roki_idle_anim_16x16_4: -5658969798363657030
+      Roki_idle_anim_16x16_5: -48006934759984867
+      Roki_idle_anim_16x16_6: -1465449346979574972
+      Roki_idle_anim_16x16_7: -520669677806186746
+      Roki_idle_anim_16x16_8: 7875679797886579437
+      Roki_idle_anim_16x16_9: 2194960111084133330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

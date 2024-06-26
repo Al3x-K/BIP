@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Lucy_48x48_0: -3423936029263328267
+      Chef_Lucy_48x48_1: 4570086024772792925
+      Chef_Lucy_48x48_10: -2970671087898099333
+      Chef_Lucy_48x48_11: 6673250958510284868
+      Chef_Lucy_48x48_12: 2363161771481635975
+      Chef_Lucy_48x48_13: 5717654179946934134
+      Chef_Lucy_48x48_14: -8431131796232813948
+      Chef_Lucy_48x48_15: -4340307595168481749
+      Chef_Lucy_48x48_16: 5634749432289161818
+      Chef_Lucy_48x48_17: 8107996453256693579
+      Chef_Lucy_48x48_18: 6448481168992024994
+      Chef_Lucy_48x48_19: 7437424012109330219
+      Chef_Lucy_48x48_2: 6794255700180323433
+      Chef_Lucy_48x48_20: -5937334011506361748
+      Chef_Lucy_48x48_21: -2870710049861912604
+      Chef_Lucy_48x48_22: 7969652682961137236
+      Chef_Lucy_48x48_23: 8782141249030462769
+      Chef_Lucy_48x48_3: -2917578127747308167
+      Chef_Lucy_48x48_4: 3375587574259587445
+      Chef_Lucy_48x48_5: 2190296680065422637
+      Chef_Lucy_48x48_6: 3956162006966703386
+      Chef_Lucy_48x48_7: 6424766243652943386
+      Chef_Lucy_48x48_8: 3675227266407692405
+      Chef_Lucy_48x48_9: 7718200696384410074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

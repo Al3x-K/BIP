@@ -316,6 +316,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1904,7 +1928,82 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Santa_Claus_32x32_0: -475236910962715028
+      Santa_Claus_32x32_1: 4615928216863492106
+      Santa_Claus_32x32_10: -4472028153609741403
+      Santa_Claus_32x32_11: 5754380945816186776
+      Santa_Claus_32x32_12: -1113876630052577506
+      Santa_Claus_32x32_13: -5914745955393928485
+      Santa_Claus_32x32_14: -1090167856452248373
+      Santa_Claus_32x32_15: -9076163291736950577
+      Santa_Claus_32x32_16: -4971650615102227394
+      Santa_Claus_32x32_17: -2816208317141280569
+      Santa_Claus_32x32_18: 7083548093714582566
+      Santa_Claus_32x32_19: -8762127174422762958
+      Santa_Claus_32x32_2: 7868151921320176941
+      Santa_Claus_32x32_20: 9091553338591360070
+      Santa_Claus_32x32_21: 6273935293416655983
+      Santa_Claus_32x32_22: -5472309494430635494
+      Santa_Claus_32x32_23: 7489414068800205609
+      Santa_Claus_32x32_24: -7893824244539074096
+      Santa_Claus_32x32_25: 7640957507201447589
+      Santa_Claus_32x32_26: -7772719368837825587
+      Santa_Claus_32x32_27: 8365287490981441247
+      Santa_Claus_32x32_28: 6888372804672467003
+      Santa_Claus_32x32_29: -3484606879954545689
+      Santa_Claus_32x32_3: 7409376794833503615
+      Santa_Claus_32x32_30: 2501590003422806592
+      Santa_Claus_32x32_31: 616424846737188768
+      Santa_Claus_32x32_32: -8041059950691266729
+      Santa_Claus_32x32_33: -8954302520193535939
+      Santa_Claus_32x32_34: 4390820159735665420
+      Santa_Claus_32x32_35: 2049831374862105654
+      Santa_Claus_32x32_36: -1184341355167695046
+      Santa_Claus_32x32_37: 7236760421090002636
+      Santa_Claus_32x32_38: -8938807825107859122
+      Santa_Claus_32x32_39: 7979275609625508063
+      Santa_Claus_32x32_4: 7070187266835103261
+      Santa_Claus_32x32_40: -9053843963522222985
+      Santa_Claus_32x32_41: 4706153989633599270
+      Santa_Claus_32x32_42: 2718563720917307313
+      Santa_Claus_32x32_43: -3364663718634755197
+      Santa_Claus_32x32_44: -3939847335833530197
+      Santa_Claus_32x32_45: -5498207049684837490
+      Santa_Claus_32x32_46: -6913672047209543325
+      Santa_Claus_32x32_47: -2975029811617748300
+      Santa_Claus_32x32_48: 8023820930155396518
+      Santa_Claus_32x32_49: 3464541956158285677
+      Santa_Claus_32x32_5: -2573443974602569882
+      Santa_Claus_32x32_50: 4340334403186378746
+      Santa_Claus_32x32_51: 4419570331113226169
+      Santa_Claus_32x32_52: -4327394921948227828
+      Santa_Claus_32x32_53: 7595856554605653254
+      Santa_Claus_32x32_54: -8586539356824714017
+      Santa_Claus_32x32_55: -4487146065104573910
+      Santa_Claus_32x32_56: 3375159663201374773
+      Santa_Claus_32x32_57: 4821467847806834450
+      Santa_Claus_32x32_58: -9023951711287979568
+      Santa_Claus_32x32_59: -3491171936585768535
+      Santa_Claus_32x32_6: 1391929881648587839
+      Santa_Claus_32x32_60: -4411324005374504203
+      Santa_Claus_32x32_61: -4706673861888506050
+      Santa_Claus_32x32_62: 7027966927464373642
+      Santa_Claus_32x32_63: 3380258157404148989
+      Santa_Claus_32x32_64: 3183776428918871813
+      Santa_Claus_32x32_65: 4144325078107667692
+      Santa_Claus_32x32_66: -1784352420270226271
+      Santa_Claus_32x32_67: 7308928689296393182
+      Santa_Claus_32x32_68: 1871223240374947229
+      Santa_Claus_32x32_69: 2506562709867522926
+      Santa_Claus_32x32_7: 6843425880268230717
+      Santa_Claus_32x32_70: 1837446090399003420
+      Santa_Claus_32x32_71: 166816929711001556
+      Santa_Claus_32x32_72: 3782439546866401692
+      Santa_Claus_32x32_73: 1791826310870665390
+      Santa_Claus_32x32_74: -535089640686492311
+      Santa_Claus_32x32_8: -1597887441431100695
+      Santa_Claus_32x32_9: -8822747492827558960
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

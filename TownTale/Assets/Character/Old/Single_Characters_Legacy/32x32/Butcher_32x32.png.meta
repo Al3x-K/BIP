@@ -217,6 +217,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1112,7 +1136,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Butcher_32x32_0: 1066410509106267317
+      Butcher_32x32_1: -3058180012388445811
+      Butcher_32x32_10: 7437566623908405564
+      Butcher_32x32_11: 6488923192306488910
+      Butcher_32x32_12: 1153293193560584199
+      Butcher_32x32_13: 6744698194498682428
+      Butcher_32x32_14: 2464415136671411401
+      Butcher_32x32_15: -5690623820091156299
+      Butcher_32x32_16: 8091280137419589405
+      Butcher_32x32_17: -5991416753046644180
+      Butcher_32x32_18: 1653011448061445847
+      Butcher_32x32_19: 765818381575881821
+      Butcher_32x32_2: 5596199848849008858
+      Butcher_32x32_20: -4941697750151784430
+      Butcher_32x32_21: -5576272950193510277
+      Butcher_32x32_22: -1718598574929062158
+      Butcher_32x32_23: -6239952860806843141
+      Butcher_32x32_24: 4947784288501181047
+      Butcher_32x32_25: -4431285289817978885
+      Butcher_32x32_26: -8605582526494289794
+      Butcher_32x32_27: 1247656086048545703
+      Butcher_32x32_28: -8822361790932215514
+      Butcher_32x32_29: 8399751392015170406
+      Butcher_32x32_3: 5848121898958062933
+      Butcher_32x32_30: 6710215679625713720
+      Butcher_32x32_31: 4885708257525291114
+      Butcher_32x32_32: 4427256939954061852
+      Butcher_32x32_33: 8070762947274861112
+      Butcher_32x32_34: -8569289612492377231
+      Butcher_32x32_35: -10578457532054158
+      Butcher_32x32_36: -3054343109208787030
+      Butcher_32x32_37: 321942877729028174
+      Butcher_32x32_38: 3510838608056872962
+      Butcher_32x32_39: 5363692455663186369
+      Butcher_32x32_4: 4540260518381290162
+      Butcher_32x32_40: 8182273650415445481
+      Butcher_32x32_41: -6894605857365246611
+      Butcher_32x32_5: -5011524382604571543
+      Butcher_32x32_6: 1303841569179902677
+      Butcher_32x32_7: -2049912798082270306
+      Butcher_32x32_8: 151340396505954252
+      Butcher_32x32_9: -1285393331940248252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -151,6 +151,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -584,7 +608,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_boy_32x32_0: 2582808453822200771
+      Cleaner_boy_32x32_1: 940946326307416079
+      Cleaner_boy_32x32_10: 5944059620648903513
+      Cleaner_boy_32x32_11: -6492507037463079448
+      Cleaner_boy_32x32_12: 2148145663953274147
+      Cleaner_boy_32x32_13: -2084777489092261882
+      Cleaner_boy_32x32_14: 6332004114927890640
+      Cleaner_boy_32x32_15: 1468183530213135274
+      Cleaner_boy_32x32_16: -5359472478947102805
+      Cleaner_boy_32x32_17: -8057256708221357684
+      Cleaner_boy_32x32_18: -1449440561896100405
+      Cleaner_boy_32x32_19: 3391686604846146843
+      Cleaner_boy_32x32_2: 878294213015222465
+      Cleaner_boy_32x32_3: -8420584166059849505
+      Cleaner_boy_32x32_4: -994059256446785078
+      Cleaner_boy_32x32_5: 7014498093246817896
+      Cleaner_boy_32x32_6: 8656333017310319066
+      Cleaner_boy_32x32_7: -3576587471723736967
+      Cleaner_boy_32x32_8: 6705919206443170100
+      Cleaner_boy_32x32_9: 8050694855649062752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nurse_2_run_48x48_0: -3400100109500757440
+      Nurse_2_run_48x48_1: 760903435492261612
+      Nurse_2_run_48x48_10: 8387628146345843126
+      Nurse_2_run_48x48_11: 1284173895662747140
+      Nurse_2_run_48x48_12: -2761450696700210360
+      Nurse_2_run_48x48_2: -7277735137344596898
+      Nurse_2_run_48x48_3: -5982930247428318200
+      Nurse_2_run_48x48_4: 4328626445034370140
+      Nurse_2_run_48x48_5: 9085262580888808290
+      Nurse_2_run_48x48_6: 3402230401888043064
+      Nurse_2_run_48x48_7: 7624576864179805641
+      Nurse_2_run_48x48_8: 371579625692254601
+      Nurse_2_run_48x48_9: 8197786282256248386
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

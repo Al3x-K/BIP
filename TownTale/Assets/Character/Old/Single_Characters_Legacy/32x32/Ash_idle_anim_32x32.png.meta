@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ash_idle_anim_32x32_0: -2761043837577158095
+      Ash_idle_anim_32x32_1: -4918427116461803809
+      Ash_idle_anim_32x32_10: 6470485390058877615
+      Ash_idle_anim_32x32_11: -274420684570208171
+      Ash_idle_anim_32x32_12: -4422843954153865494
+      Ash_idle_anim_32x32_13: 6002681652205605602
+      Ash_idle_anim_32x32_2: 7767655996496953804
+      Ash_idle_anim_32x32_3: 9071103874918872399
+      Ash_idle_anim_32x32_4: -139316188630034566
+      Ash_idle_anim_32x32_5: 1446851871378388495
+      Ash_idle_anim_32x32_6: 7130622154765312604
+      Ash_idle_anim_32x32_7: 2772410104282388942
+      Ash_idle_anim_32x32_8: -603657141927387331
+      Ash_idle_anim_32x32_9: 402862586177876994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

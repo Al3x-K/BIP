@@ -265,6 +265,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1496,7 +1520,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Outfit_kid_6_pajama_frog_48x48_0: -8150634948600136898
+      Outfit_kid_6_pajama_frog_48x48_1: -8598314314942105951
+      Outfit_kid_6_pajama_frog_48x48_10: -2727528048876723775
+      Outfit_kid_6_pajama_frog_48x48_11: -5617543334766034494
+      Outfit_kid_6_pajama_frog_48x48_12: -7476409644531775355
+      Outfit_kid_6_pajama_frog_48x48_13: -8906819196583866466
+      Outfit_kid_6_pajama_frog_48x48_14: -6290704329214212552
+      Outfit_kid_6_pajama_frog_48x48_15: 1230510973151421673
+      Outfit_kid_6_pajama_frog_48x48_16: -4595403110362074546
+      Outfit_kid_6_pajama_frog_48x48_17: 7042514078763542348
+      Outfit_kid_6_pajama_frog_48x48_18: 8293325130452719113
+      Outfit_kid_6_pajama_frog_48x48_19: 7706899398699504776
+      Outfit_kid_6_pajama_frog_48x48_2: -8386837593819021840
+      Outfit_kid_6_pajama_frog_48x48_20: -3759426508838913805
+      Outfit_kid_6_pajama_frog_48x48_21: -3686149101870820175
+      Outfit_kid_6_pajama_frog_48x48_22: -1444646982438839459
+      Outfit_kid_6_pajama_frog_48x48_23: 7134506051699275122
+      Outfit_kid_6_pajama_frog_48x48_24: 2737670308830166807
+      Outfit_kid_6_pajama_frog_48x48_25: 4531015580983295649
+      Outfit_kid_6_pajama_frog_48x48_26: -5984609891345032549
+      Outfit_kid_6_pajama_frog_48x48_27: -2208834589911232925
+      Outfit_kid_6_pajama_frog_48x48_28: 3664025303864668232
+      Outfit_kid_6_pajama_frog_48x48_29: 2859409142437086188
+      Outfit_kid_6_pajama_frog_48x48_3: 7582508687373620862
+      Outfit_kid_6_pajama_frog_48x48_30: -9106531085671865641
+      Outfit_kid_6_pajama_frog_48x48_31: 6831770783614521079
+      Outfit_kid_6_pajama_frog_48x48_32: -6139862526116942438
+      Outfit_kid_6_pajama_frog_48x48_33: 3974355283730752504
+      Outfit_kid_6_pajama_frog_48x48_34: -5682783647233096444
+      Outfit_kid_6_pajama_frog_48x48_35: -4652595232355652159
+      Outfit_kid_6_pajama_frog_48x48_36: -2019309316593805060
+      Outfit_kid_6_pajama_frog_48x48_37: -3965255986320971651
+      Outfit_kid_6_pajama_frog_48x48_38: -4944460736867127886
+      Outfit_kid_6_pajama_frog_48x48_39: -800680004279214658
+      Outfit_kid_6_pajama_frog_48x48_4: -8658621044424730596
+      Outfit_kid_6_pajama_frog_48x48_40: 7486813350021449373
+      Outfit_kid_6_pajama_frog_48x48_41: -3407167036973978671
+      Outfit_kid_6_pajama_frog_48x48_42: -1306835970356181449
+      Outfit_kid_6_pajama_frog_48x48_43: -8013755455366941950
+      Outfit_kid_6_pajama_frog_48x48_44: -7953725785488953036
+      Outfit_kid_6_pajama_frog_48x48_45: -3703187310398955792
+      Outfit_kid_6_pajama_frog_48x48_46: 930609574369728602
+      Outfit_kid_6_pajama_frog_48x48_47: -8515384638134174011
+      Outfit_kid_6_pajama_frog_48x48_48: 3610518045719479638
+      Outfit_kid_6_pajama_frog_48x48_49: 5941933403142792633
+      Outfit_kid_6_pajama_frog_48x48_5: -275463168104889775
+      Outfit_kid_6_pajama_frog_48x48_50: -2088820794384997569
+      Outfit_kid_6_pajama_frog_48x48_51: -1565174362752952301
+      Outfit_kid_6_pajama_frog_48x48_52: 8180295069451124917
+      Outfit_kid_6_pajama_frog_48x48_53: -6256857386627899903
+      Outfit_kid_6_pajama_frog_48x48_54: 3825218222094148486
+      Outfit_kid_6_pajama_frog_48x48_55: -2053917954373304014
+      Outfit_kid_6_pajama_frog_48x48_56: 2204352623711915059
+      Outfit_kid_6_pajama_frog_48x48_57: 1988206564008121572
+      Outfit_kid_6_pajama_frog_48x48_6: -3734089538526555486
+      Outfit_kid_6_pajama_frog_48x48_7: 6740169539212834271
+      Outfit_kid_6_pajama_frog_48x48_8: -8059503001883445667
+      Outfit_kid_6_pajama_frog_48x48_9: 2158802702447935515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

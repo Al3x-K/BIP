@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Edward_shopping_cart_32x32_0: 4188352671823290486
+      Edward_shopping_cart_32x32_1: -7032120238053180409
+      Edward_shopping_cart_32x32_10: 207579879416443649
+      Edward_shopping_cart_32x32_11: 6284614391951806115
+      Edward_shopping_cart_32x32_12: -7193380238816329054
+      Edward_shopping_cart_32x32_13: -5361178550598556024
+      Edward_shopping_cart_32x32_14: 5590492878421098164
+      Edward_shopping_cart_32x32_15: -4664112585369967392
+      Edward_shopping_cart_32x32_16: 3395213068655253633
+      Edward_shopping_cart_32x32_17: 5788349546789643923
+      Edward_shopping_cart_32x32_18: -1203291164258999937
+      Edward_shopping_cart_32x32_19: -5130191293437192458
+      Edward_shopping_cart_32x32_2: 3455982999862036364
+      Edward_shopping_cart_32x32_20: -8962654530695831312
+      Edward_shopping_cart_32x32_21: 4065854153335917140
+      Edward_shopping_cart_32x32_22: -1188069503743209763
+      Edward_shopping_cart_32x32_23: 2094248700658930653
+      Edward_shopping_cart_32x32_3: 1371758663526518571
+      Edward_shopping_cart_32x32_4: 1813766387044694480
+      Edward_shopping_cart_32x32_5: -2340511110328686493
+      Edward_shopping_cart_32x32_6: 8367245598414184200
+      Edward_shopping_cart_32x32_7: -774127940782750477
+      Edward_shopping_cart_32x32_8: -9157394263845050606
+      Edward_shopping_cart_32x32_9: 521591592529299076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

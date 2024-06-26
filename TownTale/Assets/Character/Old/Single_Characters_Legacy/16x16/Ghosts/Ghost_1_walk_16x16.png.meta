@@ -259,6 +259,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1448,7 +1472,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_1_walk_16x16_0: 7719941517366209249
+      Ghost_1_walk_16x16_1: 1563977906554022621
+      Ghost_1_walk_16x16_10: -696516060273043374
+      Ghost_1_walk_16x16_11: 5690426271966157415
+      Ghost_1_walk_16x16_12: -8663549696615107633
+      Ghost_1_walk_16x16_13: -4928023343519741152
+      Ghost_1_walk_16x16_14: 2982989522481871612
+      Ghost_1_walk_16x16_15: 4909654042501679070
+      Ghost_1_walk_16x16_16: 4449677842829097912
+      Ghost_1_walk_16x16_17: -7517843626275473464
+      Ghost_1_walk_16x16_18: 3999130549941438409
+      Ghost_1_walk_16x16_19: 8960207833358260616
+      Ghost_1_walk_16x16_2: -5763471336242990881
+      Ghost_1_walk_16x16_20: 9046332674236797423
+      Ghost_1_walk_16x16_21: -8959318502575395397
+      Ghost_1_walk_16x16_22: 3581954970557048275
+      Ghost_1_walk_16x16_23: -8955818867830272764
+      Ghost_1_walk_16x16_24: 9078952574711141263
+      Ghost_1_walk_16x16_25: -9025661631643411881
+      Ghost_1_walk_16x16_26: -6607210908084193575
+      Ghost_1_walk_16x16_27: 8370002924559701641
+      Ghost_1_walk_16x16_28: 3597172426034054414
+      Ghost_1_walk_16x16_29: -4866968506164511201
+      Ghost_1_walk_16x16_3: 8767788911612998995
+      Ghost_1_walk_16x16_30: 489750302191894828
+      Ghost_1_walk_16x16_31: 4149409548440885390
+      Ghost_1_walk_16x16_32: -5698974969984386897
+      Ghost_1_walk_16x16_33: 4901108320350720223
+      Ghost_1_walk_16x16_34: 8662020976484867684
+      Ghost_1_walk_16x16_35: 3714453857720457581
+      Ghost_1_walk_16x16_36: 4593875258762946420
+      Ghost_1_walk_16x16_37: -6452171590823759776
+      Ghost_1_walk_16x16_38: -2551604274580430074
+      Ghost_1_walk_16x16_39: -7044003418844111036
+      Ghost_1_walk_16x16_4: -7064101007385390923
+      Ghost_1_walk_16x16_40: 7921814249034478538
+      Ghost_1_walk_16x16_41: 3934093788873390768
+      Ghost_1_walk_16x16_42: 8282143949272709947
+      Ghost_1_walk_16x16_43: 7487036063024213652
+      Ghost_1_walk_16x16_44: -6155241597047567602
+      Ghost_1_walk_16x16_45: -8621709880460057265
+      Ghost_1_walk_16x16_46: -846060717066462644
+      Ghost_1_walk_16x16_47: -4197768326420226193
+      Ghost_1_walk_16x16_48: -535235152648896698
+      Ghost_1_walk_16x16_49: -2117628574571136642
+      Ghost_1_walk_16x16_5: 2411906693434996689
+      Ghost_1_walk_16x16_50: -5178980847323186357
+      Ghost_1_walk_16x16_51: -237932885833390661
+      Ghost_1_walk_16x16_52: 974591977606606707
+      Ghost_1_walk_16x16_53: -5867842967808037847
+      Ghost_1_walk_16x16_54: 2695719254945911237
+      Ghost_1_walk_16x16_55: 4271721380139070623
+      Ghost_1_walk_16x16_6: 3513517915347692757
+      Ghost_1_walk_16x16_7: 6199672349966316186
+      Ghost_1_walk_16x16_8: -5709103734644496267
+      Ghost_1_walk_16x16_9: -6490581706445309574
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -262,6 +262,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1472,7 +1496,64 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hairstyle_17_32x32_03_0: 2440886108851344746
+      Hairstyle_17_32x32_03_1: -5925981047391587434
+      Hairstyle_17_32x32_03_10: -6797605455332231752
+      Hairstyle_17_32x32_03_11: 5257025122944898432
+      Hairstyle_17_32x32_03_12: 7546843840018857665
+      Hairstyle_17_32x32_03_13: -1003539636045479422
+      Hairstyle_17_32x32_03_14: 1904149632212723978
+      Hairstyle_17_32x32_03_15: 277450994031826707
+      Hairstyle_17_32x32_03_16: 4691042807832207521
+      Hairstyle_17_32x32_03_17: 1985228568812866664
+      Hairstyle_17_32x32_03_18: -3223142141911894371
+      Hairstyle_17_32x32_03_19: -3896652921015938315
+      Hairstyle_17_32x32_03_2: 9155896898206017112
+      Hairstyle_17_32x32_03_20: 7847785120602187959
+      Hairstyle_17_32x32_03_21: 1163065039213511101
+      Hairstyle_17_32x32_03_22: 2677982600274375302
+      Hairstyle_17_32x32_03_23: -4178592262372948937
+      Hairstyle_17_32x32_03_24: 4965508274886492304
+      Hairstyle_17_32x32_03_25: 7309095928016230338
+      Hairstyle_17_32x32_03_26: -5807640800799106332
+      Hairstyle_17_32x32_03_27: 5772915955497717368
+      Hairstyle_17_32x32_03_28: 1795822074986576377
+      Hairstyle_17_32x32_03_29: -5810375908594728847
+      Hairstyle_17_32x32_03_3: 7954872878041272321
+      Hairstyle_17_32x32_03_30: -6683563379812025982
+      Hairstyle_17_32x32_03_31: -5174060772044357249
+      Hairstyle_17_32x32_03_32: -1922901242065960917
+      Hairstyle_17_32x32_03_33: 6662534197570566730
+      Hairstyle_17_32x32_03_34: 3814576510756379124
+      Hairstyle_17_32x32_03_35: -6527873714669868526
+      Hairstyle_17_32x32_03_36: -2482667572637005987
+      Hairstyle_17_32x32_03_37: -7749843274408846147
+      Hairstyle_17_32x32_03_38: 3770731725918733445
+      Hairstyle_17_32x32_03_39: 612802785680272695
+      Hairstyle_17_32x32_03_4: -4115490148033500666
+      Hairstyle_17_32x32_03_40: -29392420843833822
+      Hairstyle_17_32x32_03_41: 1392871092632624284
+      Hairstyle_17_32x32_03_42: -7388248982604262337
+      Hairstyle_17_32x32_03_43: -7718617745511231861
+      Hairstyle_17_32x32_03_44: 9122363928282417688
+      Hairstyle_17_32x32_03_45: -9074405252006136819
+      Hairstyle_17_32x32_03_46: -5404084802831330806
+      Hairstyle_17_32x32_03_47: 4318301251096484107
+      Hairstyle_17_32x32_03_48: -1298460290438983053
+      Hairstyle_17_32x32_03_49: 6691786750092943366
+      Hairstyle_17_32x32_03_5: -3284008382966698158
+      Hairstyle_17_32x32_03_50: 8524213409366253508
+      Hairstyle_17_32x32_03_51: 7881956320626594928
+      Hairstyle_17_32x32_03_52: -8982859883429316830
+      Hairstyle_17_32x32_03_53: 6862562043345535398
+      Hairstyle_17_32x32_03_54: -8408292106251657243
+      Hairstyle_17_32x32_03_55: -6891434488811370578
+      Hairstyle_17_32x32_03_56: -4078253170204062938
+      Hairstyle_17_32x32_03_6: 207371950685901047
+      Hairstyle_17_32x32_03_7: 1840361275672484923
+      Hairstyle_17_32x32_03_8: -8957540713241366259
+      Hairstyle_17_32x32_03_9: -77219349201206317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

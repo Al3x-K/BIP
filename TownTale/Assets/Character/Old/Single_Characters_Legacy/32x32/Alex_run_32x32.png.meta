@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alex_run_32x32_0: 2977894567497524062
+      Alex_run_32x32_1: 1026394659451172393
+      Alex_run_32x32_10: 2131474403488404502
+      Alex_run_32x32_11: 7970238206864450806
+      Alex_run_32x32_12: -6376350790734518577
+      Alex_run_32x32_13: -3411462065543343841
+      Alex_run_32x32_14: 468173264160708404
+      Alex_run_32x32_15: 5023730352595093546
+      Alex_run_32x32_16: -9196979777131237047
+      Alex_run_32x32_17: -4249120869519149432
+      Alex_run_32x32_18: 5988631461046247491
+      Alex_run_32x32_19: 5097649719441578709
+      Alex_run_32x32_2: -3067256982264510002
+      Alex_run_32x32_20: 979643874135693241
+      Alex_run_32x32_21: -5274092530139375801
+      Alex_run_32x32_22: 5732614728712300913
+      Alex_run_32x32_3: -4541111435799640318
+      Alex_run_32x32_4: -2549051816307517538
+      Alex_run_32x32_5: 8534864732047732819
+      Alex_run_32x32_6: 6298110397926890935
+      Alex_run_32x32_7: 8333063847645068175
+      Alex_run_32x32_8: 6776292840671483334
+      Alex_run_32x32_9: -6277758188097073094
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

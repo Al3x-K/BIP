@@ -499,6 +499,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3368,7 +3392,143 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_man_Josh_32x32_0: -7647005903288472769
+      Old_man_Josh_32x32_1: -3249061756980396974
+      Old_man_Josh_32x32_10: -6058415479946195741
+      Old_man_Josh_32x32_100: 2373703954912834453
+      Old_man_Josh_32x32_101: -2373093489386135188
+      Old_man_Josh_32x32_102: 8763430546865239124
+      Old_man_Josh_32x32_103: -6966112461220329587
+      Old_man_Josh_32x32_104: 8284569376247132314
+      Old_man_Josh_32x32_105: 3729921890096229466
+      Old_man_Josh_32x32_106: 7477738260360989644
+      Old_man_Josh_32x32_107: -7458322754849242312
+      Old_man_Josh_32x32_108: 1009277034376012229
+      Old_man_Josh_32x32_109: 2264600973126420838
+      Old_man_Josh_32x32_11: 8811759484189460026
+      Old_man_Josh_32x32_110: 7483509286792528905
+      Old_man_Josh_32x32_111: -1368222881366675954
+      Old_man_Josh_32x32_112: 4516045845915922292
+      Old_man_Josh_32x32_113: 6978957086452045362
+      Old_man_Josh_32x32_114: 5515214354945854614
+      Old_man_Josh_32x32_115: 3305339819304654011
+      Old_man_Josh_32x32_116: -1132193988876010244
+      Old_man_Josh_32x32_117: 3341961648663522664
+      Old_man_Josh_32x32_118: 7670254373343326883
+      Old_man_Josh_32x32_119: 1989432160048245682
+      Old_man_Josh_32x32_12: 3855370507728237157
+      Old_man_Josh_32x32_120: 3164273765493463515
+      Old_man_Josh_32x32_121: -3383762404262145142
+      Old_man_Josh_32x32_122: 4587461362601247023
+      Old_man_Josh_32x32_123: -2603398852736449533
+      Old_man_Josh_32x32_124: -8581539885298669112
+      Old_man_Josh_32x32_125: 8814121317012567350
+      Old_man_Josh_32x32_126: 3320423710336942854
+      Old_man_Josh_32x32_127: -773893595422567653
+      Old_man_Josh_32x32_128: -2509970530682689097
+      Old_man_Josh_32x32_129: 8703559700118714995
+      Old_man_Josh_32x32_13: 3979465586936463647
+      Old_man_Josh_32x32_130: -8970391269561572793
+      Old_man_Josh_32x32_131: 7728179404159658460
+      Old_man_Josh_32x32_132: -6345596980362576002
+      Old_man_Josh_32x32_133: 7898113613307541050
+      Old_man_Josh_32x32_134: -2725533288301553301
+      Old_man_Josh_32x32_135: -3841976081962884943
+      Old_man_Josh_32x32_14: -7141472918415233012
+      Old_man_Josh_32x32_15: -2586703865857683794
+      Old_man_Josh_32x32_16: -6459491479820266928
+      Old_man_Josh_32x32_17: -6740230420357748138
+      Old_man_Josh_32x32_18: 7129367603052929424
+      Old_man_Josh_32x32_19: -1060048992516238744
+      Old_man_Josh_32x32_2: 2194680855752660462
+      Old_man_Josh_32x32_20: -7410679565465620173
+      Old_man_Josh_32x32_21: 3862786110441595982
+      Old_man_Josh_32x32_22: -404134245626206459
+      Old_man_Josh_32x32_23: 2634702319920051306
+      Old_man_Josh_32x32_24: 1301664360840201001
+      Old_man_Josh_32x32_25: 751392716197832332
+      Old_man_Josh_32x32_26: -5275640172381751346
+      Old_man_Josh_32x32_27: 1801702474834648613
+      Old_man_Josh_32x32_28: -6245552588615999284
+      Old_man_Josh_32x32_29: 6871393133568301158
+      Old_man_Josh_32x32_3: -2145762176994486395
+      Old_man_Josh_32x32_30: 8640916976584468708
+      Old_man_Josh_32x32_31: -2916522786923915892
+      Old_man_Josh_32x32_32: -1639918643380452726
+      Old_man_Josh_32x32_33: 8055005537770860081
+      Old_man_Josh_32x32_34: 4292549010299150478
+      Old_man_Josh_32x32_35: -5424201978913256333
+      Old_man_Josh_32x32_36: 4817745452640301530
+      Old_man_Josh_32x32_37: -2045846934930897577
+      Old_man_Josh_32x32_38: -7099978027243485956
+      Old_man_Josh_32x32_39: -1127806565685530610
+      Old_man_Josh_32x32_4: 2283525388533601127
+      Old_man_Josh_32x32_40: 4080410362927863431
+      Old_man_Josh_32x32_41: -2276175409266314768
+      Old_man_Josh_32x32_42: 490384422934527394
+      Old_man_Josh_32x32_43: 3864713647477445679
+      Old_man_Josh_32x32_44: -926408553116565167
+      Old_man_Josh_32x32_45: 645206996169453904
+      Old_man_Josh_32x32_46: -1207582417050101301
+      Old_man_Josh_32x32_47: -5925350411392402648
+      Old_man_Josh_32x32_48: 1510867432503429951
+      Old_man_Josh_32x32_49: -4725431327325969070
+      Old_man_Josh_32x32_5: 6651282775614916786
+      Old_man_Josh_32x32_50: 7475609188426065954
+      Old_man_Josh_32x32_51: -306714958553359557
+      Old_man_Josh_32x32_52: -2233303053671337456
+      Old_man_Josh_32x32_53: 1251626902013368043
+      Old_man_Josh_32x32_54: -980049041595230862
+      Old_man_Josh_32x32_55: -8871197555162429018
+      Old_man_Josh_32x32_56: -5981143716475185135
+      Old_man_Josh_32x32_57: -9191389440811054531
+      Old_man_Josh_32x32_58: -1034455077408842212
+      Old_man_Josh_32x32_59: 5819904004079405289
+      Old_man_Josh_32x32_6: 2501657486938237466
+      Old_man_Josh_32x32_60: 1024225810289910064
+      Old_man_Josh_32x32_61: 7628810504744177378
+      Old_man_Josh_32x32_62: 3955723575743577546
+      Old_man_Josh_32x32_63: 6997868752501888060
+      Old_man_Josh_32x32_64: -6578702436966173201
+      Old_man_Josh_32x32_65: -1710489361388163547
+      Old_man_Josh_32x32_66: -8804890094750464426
+      Old_man_Josh_32x32_67: 3498171877598300303
+      Old_man_Josh_32x32_68: -544813624765246388
+      Old_man_Josh_32x32_69: 4400116672682160267
+      Old_man_Josh_32x32_7: 3467678265942162750
+      Old_man_Josh_32x32_70: 3017322712684581328
+      Old_man_Josh_32x32_71: -4523256097937571046
+      Old_man_Josh_32x32_72: -94560463810590474
+      Old_man_Josh_32x32_73: 933105710905543198
+      Old_man_Josh_32x32_74: -4492416850787545092
+      Old_man_Josh_32x32_75: -4233180911610196789
+      Old_man_Josh_32x32_76: 3539892699666662500
+      Old_man_Josh_32x32_77: -3694010345753325235
+      Old_man_Josh_32x32_78: 6342527902885235767
+      Old_man_Josh_32x32_79: -5075685979124739072
+      Old_man_Josh_32x32_8: 736442937372595134
+      Old_man_Josh_32x32_80: -8665656737951960175
+      Old_man_Josh_32x32_81: -3741886055944134628
+      Old_man_Josh_32x32_82: -1732876293429144688
+      Old_man_Josh_32x32_83: 826128511155490466
+      Old_man_Josh_32x32_84: 2638560354592852947
+      Old_man_Josh_32x32_85: -5561656885510356046
+      Old_man_Josh_32x32_86: 1155690684190820239
+      Old_man_Josh_32x32_87: -6623722501062574514
+      Old_man_Josh_32x32_88: 1291106134980355198
+      Old_man_Josh_32x32_89: 1437532056205508773
+      Old_man_Josh_32x32_9: 5651645076425333998
+      Old_man_Josh_32x32_90: -3695991975831731356
+      Old_man_Josh_32x32_91: 6687457256970238288
+      Old_man_Josh_32x32_92: -9091062063883262707
+      Old_man_Josh_32x32_93: -169221420419721669
+      Old_man_Josh_32x32_94: 5292135917337826973
+      Old_man_Josh_32x32_95: 1050250072987608921
+      Old_man_Josh_32x32_96: -4068638004999537350
+      Old_man_Josh_32x32_97: -7762890854395304161
+      Old_man_Josh_32x32_98: -5982393038945402593
+      Old_man_Josh_32x32_99: -4210465848545178284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

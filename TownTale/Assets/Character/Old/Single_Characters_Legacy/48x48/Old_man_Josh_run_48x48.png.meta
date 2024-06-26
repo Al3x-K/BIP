@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_man_Josh_run_48x48_0: -7314119854416619417
+      Old_man_Josh_run_48x48_1: 4733858193226117430
+      Old_man_Josh_run_48x48_10: -8150464373303846862
+      Old_man_Josh_run_48x48_11: -1925200190140228457
+      Old_man_Josh_run_48x48_12: 7685401640113281884
+      Old_man_Josh_run_48x48_13: 8812876743666679754
+      Old_man_Josh_run_48x48_14: 2436324694224367413
+      Old_man_Josh_run_48x48_15: -4914342960481881183
+      Old_man_Josh_run_48x48_16: -5993824070865039255
+      Old_man_Josh_run_48x48_17: 2401646200319893344
+      Old_man_Josh_run_48x48_18: 291723236092485721
+      Old_man_Josh_run_48x48_19: 895496348376317605
+      Old_man_Josh_run_48x48_2: -4113463875289088921
+      Old_man_Josh_run_48x48_20: -3735948742815099075
+      Old_man_Josh_run_48x48_21: 2967881555275949714
+      Old_man_Josh_run_48x48_22: -725458292190873981
+      Old_man_Josh_run_48x48_3: 6333852245927274311
+      Old_man_Josh_run_48x48_4: 8196513763231332460
+      Old_man_Josh_run_48x48_5: -5354802255745978037
+      Old_man_Josh_run_48x48_6: 2980513047639476078
+      Old_man_Josh_run_48x48_7: 47130514819806373
+      Old_man_Josh_run_48x48_8: -8926144603376143730
+      Old_man_Josh_run_48x48_9: -3240819365484258721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

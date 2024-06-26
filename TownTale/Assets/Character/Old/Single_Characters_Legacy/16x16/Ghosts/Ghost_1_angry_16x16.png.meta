@@ -271,6 +271,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1544,7 +1568,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_1_angry_16x16_0: 6417478610776089133
+      Ghost_1_angry_16x16_1: 1266273544845243458
+      Ghost_1_angry_16x16_10: 1147802845875711631
+      Ghost_1_angry_16x16_11: 2338683475971270948
+      Ghost_1_angry_16x16_12: 1538876343565769698
+      Ghost_1_angry_16x16_13: -2556079363784987512
+      Ghost_1_angry_16x16_14: -461794664739746750
+      Ghost_1_angry_16x16_15: -7621386178724487378
+      Ghost_1_angry_16x16_16: -3375017850954919501
+      Ghost_1_angry_16x16_17: -6993851933184204452
+      Ghost_1_angry_16x16_18: -3833978583709257680
+      Ghost_1_angry_16x16_19: -816880767227172720
+      Ghost_1_angry_16x16_2: 9200854567527940084
+      Ghost_1_angry_16x16_20: -7225092009904549638
+      Ghost_1_angry_16x16_21: -5493505979119057518
+      Ghost_1_angry_16x16_22: 2677113481332695517
+      Ghost_1_angry_16x16_23: 6838049787940687983
+      Ghost_1_angry_16x16_24: 2980464151758427625
+      Ghost_1_angry_16x16_25: -6091375103553107774
+      Ghost_1_angry_16x16_26: 277684729445557402
+      Ghost_1_angry_16x16_27: -5361440851421727954
+      Ghost_1_angry_16x16_28: 3472289063934791288
+      Ghost_1_angry_16x16_29: -147758240167337502
+      Ghost_1_angry_16x16_3: -441272390928021760
+      Ghost_1_angry_16x16_30: -93797707924796717
+      Ghost_1_angry_16x16_31: 9185343938599396909
+      Ghost_1_angry_16x16_32: -1852370194757310054
+      Ghost_1_angry_16x16_33: -541839763086927876
+      Ghost_1_angry_16x16_34: 4446406717199218943
+      Ghost_1_angry_16x16_35: 3288133477490237607
+      Ghost_1_angry_16x16_36: -1736227798282190706
+      Ghost_1_angry_16x16_37: 4589054429074736564
+      Ghost_1_angry_16x16_38: 7504558797273789565
+      Ghost_1_angry_16x16_39: -1378723058838303447
+      Ghost_1_angry_16x16_4: -5214393323006947925
+      Ghost_1_angry_16x16_40: 2303198269869113366
+      Ghost_1_angry_16x16_41: -1175375579186703725
+      Ghost_1_angry_16x16_42: 3170471858545502996
+      Ghost_1_angry_16x16_43: 1499054837172386156
+      Ghost_1_angry_16x16_44: -2275077013432758797
+      Ghost_1_angry_16x16_45: 7285546733565860882
+      Ghost_1_angry_16x16_46: 4745419437471694662
+      Ghost_1_angry_16x16_47: 7678915645150330893
+      Ghost_1_angry_16x16_48: 4301538189957960128
+      Ghost_1_angry_16x16_49: 6305746086023190343
+      Ghost_1_angry_16x16_5: -148094792229103273
+      Ghost_1_angry_16x16_50: 1560320268819649078
+      Ghost_1_angry_16x16_51: 4410849711328803210
+      Ghost_1_angry_16x16_52: -619488283451261013
+      Ghost_1_angry_16x16_53: 1625135022059634478
+      Ghost_1_angry_16x16_54: -8408475080114945241
+      Ghost_1_angry_16x16_55: 5221566869674541555
+      Ghost_1_angry_16x16_56: 9106135243946245738
+      Ghost_1_angry_16x16_57: 6933605682388200282
+      Ghost_1_angry_16x16_58: 3547799577703101566
+      Ghost_1_angry_16x16_59: 4516583119917998403
+      Ghost_1_angry_16x16_6: 3766923571030747579
+      Ghost_1_angry_16x16_7: 8877495675819379616
+      Ghost_1_angry_16x16_8: 2388661062122352097
+      Ghost_1_angry_16x16_9: 8480019229640924835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

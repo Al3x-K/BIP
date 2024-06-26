@@ -121,6 +121,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -344,7 +368,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Prisoner_3_sleep_32x32_0: 8035775014872909776
+      Prisoner_3_sleep_32x32_1: -7378688373900041206
+      Prisoner_3_sleep_32x32_2: 7263924174739483048
+      Prisoner_3_sleep_32x32_3: 4289790930083960490
+      Prisoner_3_sleep_32x32_4: -7523223504443362266
+      Prisoner_3_sleep_32x32_5: 2888718882386902226
+      Prisoner_3_sleep_32x32_6: -6276001780252023209
+      Prisoner_3_sleep_32x32_7: -4095161805832136003
+      Prisoner_3_sleep_32x32_8: 7247939950065235779
+      Prisoner_3_sleep_32x32_9: 8815257097271426625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

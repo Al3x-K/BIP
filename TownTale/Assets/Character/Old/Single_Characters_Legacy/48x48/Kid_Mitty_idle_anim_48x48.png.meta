@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Mitty_idle_anim_48x48_0: 3267928333957355309
+      Kid_Mitty_idle_anim_48x48_1: 1798720819612457626
+      Kid_Mitty_idle_anim_48x48_10: 8758958085089690021
+      Kid_Mitty_idle_anim_48x48_11: 7376740660463380851
+      Kid_Mitty_idle_anim_48x48_12: -4169644488148782652
+      Kid_Mitty_idle_anim_48x48_13: -4596370844199630039
+      Kid_Mitty_idle_anim_48x48_14: -733114271267923884
+      Kid_Mitty_idle_anim_48x48_15: 3284340529281922516
+      Kid_Mitty_idle_anim_48x48_16: -167343295197990991
+      Kid_Mitty_idle_anim_48x48_17: -1540331907867278267
+      Kid_Mitty_idle_anim_48x48_18: -2840285929558202679
+      Kid_Mitty_idle_anim_48x48_19: -4386356327005841530
+      Kid_Mitty_idle_anim_48x48_2: -8072607686126144853
+      Kid_Mitty_idle_anim_48x48_20: -6479987334372231920
+      Kid_Mitty_idle_anim_48x48_21: 1247521528435982222
+      Kid_Mitty_idle_anim_48x48_22: -5632165641948831941
+      Kid_Mitty_idle_anim_48x48_23: -7634463794178311406
+      Kid_Mitty_idle_anim_48x48_3: 6969023105806053215
+      Kid_Mitty_idle_anim_48x48_4: -2313698351909676640
+      Kid_Mitty_idle_anim_48x48_5: -6737243380814044160
+      Kid_Mitty_idle_anim_48x48_6: 7569244753018153226
+      Kid_Mitty_idle_anim_48x48_7: -4888251274463438593
+      Kid_Mitty_idle_anim_48x48_8: 2584270316136205631
+      Kid_Mitty_idle_anim_48x48_9: 1945874671785265212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

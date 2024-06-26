@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samuel_shopping_cart_16x16_0: 4349264185733429942
+      Samuel_shopping_cart_16x16_1: -1261453291037640557
+      Samuel_shopping_cart_16x16_10: -6883166228264379359
+      Samuel_shopping_cart_16x16_11: -8380434481908735655
+      Samuel_shopping_cart_16x16_12: -7680549697985058673
+      Samuel_shopping_cart_16x16_13: -757394322489701529
+      Samuel_shopping_cart_16x16_14: -6369945770930483498
+      Samuel_shopping_cart_16x16_15: -4774308489165425757
+      Samuel_shopping_cart_16x16_16: 3946013513771088533
+      Samuel_shopping_cart_16x16_17: -198275178766499880
+      Samuel_shopping_cart_16x16_18: -4438370517142171292
+      Samuel_shopping_cart_16x16_19: -9137387814339514131
+      Samuel_shopping_cart_16x16_2: 2314888714133473686
+      Samuel_shopping_cart_16x16_20: -312134132091435722
+      Samuel_shopping_cart_16x16_21: 8101554673992003085
+      Samuel_shopping_cart_16x16_22: 5388495412133627869
+      Samuel_shopping_cart_16x16_23: -7865194779989837453
+      Samuel_shopping_cart_16x16_3: 3499286286256424833
+      Samuel_shopping_cart_16x16_4: -8502693654803555201
+      Samuel_shopping_cart_16x16_5: 6288723615894156192
+      Samuel_shopping_cart_16x16_6: 9104315620509974995
+      Samuel_shopping_cart_16x16_7: 7374200888254229253
+      Samuel_shopping_cart_16x16_8: 3428583034584065376
+      Samuel_shopping_cart_16x16_9: -7624718463520696868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

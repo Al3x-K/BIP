@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Amelia_sit_48x48_0: 4422467238748237323
+      Amelia_sit_48x48_1: 1716820486977732639
+      Amelia_sit_48x48_10: 8111519883357311870
+      Amelia_sit_48x48_11: -8220911673819092435
+      Amelia_sit_48x48_2: -1034005417178005096
+      Amelia_sit_48x48_3: 3657408345321099980
+      Amelia_sit_48x48_4: -8630814804543118132
+      Amelia_sit_48x48_5: -3456296639276946850
+      Amelia_sit_48x48_6: 4064919092531974941
+      Amelia_sit_48x48_7: 4947004245138745978
+      Amelia_sit_48x48_8: 5105343773445512173
+      Amelia_sit_48x48_9: 4285309282143040589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -499,6 +499,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3368,7 +3392,143 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_man_Josh_16x16_0: 446321180658184624
+      Old_man_Josh_16x16_1: -7627811387699367919
+      Old_man_Josh_16x16_10: -4712284494344603357
+      Old_man_Josh_16x16_100: 4186175170329443702
+      Old_man_Josh_16x16_101: 860810397124733227
+      Old_man_Josh_16x16_102: -6299118198270337287
+      Old_man_Josh_16x16_103: -6216754239470677950
+      Old_man_Josh_16x16_104: 4640360391311908293
+      Old_man_Josh_16x16_105: -9021121159642121215
+      Old_man_Josh_16x16_106: 8910219373804305592
+      Old_man_Josh_16x16_107: -3980823907391901219
+      Old_man_Josh_16x16_108: 287564411286849611
+      Old_man_Josh_16x16_109: -6298134298225609226
+      Old_man_Josh_16x16_11: 7393959073206015586
+      Old_man_Josh_16x16_110: 846497375441078190
+      Old_man_Josh_16x16_111: 4736116034348805027
+      Old_man_Josh_16x16_112: -379867396179334096
+      Old_man_Josh_16x16_113: 8993197121022352508
+      Old_man_Josh_16x16_114: 8422683005609083272
+      Old_man_Josh_16x16_115: 7669234704698410983
+      Old_man_Josh_16x16_116: 8389911894887178886
+      Old_man_Josh_16x16_117: -5947468163943354889
+      Old_man_Josh_16x16_118: 6938585716171316843
+      Old_man_Josh_16x16_119: 3375071244951483703
+      Old_man_Josh_16x16_12: 7689192207817998319
+      Old_man_Josh_16x16_120: 1369219910161922999
+      Old_man_Josh_16x16_121: 7250998590962805163
+      Old_man_Josh_16x16_122: 7959264876651036136
+      Old_man_Josh_16x16_123: 8372284182128005050
+      Old_man_Josh_16x16_124: 9211049184647954605
+      Old_man_Josh_16x16_125: 4757722727550511920
+      Old_man_Josh_16x16_126: -9195183205782965136
+      Old_man_Josh_16x16_127: 7167975519540928864
+      Old_man_Josh_16x16_128: 2992137053836017347
+      Old_man_Josh_16x16_129: 6855078394435795093
+      Old_man_Josh_16x16_13: -3215965960567679960
+      Old_man_Josh_16x16_130: -1361901002916088516
+      Old_man_Josh_16x16_131: -7679251247286921828
+      Old_man_Josh_16x16_132: -2286317701014580813
+      Old_man_Josh_16x16_133: -1277242413666839032
+      Old_man_Josh_16x16_134: -7384348644948919691
+      Old_man_Josh_16x16_135: 1979990465812359760
+      Old_man_Josh_16x16_14: 5269809334451440420
+      Old_man_Josh_16x16_15: -8249092054608750682
+      Old_man_Josh_16x16_16: -2880922479607954745
+      Old_man_Josh_16x16_17: -6758038282746158278
+      Old_man_Josh_16x16_18: -6159560035590256760
+      Old_man_Josh_16x16_19: 8643120792414874387
+      Old_man_Josh_16x16_2: -3694209481312448676
+      Old_man_Josh_16x16_20: 2672756278014186330
+      Old_man_Josh_16x16_21: -848801158144879400
+      Old_man_Josh_16x16_22: 5125015493759129665
+      Old_man_Josh_16x16_23: 911094440358633310
+      Old_man_Josh_16x16_24: -6505318897330435523
+      Old_man_Josh_16x16_25: -4430204568026203508
+      Old_man_Josh_16x16_26: -6909763085193044110
+      Old_man_Josh_16x16_27: 2555356932231872773
+      Old_man_Josh_16x16_28: 4457183858132957610
+      Old_man_Josh_16x16_29: 2617690333519758002
+      Old_man_Josh_16x16_3: 5857518408544347211
+      Old_man_Josh_16x16_30: -29460005919762334
+      Old_man_Josh_16x16_31: -3854096679508979703
+      Old_man_Josh_16x16_32: 7363439256317115166
+      Old_man_Josh_16x16_33: 7465868895224190343
+      Old_man_Josh_16x16_34: 5623223360433419061
+      Old_man_Josh_16x16_35: 3656684454284723436
+      Old_man_Josh_16x16_36: 317132396557133462
+      Old_man_Josh_16x16_37: 2080893320670971114
+      Old_man_Josh_16x16_38: -5018415849136177134
+      Old_man_Josh_16x16_39: 7157248085023928932
+      Old_man_Josh_16x16_4: -1064042475459008140
+      Old_man_Josh_16x16_40: -7401813628008268835
+      Old_man_Josh_16x16_41: 1580841283351076466
+      Old_man_Josh_16x16_42: -6698448523137177529
+      Old_man_Josh_16x16_43: -6042297720815448361
+      Old_man_Josh_16x16_44: 1253364796007632831
+      Old_man_Josh_16x16_45: 4113767511470892104
+      Old_man_Josh_16x16_46: 1134789348759924942
+      Old_man_Josh_16x16_47: 7980020561899987464
+      Old_man_Josh_16x16_48: -427884557328690098
+      Old_man_Josh_16x16_49: 3990345410456790189
+      Old_man_Josh_16x16_5: -1343893465746530371
+      Old_man_Josh_16x16_50: 3431162587988014852
+      Old_man_Josh_16x16_51: -7918887756605318842
+      Old_man_Josh_16x16_52: 2399492866682343302
+      Old_man_Josh_16x16_53: 7267367321738064300
+      Old_man_Josh_16x16_54: 4188772279370967272
+      Old_man_Josh_16x16_55: 1682570669458872187
+      Old_man_Josh_16x16_56: -5084745329604801163
+      Old_man_Josh_16x16_57: -7971434590599607861
+      Old_man_Josh_16x16_58: -6195823335059866087
+      Old_man_Josh_16x16_59: -8918345425583969071
+      Old_man_Josh_16x16_6: 5704379721431701259
+      Old_man_Josh_16x16_60: -8940944554927479144
+      Old_man_Josh_16x16_61: -5862186690671502892
+      Old_man_Josh_16x16_62: -6577039939530553703
+      Old_man_Josh_16x16_63: 9141288782651784765
+      Old_man_Josh_16x16_64: -9120660003465523334
+      Old_man_Josh_16x16_65: -7936101203279007303
+      Old_man_Josh_16x16_66: -8831051723968228081
+      Old_man_Josh_16x16_67: -1415495447806073352
+      Old_man_Josh_16x16_68: -6606198235889169554
+      Old_man_Josh_16x16_69: 1938480936762847754
+      Old_man_Josh_16x16_7: -6546641816072035706
+      Old_man_Josh_16x16_70: -8968723664392057322
+      Old_man_Josh_16x16_71: 1575168583142589686
+      Old_man_Josh_16x16_72: -1626691995988121004
+      Old_man_Josh_16x16_73: -2731020327701709959
+      Old_man_Josh_16x16_74: -5787100080417375886
+      Old_man_Josh_16x16_75: -8729905833549109053
+      Old_man_Josh_16x16_76: 6554357060136455056
+      Old_man_Josh_16x16_77: 37885153799836716
+      Old_man_Josh_16x16_78: 7096351845564221999
+      Old_man_Josh_16x16_79: 6080303052697683739
+      Old_man_Josh_16x16_8: -52442308054478228
+      Old_man_Josh_16x16_80: 8449120808615136895
+      Old_man_Josh_16x16_81: -21974156738412945
+      Old_man_Josh_16x16_82: 1604296164356273081
+      Old_man_Josh_16x16_83: 4887204959165167000
+      Old_man_Josh_16x16_84: -2841604346593172391
+      Old_man_Josh_16x16_85: 3103220005385565178
+      Old_man_Josh_16x16_86: 2164465927449442785
+      Old_man_Josh_16x16_87: -1665294017112005445
+      Old_man_Josh_16x16_88: -823607304449108265
+      Old_man_Josh_16x16_89: 5007187189929141801
+      Old_man_Josh_16x16_9: -258968601812440204
+      Old_man_Josh_16x16_90: -5136358217610363927
+      Old_man_Josh_16x16_91: 5452951383049309305
+      Old_man_Josh_16x16_92: -3567629245715537720
+      Old_man_Josh_16x16_93: -419244461729496744
+      Old_man_Josh_16x16_94: -366995573011333082
+      Old_man_Josh_16x16_95: -7147957568121398573
+      Old_man_Josh_16x16_96: -4143988234995681503
+      Old_man_Josh_16x16_97: -7888718055461218391
+      Old_man_Josh_16x16_98: 4845384622424735653
+      Old_man_Josh_16x16_99: -5752337099223040083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

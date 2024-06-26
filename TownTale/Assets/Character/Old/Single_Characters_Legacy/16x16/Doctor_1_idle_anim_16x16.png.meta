@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doctor_1_idle_anim_16x16_0: -1239750320733892694
+      Doctor_1_idle_anim_16x16_1: -5978537787862167763
+      Doctor_1_idle_anim_16x16_10: 8411668263477892496
+      Doctor_1_idle_anim_16x16_11: -8975606346689796442
+      Doctor_1_idle_anim_16x16_12: -6136153169941049515
+      Doctor_1_idle_anim_16x16_2: -4342920830751261282
+      Doctor_1_idle_anim_16x16_3: -1133993837855123221
+      Doctor_1_idle_anim_16x16_4: -7298278160180846269
+      Doctor_1_idle_anim_16x16_5: -7225423168807707162
+      Doctor_1_idle_anim_16x16_6: -1335270918749677607
+      Doctor_1_idle_anim_16x16_7: -4325136721341870974
+      Doctor_1_idle_anim_16x16_8: -3780559118123800449
+      Doctor_1_idle_anim_16x16_9: -6962877291779953070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

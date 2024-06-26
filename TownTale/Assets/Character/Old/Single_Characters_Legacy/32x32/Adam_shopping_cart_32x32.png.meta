@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Adam_shopping_cart_32x32_0: -2836772025407627311
+      Adam_shopping_cart_32x32_1: -7931747838592434796
+      Adam_shopping_cart_32x32_10: -6346576564449491271
+      Adam_shopping_cart_32x32_11: -3534205638229944213
+      Adam_shopping_cart_32x32_12: -4727666710484226991
+      Adam_shopping_cart_32x32_13: -6535115998721875107
+      Adam_shopping_cart_32x32_14: 6758050839878807192
+      Adam_shopping_cart_32x32_15: 8292597139120000362
+      Adam_shopping_cart_32x32_16: 5397565936287657185
+      Adam_shopping_cart_32x32_17: 8934575166832784738
+      Adam_shopping_cart_32x32_18: 9126615750903263000
+      Adam_shopping_cart_32x32_19: 8323880029565469018
+      Adam_shopping_cart_32x32_2: -6030999892108545818
+      Adam_shopping_cart_32x32_20: 4688140931832565463
+      Adam_shopping_cart_32x32_21: -5738856370859953788
+      Adam_shopping_cart_32x32_22: -7686560965975974047
+      Adam_shopping_cart_32x32_23: 7134102798805605312
+      Adam_shopping_cart_32x32_3: -694481024541851860
+      Adam_shopping_cart_32x32_4: -8707946511914631504
+      Adam_shopping_cart_32x32_5: 1697458751038148308
+      Adam_shopping_cart_32x32_6: -6124245589392481274
+      Adam_shopping_cart_32x32_7: 6615066059294054290
+      Adam_shopping_cart_32x32_8: -7345382722531337078
+      Adam_shopping_cart_32x32_9: 2786434522531281733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

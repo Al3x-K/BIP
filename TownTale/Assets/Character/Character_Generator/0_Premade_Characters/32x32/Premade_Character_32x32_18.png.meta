@@ -319,6 +319,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1928,7 +1952,83 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Premade_Character_32x32_18_0: 6630112545656223359
+      Premade_Character_32x32_18_1: -7753916520596059311
+      Premade_Character_32x32_18_10: 2312105250632395134
+      Premade_Character_32x32_18_11: 2682646947681111311
+      Premade_Character_32x32_18_12: 7393913738425346140
+      Premade_Character_32x32_18_13: -7087985652448194135
+      Premade_Character_32x32_18_14: -6739683574264398127
+      Premade_Character_32x32_18_15: -7134645987758551697
+      Premade_Character_32x32_18_16: -5032666775953080791
+      Premade_Character_32x32_18_17: -5589601122094579871
+      Premade_Character_32x32_18_18: 6854855359070997061
+      Premade_Character_32x32_18_19: -5239812105365132722
+      Premade_Character_32x32_18_2: 6244662179753277100
+      Premade_Character_32x32_18_20: 8110712333581519714
+      Premade_Character_32x32_18_21: 3513183824202209153
+      Premade_Character_32x32_18_22: 216378089580996780
+      Premade_Character_32x32_18_23: -8253610153935019627
+      Premade_Character_32x32_18_24: -5511516353277926537
+      Premade_Character_32x32_18_25: -6866315011519823993
+      Premade_Character_32x32_18_26: -1565969585299959873
+      Premade_Character_32x32_18_27: -449677723389929188
+      Premade_Character_32x32_18_28: 7669433287166669182
+      Premade_Character_32x32_18_29: -2741941283490815907
+      Premade_Character_32x32_18_3: 1916280519856799811
+      Premade_Character_32x32_18_30: -7739483719591324129
+      Premade_Character_32x32_18_31: -274673997505539456
+      Premade_Character_32x32_18_32: 7461084706425442183
+      Premade_Character_32x32_18_33: 5454425016688893478
+      Premade_Character_32x32_18_34: -6909320971313258074
+      Premade_Character_32x32_18_35: 2994996546910341864
+      Premade_Character_32x32_18_36: -6834663586445733336
+      Premade_Character_32x32_18_37: -1078620892286974724
+      Premade_Character_32x32_18_38: -8496085632448848210
+      Premade_Character_32x32_18_39: 6473361589915080028
+      Premade_Character_32x32_18_4: 3546059384020157065
+      Premade_Character_32x32_18_40: -7097361368818705994
+      Premade_Character_32x32_18_41: 6944172251856010454
+      Premade_Character_32x32_18_42: 5717129109143342350
+      Premade_Character_32x32_18_43: -967329392733776340
+      Premade_Character_32x32_18_44: 915253078101458920
+      Premade_Character_32x32_18_45: -7588629657654796069
+      Premade_Character_32x32_18_46: 2061128614558880108
+      Premade_Character_32x32_18_47: 8106055333721920525
+      Premade_Character_32x32_18_48: -5908911872397809823
+      Premade_Character_32x32_18_49: -1122360527099872567
+      Premade_Character_32x32_18_5: 7930858715618771349
+      Premade_Character_32x32_18_50: 4015813922445912906
+      Premade_Character_32x32_18_51: -4706007429426682886
+      Premade_Character_32x32_18_52: -3671842761691048711
+      Premade_Character_32x32_18_53: 8904501036508446499
+      Premade_Character_32x32_18_54: -3558508020483238486
+      Premade_Character_32x32_18_55: 3380327433120822784
+      Premade_Character_32x32_18_56: -3514187479847589366
+      Premade_Character_32x32_18_57: -2016065219389155682
+      Premade_Character_32x32_18_58: -4381056560293395583
+      Premade_Character_32x32_18_59: 2250042190105471101
+      Premade_Character_32x32_18_6: 7827610037156996064
+      Premade_Character_32x32_18_60: -2216872216899859271
+      Premade_Character_32x32_18_61: -3717619112728866964
+      Premade_Character_32x32_18_62: 8459856364403026393
+      Premade_Character_32x32_18_63: 7173507218722958476
+      Premade_Character_32x32_18_64: -1559698689718170307
+      Premade_Character_32x32_18_65: -2358797879799703985
+      Premade_Character_32x32_18_66: 6252901781430043665
+      Premade_Character_32x32_18_67: 8233732219376132788
+      Premade_Character_32x32_18_68: 4172161715768220363
+      Premade_Character_32x32_18_69: 3045876989670623596
+      Premade_Character_32x32_18_7: 1191967182457806886
+      Premade_Character_32x32_18_70: -1273545395160223420
+      Premade_Character_32x32_18_71: 7201432501633399548
+      Premade_Character_32x32_18_72: 1266977611860887396
+      Premade_Character_32x32_18_73: 3174382524847519610
+      Premade_Character_32x32_18_74: -1142463272399479414
+      Premade_Character_32x32_18_75: -8042880286879034500
+      Premade_Character_32x32_18_8: -3903568424286667884
+      Premade_Character_32x32_18_9: -6383912635782989979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

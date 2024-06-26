@@ -169,6 +169,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -728,7 +752,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Alex_16x16_0: -4791167231485261055
+      Chef_Alex_16x16_1: 5925796906743731211
+      Chef_Alex_16x16_10: 8315256339714604339
+      Chef_Alex_16x16_11: 8533681640696930806
+      Chef_Alex_16x16_12: -7326371239732305746
+      Chef_Alex_16x16_13: 7597998353802927670
+      Chef_Alex_16x16_14: -2048377285441313331
+      Chef_Alex_16x16_15: 4422866797846140127
+      Chef_Alex_16x16_16: 6841735529580663315
+      Chef_Alex_16x16_17: -5443964698753621481
+      Chef_Alex_16x16_18: -7132783460665210507
+      Chef_Alex_16x16_19: 873251986768207198
+      Chef_Alex_16x16_2: -107026821134385018
+      Chef_Alex_16x16_20: -5251221862694993484
+      Chef_Alex_16x16_21: 4217814890521830228
+      Chef_Alex_16x16_22: -2450650607820274063
+      Chef_Alex_16x16_23: 412020932370274942
+      Chef_Alex_16x16_24: -8799188385763783595
+      Chef_Alex_16x16_25: -3454321446271627925
+      Chef_Alex_16x16_3: -7177854589845699670
+      Chef_Alex_16x16_4: -2382006251388744772
+      Chef_Alex_16x16_5: -9066146748114519660
+      Chef_Alex_16x16_6: 2740225092769857994
+      Chef_Alex_16x16_7: -1226968556669934800
+      Chef_Alex_16x16_8: 3083963409101750593
+      Chef_Alex_16x16_9: 5642831565236586042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

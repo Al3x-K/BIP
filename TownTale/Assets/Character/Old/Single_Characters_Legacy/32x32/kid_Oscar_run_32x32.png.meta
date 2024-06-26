@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Oscar_run_32x32_0: 9137933674261893844
+      kid_Oscar_run_32x32_1: 1778844090889176491
+      kid_Oscar_run_32x32_10: 6362373498569782011
+      kid_Oscar_run_32x32_11: -2779091028303126473
+      kid_Oscar_run_32x32_12: 8111964672669948432
+      kid_Oscar_run_32x32_13: -5493227528003475385
+      kid_Oscar_run_32x32_14: 5074987529645140491
+      kid_Oscar_run_32x32_15: -1196811946037073982
+      kid_Oscar_run_32x32_16: -6392743768217601043
+      kid_Oscar_run_32x32_17: -1752393726044447945
+      kid_Oscar_run_32x32_18: -6038372224626803040
+      kid_Oscar_run_32x32_19: -7956740500458831873
+      kid_Oscar_run_32x32_2: -2075450080403142150
+      kid_Oscar_run_32x32_20: -3242335621347342646
+      kid_Oscar_run_32x32_21: -4087663937576661002
+      kid_Oscar_run_32x32_22: -8666228831446001239
+      kid_Oscar_run_32x32_23: 6403326886393697863
+      kid_Oscar_run_32x32_3: -7756320534320050383
+      kid_Oscar_run_32x32_4: 4628978166978400293
+      kid_Oscar_run_32x32_5: 2386472924879954508
+      kid_Oscar_run_32x32_6: 1603407774661570336
+      kid_Oscar_run_32x32_7: 2516411391803896745
+      kid_Oscar_run_32x32_8: 1911606126047674107
+      kid_Oscar_run_32x32_9: -9020605499512302533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

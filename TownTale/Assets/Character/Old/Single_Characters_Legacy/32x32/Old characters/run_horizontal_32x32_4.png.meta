@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      run_horizontal_32x32_4_0: -600053789283054398
+      run_horizontal_32x32_4_1: 7848551543154795296
+      run_horizontal_32x32_4_10: -2653391906212128404
+      run_horizontal_32x32_4_11: 9221739669223473181
+      run_horizontal_32x32_4_12: -2158851696957969995
+      run_horizontal_32x32_4_13: -2231293511451886147
+      run_horizontal_32x32_4_14: 7852923320289253848
+      run_horizontal_32x32_4_15: 2887104806747140495
+      run_horizontal_32x32_4_16: -4493821161220511789
+      run_horizontal_32x32_4_17: 8062538913503416603
+      run_horizontal_32x32_4_18: -6058689054293030124
+      run_horizontal_32x32_4_19: 2328422818958657842
+      run_horizontal_32x32_4_2: 6494127165317140676
+      run_horizontal_32x32_4_20: -1394232410153827991
+      run_horizontal_32x32_4_21: -3150777973585475977
+      run_horizontal_32x32_4_22: -4788559348363053653
+      run_horizontal_32x32_4_3: -7632122096321517111
+      run_horizontal_32x32_4_4: -1326566729248589013
+      run_horizontal_32x32_4_5: 1893321486304156414
+      run_horizontal_32x32_4_6: -4190096563852947364
+      run_horizontal_32x32_4_7: 8696943247372213695
+      run_horizontal_32x32_4_8: -3825862351373365499
+      run_horizontal_32x32_4_9: -1020642500582785400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Rob_idle_anim_32x32_0: 4358367638268987005
+      Chef_Rob_idle_anim_32x32_1: 2042525489862560206
+      Chef_Rob_idle_anim_32x32_10: -3775461251837995027
+      Chef_Rob_idle_anim_32x32_11: -4507025544990661928
+      Chef_Rob_idle_anim_32x32_12: -619364504432838304
+      Chef_Rob_idle_anim_32x32_13: 6441528320727148444
+      Chef_Rob_idle_anim_32x32_2: -3182766755464223047
+      Chef_Rob_idle_anim_32x32_3: 8641226384247925502
+      Chef_Rob_idle_anim_32x32_4: 3327770106433792140
+      Chef_Rob_idle_anim_32x32_5: -762862905000657008
+      Chef_Rob_idle_anim_32x32_6: -7793406515606923459
+      Chef_Rob_idle_anim_32x32_7: -1463005872611835690
+      Chef_Rob_idle_anim_32x32_8: -4244829009920543283
+      Chef_Rob_idle_anim_32x32_9: -793128757358603769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -178,6 +178,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -800,7 +824,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doctor_1_32x32_0: 1526083210837015335
+      Doctor_1_32x32_1: -1536328387006994270
+      Doctor_1_32x32_10: 1244952871118289919
+      Doctor_1_32x32_11: 206770571711863955
+      Doctor_1_32x32_12: -6205477466370193026
+      Doctor_1_32x32_13: -4701518058346740941
+      Doctor_1_32x32_14: 963471684262395254
+      Doctor_1_32x32_15: -6258490292627149231
+      Doctor_1_32x32_16: 5975562912593984445
+      Doctor_1_32x32_17: 63593052806247638
+      Doctor_1_32x32_18: 7851275634228077287
+      Doctor_1_32x32_19: 3627434967772995087
+      Doctor_1_32x32_2: 5714872614529661843
+      Doctor_1_32x32_20: -4666882257182045917
+      Doctor_1_32x32_21: 3222608041064772457
+      Doctor_1_32x32_22: 2681655502133100398
+      Doctor_1_32x32_23: 2712726401128593659
+      Doctor_1_32x32_24: 2305726440106063456
+      Doctor_1_32x32_25: 698008866692470074
+      Doctor_1_32x32_26: -8131206603852312363
+      Doctor_1_32x32_27: 3049610761909196313
+      Doctor_1_32x32_28: 5992018831928042972
+      Doctor_1_32x32_3: 6851531223626757774
+      Doctor_1_32x32_4: 2611620953011806989
+      Doctor_1_32x32_5: -7415364738416116156
+      Doctor_1_32x32_6: -2111009268289105441
+      Doctor_1_32x32_7: -8887941451071275566
+      Doctor_1_32x32_8: -8297969090590753176
+      Doctor_1_32x32_9: -1005163547655040428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

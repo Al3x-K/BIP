@@ -148,6 +148,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -560,7 +584,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Abby_idle_anim_16x16_0: -1984613984115842008
+      Kid_Abby_idle_anim_16x16_1: -9032404722084087743
+      Kid_Abby_idle_anim_16x16_10: 8916584972257098380
+      Kid_Abby_idle_anim_16x16_11: 6844872173825300386
+      Kid_Abby_idle_anim_16x16_12: -2214857580642489058
+      Kid_Abby_idle_anim_16x16_13: 6734107664309781695
+      Kid_Abby_idle_anim_16x16_14: -393209393426810066
+      Kid_Abby_idle_anim_16x16_15: -832656339936170986
+      Kid_Abby_idle_anim_16x16_16: 12118936353649379
+      Kid_Abby_idle_anim_16x16_17: 8188663575351986141
+      Kid_Abby_idle_anim_16x16_18: -1409139199079575732
+      Kid_Abby_idle_anim_16x16_2: 2661372459441390917
+      Kid_Abby_idle_anim_16x16_3: 8796216559981198539
+      Kid_Abby_idle_anim_16x16_4: 5427658417366614735
+      Kid_Abby_idle_anim_16x16_5: 208922555443230397
+      Kid_Abby_idle_anim_16x16_6: 7297232237387861584
+      Kid_Abby_idle_anim_16x16_7: 4190243767590737471
+      Kid_Abby_idle_anim_16x16_8: -4647707410678121499
+      Kid_Abby_idle_anim_16x16_9: -6219517978024025336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Book_48x48_01_0: -7888145288780516923
+      Book_48x48_01_1: 6507566418697644625
+      Book_48x48_01_10: 3391977690656560861
+      Book_48x48_01_11: -3425666504251931263
+      Book_48x48_01_2: -3249573951979189966
+      Book_48x48_01_3: 5650785983390931915
+      Book_48x48_01_4: -7142522876477173019
+      Book_48x48_01_5: 426783903619168383
+      Book_48x48_01_6: -1313049547339104214
+      Book_48x48_01_7: -2354276884466211046
+      Book_48x48_01_8: -8436728026571836835
+      Book_48x48_01_9: -6720677386107699708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

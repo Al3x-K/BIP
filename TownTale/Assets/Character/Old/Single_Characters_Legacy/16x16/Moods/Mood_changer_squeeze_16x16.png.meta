@@ -154,6 +154,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -608,7 +632,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mood_changer_squeeze_16x16_0: -2293100828293308395
+      Mood_changer_squeeze_16x16_1: -1046084779835097957
+      Mood_changer_squeeze_16x16_10: -7829886756577069562
+      Mood_changer_squeeze_16x16_11: -2769690776223707463
+      Mood_changer_squeeze_16x16_12: -4672129923370782072
+      Mood_changer_squeeze_16x16_13: -3988691986753308414
+      Mood_changer_squeeze_16x16_14: -5492687486120276115
+      Mood_changer_squeeze_16x16_15: 3288852182445894557
+      Mood_changer_squeeze_16x16_16: 5948645774510850513
+      Mood_changer_squeeze_16x16_17: -2182860603574121784
+      Mood_changer_squeeze_16x16_18: 3501328628391294918
+      Mood_changer_squeeze_16x16_19: 7722120391151579075
+      Mood_changer_squeeze_16x16_2: 463822347413586900
+      Mood_changer_squeeze_16x16_20: -6998579770866669499
+      Mood_changer_squeeze_16x16_3: -8952239928104032552
+      Mood_changer_squeeze_16x16_4: 8199585089769953583
+      Mood_changer_squeeze_16x16_5: 942472304492699438
+      Mood_changer_squeeze_16x16_6: 2406547981522269142
+      Mood_changer_squeeze_16x16_7: 432557611325547250
+      Mood_changer_squeeze_16x16_8: 614035961245440636
+      Mood_changer_squeeze_16x16_9: -9204670513987084652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

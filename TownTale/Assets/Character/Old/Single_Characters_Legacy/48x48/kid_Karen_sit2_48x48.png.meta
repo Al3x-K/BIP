@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Karen_sit2_48x48_0: -5234458958038974123
+      kid_Karen_sit2_48x48_1: -3162891425503797876
+      kid_Karen_sit2_48x48_10: -8119353138239748819
+      kid_Karen_sit2_48x48_11: -8764736444986203306
+      kid_Karen_sit2_48x48_2: -7186006914621369948
+      kid_Karen_sit2_48x48_3: 8044132300330158213
+      kid_Karen_sit2_48x48_4: 6418841451048608084
+      kid_Karen_sit2_48x48_5: -3053779504296464676
+      kid_Karen_sit2_48x48_6: -602915995693038835
+      kid_Karen_sit2_48x48_7: 1918794732060778448
+      kid_Karen_sit2_48x48_8: -3889753462534141406
+      kid_Karen_sit2_48x48_9: -5824242441146265865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

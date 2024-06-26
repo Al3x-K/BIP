@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_run_16x16_0: -4313236931946029546
+      Conference_man_run_16x16_1: -8771086379821464789
+      Conference_man_run_16x16_10: 6897984116012490239
+      Conference_man_run_16x16_11: 1834160626220075340
+      Conference_man_run_16x16_12: -5727235218777655675
+      Conference_man_run_16x16_13: 8984540548600667061
+      Conference_man_run_16x16_14: 368665522422007154
+      Conference_man_run_16x16_15: 6803608964393929339
+      Conference_man_run_16x16_16: -4730810713218520698
+      Conference_man_run_16x16_17: -6272886453054381624
+      Conference_man_run_16x16_18: 6829065196511903427
+      Conference_man_run_16x16_19: -1971294697232380639
+      Conference_man_run_16x16_2: 4409079263149583067
+      Conference_man_run_16x16_20: 7952531618458717930
+      Conference_man_run_16x16_21: -1266567693578864484
+      Conference_man_run_16x16_22: 8838337014146514613
+      Conference_man_run_16x16_3: -438860226253169442
+      Conference_man_run_16x16_4: -2758719067555407812
+      Conference_man_run_16x16_5: 2892625347577037358
+      Conference_man_run_16x16_6: -8277838278554380510
+      Conference_man_run_16x16_7: -8587463676634337259
+      Conference_man_run_16x16_8: 8624799514612477658
+      Conference_man_run_16x16_9: 15608932767399596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

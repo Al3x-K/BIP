@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bouncer_shopping_cart_48x48_0: -6388168813445069627
+      Bouncer_shopping_cart_48x48_1: -5941474099213396983
+      Bouncer_shopping_cart_48x48_10: 6546723390252362801
+      Bouncer_shopping_cart_48x48_11: -984840180294008158
+      Bouncer_shopping_cart_48x48_12: -1841612092297672700
+      Bouncer_shopping_cart_48x48_13: -3875629956312361414
+      Bouncer_shopping_cart_48x48_14: -7582260927600852978
+      Bouncer_shopping_cart_48x48_15: 5961292944887797378
+      Bouncer_shopping_cart_48x48_16: -6441690616008717262
+      Bouncer_shopping_cart_48x48_17: -5466439297000798685
+      Bouncer_shopping_cart_48x48_18: -6064505212532509247
+      Bouncer_shopping_cart_48x48_19: 3574154529973156785
+      Bouncer_shopping_cart_48x48_2: 5750613898552310507
+      Bouncer_shopping_cart_48x48_20: 5842482437782605482
+      Bouncer_shopping_cart_48x48_21: -6737966694968826411
+      Bouncer_shopping_cart_48x48_22: 7167948613413182005
+      Bouncer_shopping_cart_48x48_23: 1568102127816878628
+      Bouncer_shopping_cart_48x48_3: 1998903021497179690
+      Bouncer_shopping_cart_48x48_4: 4450704363273547433
+      Bouncer_shopping_cart_48x48_5: 8099808873191315103
+      Bouncer_shopping_cart_48x48_6: -5970118620121966936
+      Bouncer_shopping_cart_48x48_7: -8030937535987661280
+      Bouncer_shopping_cart_48x48_8: 2473295216590474902
+      Bouncer_shopping_cart_48x48_9: -352773281821627842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_reading_16x16_0: 5866663520078233020
+      Conference_man_reading_16x16_1: 5549228019632933234
+      Conference_man_reading_16x16_10: -1987680086887399210
+      Conference_man_reading_16x16_11: -53936670317451907
+      Conference_man_reading_16x16_12: 1839939725551894820
+      Conference_man_reading_16x16_13: -2548883136353321691
+      Conference_man_reading_16x16_14: -7005595826225616468
+      Conference_man_reading_16x16_15: 721738082049631522
+      Conference_man_reading_16x16_16: 404806551390145276
+      Conference_man_reading_16x16_17: 184765438845912619
+      Conference_man_reading_16x16_2: 4854169170018925244
+      Conference_man_reading_16x16_3: -6643530749070278288
+      Conference_man_reading_16x16_4: -6283213392849297839
+      Conference_man_reading_16x16_5: 1667754914826395118
+      Conference_man_reading_16x16_6: -1560494516961277323
+      Conference_man_reading_16x16_7: -6822810067181905100
+      Conference_man_reading_16x16_8: 8284694299131822490
+      Conference_man_reading_16x16_9: -567219362251252214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

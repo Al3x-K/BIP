@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_shopping_cart_16x16_0: -275815435200787731
+      Bruce_shopping_cart_16x16_1: -3720471798659957635
+      Bruce_shopping_cart_16x16_10: 3908578889413858590
+      Bruce_shopping_cart_16x16_11: -8377926852583199126
+      Bruce_shopping_cart_16x16_12: -4424328554821400326
+      Bruce_shopping_cart_16x16_13: -8431526207284997428
+      Bruce_shopping_cart_16x16_14: -1337756610734946125
+      Bruce_shopping_cart_16x16_15: 5303646949713444647
+      Bruce_shopping_cart_16x16_16: 1003229904836296267
+      Bruce_shopping_cart_16x16_17: 4433303200527827327
+      Bruce_shopping_cart_16x16_18: -1307839065906252039
+      Bruce_shopping_cart_16x16_19: 6491828309696729145
+      Bruce_shopping_cart_16x16_2: 8622528622126966262
+      Bruce_shopping_cart_16x16_20: -1731838985985712394
+      Bruce_shopping_cart_16x16_21: 5405017112475841449
+      Bruce_shopping_cart_16x16_22: 8212371873911701379
+      Bruce_shopping_cart_16x16_23: 5398232682201123195
+      Bruce_shopping_cart_16x16_3: -2781403877291646758
+      Bruce_shopping_cart_16x16_4: -6406815651011709011
+      Bruce_shopping_cart_16x16_5: -8620006702833404215
+      Bruce_shopping_cart_16x16_6: 4645237354460536255
+      Bruce_shopping_cart_16x16_7: -4934672909764755960
+      Bruce_shopping_cart_16x16_8: -1660232778427055259
+      Bruce_shopping_cart_16x16_9: 421893678144085717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

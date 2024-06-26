@@ -358,6 +358,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2240,7 +2264,96 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_woman_Jenny_16x16_0: 4292980494253293535
+      Old_woman_Jenny_16x16_1: 8178756111087330854
+      Old_woman_Jenny_16x16_10: 2977365728519049775
+      Old_woman_Jenny_16x16_11: -8581948654365010126
+      Old_woman_Jenny_16x16_12: -4524003332533304156
+      Old_woman_Jenny_16x16_13: -5485385388439515835
+      Old_woman_Jenny_16x16_14: 2761863966363734630
+      Old_woman_Jenny_16x16_15: 8920279683833788048
+      Old_woman_Jenny_16x16_16: -8915314377490019087
+      Old_woman_Jenny_16x16_17: -4659170378738683278
+      Old_woman_Jenny_16x16_18: -3721104964344925346
+      Old_woman_Jenny_16x16_19: 1953745242542569154
+      Old_woman_Jenny_16x16_2: 7761346513818064151
+      Old_woman_Jenny_16x16_20: 306387663912048074
+      Old_woman_Jenny_16x16_21: -944845102416667949
+      Old_woman_Jenny_16x16_22: -7287538802676050036
+      Old_woman_Jenny_16x16_23: -7328534324366840725
+      Old_woman_Jenny_16x16_24: 3109725198393437863
+      Old_woman_Jenny_16x16_25: 908683093763816749
+      Old_woman_Jenny_16x16_26: -8311359469096734568
+      Old_woman_Jenny_16x16_27: 2119648241451789267
+      Old_woman_Jenny_16x16_28: -686641430593062805
+      Old_woman_Jenny_16x16_29: -6946803707498055112
+      Old_woman_Jenny_16x16_3: 7277557032563183499
+      Old_woman_Jenny_16x16_30: 2765018262161280433
+      Old_woman_Jenny_16x16_31: 5786710455369850911
+      Old_woman_Jenny_16x16_32: -3658589869045091147
+      Old_woman_Jenny_16x16_33: -6976847070890952650
+      Old_woman_Jenny_16x16_34: -829621192123478726
+      Old_woman_Jenny_16x16_35: -8244297374043401146
+      Old_woman_Jenny_16x16_36: 7677415213871454292
+      Old_woman_Jenny_16x16_37: -2335271124458220511
+      Old_woman_Jenny_16x16_38: -5707089196120711653
+      Old_woman_Jenny_16x16_39: 6364360499959369905
+      Old_woman_Jenny_16x16_4: 6064910457531990465
+      Old_woman_Jenny_16x16_40: -2666479519549051744
+      Old_woman_Jenny_16x16_41: 6920683742429937702
+      Old_woman_Jenny_16x16_42: 1615423429536425236
+      Old_woman_Jenny_16x16_43: 1831192291691785617
+      Old_woman_Jenny_16x16_44: -811268193713899422
+      Old_woman_Jenny_16x16_45: 6042939181714563329
+      Old_woman_Jenny_16x16_46: -2420131487238357497
+      Old_woman_Jenny_16x16_47: -6895667506767092245
+      Old_woman_Jenny_16x16_48: -5965521859071870464
+      Old_woman_Jenny_16x16_49: -6089419384388921884
+      Old_woman_Jenny_16x16_5: 436144415359488915
+      Old_woman_Jenny_16x16_50: 3506150569338554758
+      Old_woman_Jenny_16x16_51: 8848066733515994250
+      Old_woman_Jenny_16x16_52: -3204816819376584971
+      Old_woman_Jenny_16x16_53: 701700450837255817
+      Old_woman_Jenny_16x16_54: -4967849895830845100
+      Old_woman_Jenny_16x16_55: 5348269582993601218
+      Old_woman_Jenny_16x16_56: 3620695693743746514
+      Old_woman_Jenny_16x16_57: 4571199546618366747
+      Old_woman_Jenny_16x16_58: -7214589899740904960
+      Old_woman_Jenny_16x16_59: 773834911325013869
+      Old_woman_Jenny_16x16_6: 7868980185239201688
+      Old_woman_Jenny_16x16_60: -2268120528650666114
+      Old_woman_Jenny_16x16_61: 2058836990931224835
+      Old_woman_Jenny_16x16_62: 2947586810654722215
+      Old_woman_Jenny_16x16_63: -7638177670020476152
+      Old_woman_Jenny_16x16_64: 5769776285350853052
+      Old_woman_Jenny_16x16_65: -4824403058568607505
+      Old_woman_Jenny_16x16_66: -1257156733813554347
+      Old_woman_Jenny_16x16_67: 2792397666791428565
+      Old_woman_Jenny_16x16_68: 7078821914387792900
+      Old_woman_Jenny_16x16_69: 2186830686519888133
+      Old_woman_Jenny_16x16_7: 8268451039452260335
+      Old_woman_Jenny_16x16_70: -6412792730186611516
+      Old_woman_Jenny_16x16_71: 5402415876355070873
+      Old_woman_Jenny_16x16_72: -6229563233522496975
+      Old_woman_Jenny_16x16_73: 6186368429958494839
+      Old_woman_Jenny_16x16_74: 4673800305821390254
+      Old_woman_Jenny_16x16_75: -5821110492551074213
+      Old_woman_Jenny_16x16_76: -3508274533054014378
+      Old_woman_Jenny_16x16_77: -7009272102164671167
+      Old_woman_Jenny_16x16_78: -7107040452151780765
+      Old_woman_Jenny_16x16_79: 4276769159061017168
+      Old_woman_Jenny_16x16_8: -8421670607705086502
+      Old_woman_Jenny_16x16_80: -5151161474063132790
+      Old_woman_Jenny_16x16_81: 1969972963288036908
+      Old_woman_Jenny_16x16_82: -8231352831103114327
+      Old_woman_Jenny_16x16_83: -7430964241888188482
+      Old_woman_Jenny_16x16_84: -1711236852771086908
+      Old_woman_Jenny_16x16_85: -6979241902403504556
+      Old_woman_Jenny_16x16_86: -4283315837979145577
+      Old_woman_Jenny_16x16_87: 7328329472059327372
+      Old_woman_Jenny_16x16_88: 5717634125554768388
+      Old_woman_Jenny_16x16_9: -4802772475111628817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

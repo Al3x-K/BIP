@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Butcher_idle_anim_16x16_0: -6479059747688275250
+      Butcher_idle_anim_16x16_1: 2962070646440523072
+      Butcher_idle_anim_16x16_10: 7200114879628408292
+      Butcher_idle_anim_16x16_11: -1324312014781620424
+      Butcher_idle_anim_16x16_12: -7124413652523005158
+      Butcher_idle_anim_16x16_2: 4165347363166393453
+      Butcher_idle_anim_16x16_3: 1464632165127690790
+      Butcher_idle_anim_16x16_4: -1772287354777740962
+      Butcher_idle_anim_16x16_5: -233612925605434557
+      Butcher_idle_anim_16x16_6: 1319998890329277425
+      Butcher_idle_anim_16x16_7: 658629273534486536
+      Butcher_idle_anim_16x16_8: 8763925039789571347
+      Butcher_idle_anim_16x16_9: -7976358781050889693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

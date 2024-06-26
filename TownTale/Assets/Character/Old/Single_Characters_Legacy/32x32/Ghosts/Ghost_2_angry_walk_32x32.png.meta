@@ -259,6 +259,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1448,7 +1472,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_2_angry_walk_32x32_0: -3372709083592743129
+      Ghost_2_angry_walk_32x32_1: 371141649207854974
+      Ghost_2_angry_walk_32x32_10: -2546161871228166326
+      Ghost_2_angry_walk_32x32_11: 1165235467585758900
+      Ghost_2_angry_walk_32x32_12: 3909687773797468179
+      Ghost_2_angry_walk_32x32_13: 8078861093131354811
+      Ghost_2_angry_walk_32x32_14: -911027650130849537
+      Ghost_2_angry_walk_32x32_15: 8580432619853833519
+      Ghost_2_angry_walk_32x32_16: -1643303306963568310
+      Ghost_2_angry_walk_32x32_17: 3256669312639554583
+      Ghost_2_angry_walk_32x32_18: 4478525401700686844
+      Ghost_2_angry_walk_32x32_19: -1282382777932919995
+      Ghost_2_angry_walk_32x32_2: 3191074725197242769
+      Ghost_2_angry_walk_32x32_20: -1022986617243846581
+      Ghost_2_angry_walk_32x32_21: -5485359356222835368
+      Ghost_2_angry_walk_32x32_22: -6523942898478064389
+      Ghost_2_angry_walk_32x32_23: -4120775124557571198
+      Ghost_2_angry_walk_32x32_24: 6748807407398180660
+      Ghost_2_angry_walk_32x32_25: 2524510635035554882
+      Ghost_2_angry_walk_32x32_26: -8136878131480444070
+      Ghost_2_angry_walk_32x32_27: 5082071855223700692
+      Ghost_2_angry_walk_32x32_28: -7216122590388761129
+      Ghost_2_angry_walk_32x32_29: 3784055155353653941
+      Ghost_2_angry_walk_32x32_3: -728004701642014769
+      Ghost_2_angry_walk_32x32_30: -7412893811215966584
+      Ghost_2_angry_walk_32x32_31: -1801806125633751609
+      Ghost_2_angry_walk_32x32_32: 4446687455892257136
+      Ghost_2_angry_walk_32x32_33: -4138758604181797963
+      Ghost_2_angry_walk_32x32_34: -7669653667448865080
+      Ghost_2_angry_walk_32x32_35: -3462706632551938972
+      Ghost_2_angry_walk_32x32_36: 7108276343230992192
+      Ghost_2_angry_walk_32x32_37: -5496918244831448031
+      Ghost_2_angry_walk_32x32_38: 6905379080381953978
+      Ghost_2_angry_walk_32x32_39: 1886419984922375914
+      Ghost_2_angry_walk_32x32_4: -7499739062181753550
+      Ghost_2_angry_walk_32x32_40: -4560391363770741574
+      Ghost_2_angry_walk_32x32_41: -3805881692050535318
+      Ghost_2_angry_walk_32x32_42: -7089097935754628059
+      Ghost_2_angry_walk_32x32_43: 7219458827550210362
+      Ghost_2_angry_walk_32x32_44: 4442619845724854398
+      Ghost_2_angry_walk_32x32_45: 1804343799380435379
+      Ghost_2_angry_walk_32x32_46: -2771546166223009217
+      Ghost_2_angry_walk_32x32_47: 6869261494075814452
+      Ghost_2_angry_walk_32x32_48: -73020789342678389
+      Ghost_2_angry_walk_32x32_49: -1075491872835040415
+      Ghost_2_angry_walk_32x32_5: -5005243671790128129
+      Ghost_2_angry_walk_32x32_50: 6046356972134176671
+      Ghost_2_angry_walk_32x32_51: 3227852185704854618
+      Ghost_2_angry_walk_32x32_52: -7022163162642585093
+      Ghost_2_angry_walk_32x32_53: 6642817105579210951
+      Ghost_2_angry_walk_32x32_54: 5818158571405578978
+      Ghost_2_angry_walk_32x32_55: 4767861469291442856
+      Ghost_2_angry_walk_32x32_6: 5917953510549034931
+      Ghost_2_angry_walk_32x32_7: -2010947535886080212
+      Ghost_2_angry_walk_32x32_8: 2060839589889306185
+      Ghost_2_angry_walk_32x32_9: 2255638267764058203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

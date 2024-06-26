@@ -148,6 +148,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -560,7 +584,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Lucy_run_32x32_0: -8543326777030085022
+      Chef_Lucy_run_32x32_1: -4403418933078966727
+      Chef_Lucy_run_32x32_10: -5766555117961046839
+      Chef_Lucy_run_32x32_11: -4148124850768451487
+      Chef_Lucy_run_32x32_12: -2772648814240860513
+      Chef_Lucy_run_32x32_13: 8602447712032697133
+      Chef_Lucy_run_32x32_14: 3555120639500948663
+      Chef_Lucy_run_32x32_15: -8337081515813835205
+      Chef_Lucy_run_32x32_16: 6104226559675626483
+      Chef_Lucy_run_32x32_17: -5969811026276152960
+      Chef_Lucy_run_32x32_18: -2764075467823319095
+      Chef_Lucy_run_32x32_2: 2129339584265865941
+      Chef_Lucy_run_32x32_3: 7577598021772471885
+      Chef_Lucy_run_32x32_4: 4401039294162485033
+      Chef_Lucy_run_32x32_5: 5066287664061966830
+      Chef_Lucy_run_32x32_6: -3874760736291333789
+      Chef_Lucy_run_32x32_7: -2345816294252947169
+      Chef_Lucy_run_32x32_8: -106042745476230128
+      Chef_Lucy_run_32x32_9: -2925033789216077911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

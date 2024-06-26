@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Pier_run_48x48_0: -567618350492799203
+      Chef_Pier_run_48x48_1: 3180557889882356821
+      Chef_Pier_run_48x48_10: 4249253718715076087
+      Chef_Pier_run_48x48_11: -4226441675329859828
+      Chef_Pier_run_48x48_12: -3502755721253094773
+      Chef_Pier_run_48x48_13: -2940203249516186790
+      Chef_Pier_run_48x48_14: -559123449092755127
+      Chef_Pier_run_48x48_15: -7319948996990380366
+      Chef_Pier_run_48x48_16: 4967133403179227872
+      Chef_Pier_run_48x48_17: 7427700192363840228
+      Chef_Pier_run_48x48_18: -4081710592440024908
+      Chef_Pier_run_48x48_19: -5119606108750555350
+      Chef_Pier_run_48x48_2: 4343691596432451049
+      Chef_Pier_run_48x48_20: -3347504516265992669
+      Chef_Pier_run_48x48_21: 4096492909502307007
+      Chef_Pier_run_48x48_22: -7174464748908851372
+      Chef_Pier_run_48x48_3: 5677467193740563198
+      Chef_Pier_run_48x48_4: -1939778155453101980
+      Chef_Pier_run_48x48_5: 1657996799389506698
+      Chef_Pier_run_48x48_6: -3978898680953266308
+      Chef_Pier_run_48x48_7: -4523688273310010709
+      Chef_Pier_run_48x48_8: 929251237556287552
+      Chef_Pier_run_48x48_9: -4343657718532982795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

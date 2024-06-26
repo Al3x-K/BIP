@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Lucy_idle_anim_32x32_0: -8611866070559789693
+      Chef_Lucy_idle_anim_32x32_1: -5726029839950558878
+      Chef_Lucy_idle_anim_32x32_10: 2776077331376757079
+      Chef_Lucy_idle_anim_32x32_11: -2268216619944684160
+      Chef_Lucy_idle_anim_32x32_12: 7699120725137122223
+      Chef_Lucy_idle_anim_32x32_13: -119516411244241213
+      Chef_Lucy_idle_anim_32x32_2: -6347152839138022354
+      Chef_Lucy_idle_anim_32x32_3: 7328462532541153704
+      Chef_Lucy_idle_anim_32x32_4: 3084811861334286173
+      Chef_Lucy_idle_anim_32x32_5: -4818776328570125301
+      Chef_Lucy_idle_anim_32x32_6: 5579664455183939178
+      Chef_Lucy_idle_anim_32x32_7: 7281975619659588193
+      Chef_Lucy_idle_anim_32x32_8: -5543529067017722467
+      Chef_Lucy_idle_anim_32x32_9: -2040619866666297907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

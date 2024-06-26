@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_shopping_cart_16x16_0: -5934791755592883940
+      Conference_man_shopping_cart_16x16_1: 8579624863048702946
+      Conference_man_shopping_cart_16x16_10: 8614733194907927704
+      Conference_man_shopping_cart_16x16_11: 7915069790195376344
+      Conference_man_shopping_cart_16x16_12: -3733375079575030412
+      Conference_man_shopping_cart_16x16_13: 4295770414181479579
+      Conference_man_shopping_cart_16x16_14: 1425262457207368718
+      Conference_man_shopping_cart_16x16_15: -8309492169915978979
+      Conference_man_shopping_cart_16x16_16: 6230956435174909520
+      Conference_man_shopping_cart_16x16_17: -2929093409113217330
+      Conference_man_shopping_cart_16x16_18: 1548317340387793821
+      Conference_man_shopping_cart_16x16_19: 3929917527428706603
+      Conference_man_shopping_cart_16x16_2: -2152050924905075809
+      Conference_man_shopping_cart_16x16_20: 4097095171861547127
+      Conference_man_shopping_cart_16x16_21: -1851147779029316135
+      Conference_man_shopping_cart_16x16_22: 7006054159216638714
+      Conference_man_shopping_cart_16x16_23: 4497692017122616065
+      Conference_man_shopping_cart_16x16_3: -5192194778672736398
+      Conference_man_shopping_cart_16x16_4: 1035107103707869488
+      Conference_man_shopping_cart_16x16_5: 8835534189974607690
+      Conference_man_shopping_cart_16x16_6: 6925289509956530524
+      Conference_man_shopping_cart_16x16_7: -222243029869336274
+      Conference_man_shopping_cart_16x16_8: 5375952687692756455
+      Conference_man_shopping_cart_16x16_9: -8191831511815405556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

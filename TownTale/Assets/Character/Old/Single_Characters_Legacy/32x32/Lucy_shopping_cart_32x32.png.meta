@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucy_shopping_cart_32x32_0: -3220917214930340606
+      Lucy_shopping_cart_32x32_1: 8465505670062382117
+      Lucy_shopping_cart_32x32_10: -6571485239935213603
+      Lucy_shopping_cart_32x32_11: -1748225387862939555
+      Lucy_shopping_cart_32x32_12: -5747619338768854169
+      Lucy_shopping_cart_32x32_13: 1496246900684434242
+      Lucy_shopping_cart_32x32_14: -6239711732323422104
+      Lucy_shopping_cart_32x32_15: 9141365609524860912
+      Lucy_shopping_cart_32x32_16: -1350105838443138188
+      Lucy_shopping_cart_32x32_17: 5892431312417650586
+      Lucy_shopping_cart_32x32_18: -5768219396150604829
+      Lucy_shopping_cart_32x32_19: -2128992329438346492
+      Lucy_shopping_cart_32x32_2: -9075826931910819639
+      Lucy_shopping_cart_32x32_20: 575252615387005992
+      Lucy_shopping_cart_32x32_21: 6700115371094720944
+      Lucy_shopping_cart_32x32_22: -4782913358549415734
+      Lucy_shopping_cart_32x32_23: 900460391676819289
+      Lucy_shopping_cart_32x32_3: -2470985018637756780
+      Lucy_shopping_cart_32x32_4: -2947037740957389443
+      Lucy_shopping_cart_32x32_5: -504368163645287369
+      Lucy_shopping_cart_32x32_6: -5736360588459713594
+      Lucy_shopping_cart_32x32_7: 5042844225631261875
+      Lucy_shopping_cart_32x32_8: -4371197276271671747
+      Lucy_shopping_cart_32x32_9: 1422828982222229482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

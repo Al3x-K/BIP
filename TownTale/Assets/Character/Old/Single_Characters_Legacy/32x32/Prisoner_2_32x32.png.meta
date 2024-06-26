@@ -217,6 +217,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1112,7 +1136,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Prisoner_2_32x32_0: -151040898221186119
+      Prisoner_2_32x32_1: 4399193065471674406
+      Prisoner_2_32x32_10: 895137793459090635
+      Prisoner_2_32x32_11: 7676635801986838317
+      Prisoner_2_32x32_12: -5495883745662799238
+      Prisoner_2_32x32_13: 5058318115569043552
+      Prisoner_2_32x32_14: 7567229775565378418
+      Prisoner_2_32x32_15: 4116346119678293580
+      Prisoner_2_32x32_16: -8900053956936927434
+      Prisoner_2_32x32_17: 1890771030943823440
+      Prisoner_2_32x32_18: -4102888817733134232
+      Prisoner_2_32x32_19: -5671395499177322273
+      Prisoner_2_32x32_2: 7887201220856137200
+      Prisoner_2_32x32_20: 1021458386360071236
+      Prisoner_2_32x32_21: -4655719927982884913
+      Prisoner_2_32x32_22: 9016209835208736061
+      Prisoner_2_32x32_23: 2672255479058821856
+      Prisoner_2_32x32_24: 2219763557949360712
+      Prisoner_2_32x32_25: 1799324329903279756
+      Prisoner_2_32x32_26: 3568142179653880693
+      Prisoner_2_32x32_27: -4190989397700510273
+      Prisoner_2_32x32_28: -7862539294791684515
+      Prisoner_2_32x32_29: 5084412505371985414
+      Prisoner_2_32x32_3: 4146871041833765205
+      Prisoner_2_32x32_30: 7311563736780698676
+      Prisoner_2_32x32_31: -8091955007900832593
+      Prisoner_2_32x32_32: -8559263957263792283
+      Prisoner_2_32x32_33: 2589460538588924324
+      Prisoner_2_32x32_34: -1791343541682180797
+      Prisoner_2_32x32_35: 951967928668411444
+      Prisoner_2_32x32_36: 838673178473848067
+      Prisoner_2_32x32_37: 7405929675367825933
+      Prisoner_2_32x32_38: 3144604951240143583
+      Prisoner_2_32x32_39: 1267005420835508186
+      Prisoner_2_32x32_4: 2378105555495531990
+      Prisoner_2_32x32_40: 777713603418498982
+      Prisoner_2_32x32_41: -8243839411230103153
+      Prisoner_2_32x32_5: 8708324737379631703
+      Prisoner_2_32x32_6: -1183453585736949395
+      Prisoner_2_32x32_7: -3405192072120303131
+      Prisoner_2_32x32_8: 3085858142215820516
+      Prisoner_2_32x32_9: 3453379818864210268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

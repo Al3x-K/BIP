@@ -214,6 +214,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1088,7 +1112,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishmonger_1_16x16_0: -2949016750018260694
+      Fishmonger_1_16x16_1: 674742349282912399
+      Fishmonger_1_16x16_10: 5029656417634972665
+      Fishmonger_1_16x16_11: -359833578797018543
+      Fishmonger_1_16x16_12: 1730450101453563057
+      Fishmonger_1_16x16_13: -1538242753284406410
+      Fishmonger_1_16x16_14: -5981866079604425156
+      Fishmonger_1_16x16_15: 4617138159422112886
+      Fishmonger_1_16x16_16: -814786051643972246
+      Fishmonger_1_16x16_17: -5815282204054887267
+      Fishmonger_1_16x16_18: 5806441615589388689
+      Fishmonger_1_16x16_19: -4856653510260542600
+      Fishmonger_1_16x16_2: -6947663982494798398
+      Fishmonger_1_16x16_20: 5812751641454020971
+      Fishmonger_1_16x16_21: 4468763691382211735
+      Fishmonger_1_16x16_22: 4019852698610879045
+      Fishmonger_1_16x16_23: 3481535479971769665
+      Fishmonger_1_16x16_24: -316266740172693398
+      Fishmonger_1_16x16_25: 2874645415067255234
+      Fishmonger_1_16x16_26: 5058040367419191388
+      Fishmonger_1_16x16_27: 5663631706229004991
+      Fishmonger_1_16x16_28: 1797153372643480814
+      Fishmonger_1_16x16_29: -2800558453401862799
+      Fishmonger_1_16x16_3: -6305633177830229246
+      Fishmonger_1_16x16_30: -2564994311860937395
+      Fishmonger_1_16x16_31: 8551493349325514582
+      Fishmonger_1_16x16_32: 5364351826334769082
+      Fishmonger_1_16x16_33: 5102454771767832019
+      Fishmonger_1_16x16_34: 5610961029155825942
+      Fishmonger_1_16x16_35: 8868573689112316062
+      Fishmonger_1_16x16_36: 4736760525696494064
+      Fishmonger_1_16x16_37: 8934845975595129646
+      Fishmonger_1_16x16_38: -3693520034864230090
+      Fishmonger_1_16x16_39: 6670458028368375079
+      Fishmonger_1_16x16_4: 6413548268259974640
+      Fishmonger_1_16x16_40: -2731137727248237766
+      Fishmonger_1_16x16_5: -7265671159208331559
+      Fishmonger_1_16x16_6: -6818962099768079447
+      Fishmonger_1_16x16_7: 2494731213145005599
+      Fishmonger_1_16x16_8: -6971573624714737796
+      Fishmonger_1_16x16_9: 7925911001838268341
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

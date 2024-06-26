@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Karen_run_16x16_0: 3550520225030507743
+      Kid_Karen_run_16x16_1: -6274406875135025553
+      Kid_Karen_run_16x16_10: 5561656780987628909
+      Kid_Karen_run_16x16_11: -8230975077390016168
+      Kid_Karen_run_16x16_12: -3290798186289630746
+      Kid_Karen_run_16x16_13: 6393875656181188435
+      Kid_Karen_run_16x16_14: -5877444195196957662
+      Kid_Karen_run_16x16_15: 8907362863117779696
+      Kid_Karen_run_16x16_16: 3623158828470736114
+      Kid_Karen_run_16x16_17: 4864673789273041476
+      Kid_Karen_run_16x16_18: 3402253923168335048
+      Kid_Karen_run_16x16_19: -2552514157589977931
+      Kid_Karen_run_16x16_2: -6800005472694715146
+      Kid_Karen_run_16x16_20: -9117733721997174844
+      Kid_Karen_run_16x16_21: -6661898409573088480
+      Kid_Karen_run_16x16_22: -603874435408945971
+      Kid_Karen_run_16x16_23: -107903303017908340
+      Kid_Karen_run_16x16_3: -5880129378621553778
+      Kid_Karen_run_16x16_4: -1909026025056912900
+      Kid_Karen_run_16x16_5: 7847023297449794823
+      Kid_Karen_run_16x16_6: 564467000362345529
+      Kid_Karen_run_16x16_7: 1986987382686300399
+      Kid_Karen_run_16x16_8: 3270797814152756281
+      Kid_Karen_run_16x16_9: 6949766049422072838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucy_shopping_cart_16x16_0: 1810701187145616334
+      Lucy_shopping_cart_16x16_1: -5051124450741372326
+      Lucy_shopping_cart_16x16_10: 7969234077700139737
+      Lucy_shopping_cart_16x16_11: 390652206396264808
+      Lucy_shopping_cart_16x16_12: 7532049831416468461
+      Lucy_shopping_cart_16x16_13: -2172487794159949032
+      Lucy_shopping_cart_16x16_14: -3674615387930028177
+      Lucy_shopping_cart_16x16_15: -5729044701416107188
+      Lucy_shopping_cart_16x16_16: 4599235928296477878
+      Lucy_shopping_cart_16x16_17: -8066876531228968065
+      Lucy_shopping_cart_16x16_18: 329152743012110771
+      Lucy_shopping_cart_16x16_19: 5920896478682127236
+      Lucy_shopping_cart_16x16_2: 5197860017962354440
+      Lucy_shopping_cart_16x16_20: -8214753099054449610
+      Lucy_shopping_cart_16x16_21: 512369608993621527
+      Lucy_shopping_cart_16x16_22: -6658383722513961857
+      Lucy_shopping_cart_16x16_23: 546592334577329053
+      Lucy_shopping_cart_16x16_3: -5481236383415317541
+      Lucy_shopping_cart_16x16_4: -3119840347545671451
+      Lucy_shopping_cart_16x16_5: -4119905581989861027
+      Lucy_shopping_cart_16x16_6: 6062554808182526025
+      Lucy_shopping_cart_16x16_7: 2223120524130705873
+      Lucy_shopping_cart_16x16_8: 1546754998716380023
+      Lucy_shopping_cart_16x16_9: 8827957615930608202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

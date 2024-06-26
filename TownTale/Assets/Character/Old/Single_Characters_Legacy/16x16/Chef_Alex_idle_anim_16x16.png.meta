@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Alex_idle_anim_16x16_0: 8493384873362209948
+      Chef_Alex_idle_anim_16x16_1: 2659513847399748699
+      Chef_Alex_idle_anim_16x16_10: 7857202722281264580
+      Chef_Alex_idle_anim_16x16_11: 7282566210976260367
+      Chef_Alex_idle_anim_16x16_12: -1788602438951083602
+      Chef_Alex_idle_anim_16x16_13: 352566146634402610
+      Chef_Alex_idle_anim_16x16_2: 2833739805913861141
+      Chef_Alex_idle_anim_16x16_3: -1454388449786600126
+      Chef_Alex_idle_anim_16x16_4: -1443427244565948789
+      Chef_Alex_idle_anim_16x16_5: -351075721303777124
+      Chef_Alex_idle_anim_16x16_6: 9046793547752678018
+      Chef_Alex_idle_anim_16x16_7: -5463414212259916322
+      Chef_Alex_idle_anim_16x16_8: 8990525425854582853
+      Chef_Alex_idle_anim_16x16_9: 723155940201000615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roki_shopping_cart_32x32_0: 1961016127455704202
+      Roki_shopping_cart_32x32_1: -354383911581452738
+      Roki_shopping_cart_32x32_10: -5623554009953551441
+      Roki_shopping_cart_32x32_11: -3543156744721196866
+      Roki_shopping_cart_32x32_12: -2069758964087811762
+      Roki_shopping_cart_32x32_13: 5526618742474794733
+      Roki_shopping_cart_32x32_14: 6291749233406593898
+      Roki_shopping_cart_32x32_15: -8062042100378710391
+      Roki_shopping_cart_32x32_16: 4779026607512652889
+      Roki_shopping_cart_32x32_17: -3203415461309599901
+      Roki_shopping_cart_32x32_18: 6433935088584565612
+      Roki_shopping_cart_32x32_19: 3894103329643957485
+      Roki_shopping_cart_32x32_2: 1416786431489992794
+      Roki_shopping_cart_32x32_20: -4615978010574121700
+      Roki_shopping_cart_32x32_21: 754213677266528532
+      Roki_shopping_cart_32x32_22: 9077762411475386714
+      Roki_shopping_cart_32x32_23: 8736102113963017088
+      Roki_shopping_cart_32x32_3: -5320864842680466382
+      Roki_shopping_cart_32x32_4: -3422451744075708589
+      Roki_shopping_cart_32x32_5: -8262195413219369842
+      Roki_shopping_cart_32x32_6: -6985286386757001854
+      Roki_shopping_cart_32x32_7: 1875109233182723188
+      Roki_shopping_cart_32x32_8: -129655954209064372
+      Roki_shopping_cart_32x32_9: -6600534164726310580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

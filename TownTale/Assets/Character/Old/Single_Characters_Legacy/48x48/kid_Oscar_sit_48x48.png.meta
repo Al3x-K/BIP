@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Oscar_sit_48x48_0: 1411427877455683986
+      kid_Oscar_sit_48x48_1: -3781161972092069118
+      kid_Oscar_sit_48x48_10: 5101809674370564905
+      kid_Oscar_sit_48x48_11: 2583047267095429379
+      kid_Oscar_sit_48x48_2: -176153640789752309
+      kid_Oscar_sit_48x48_3: 2701636809989562918
+      kid_Oscar_sit_48x48_4: -7081421249118835421
+      kid_Oscar_sit_48x48_5: -6140219173147896310
+      kid_Oscar_sit_48x48_6: 4922791550041954947
+      kid_Oscar_sit_48x48_7: 4878080868264628834
+      kid_Oscar_sit_48x48_8: 4346546907004123966
+      kid_Oscar_sit_48x48_9: -5354167733842763023
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

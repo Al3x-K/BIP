@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rob_run16x16_0: -8523398476354868554
+      Rob_run16x16_1: -7952898088618722655
+      Rob_run16x16_10: -3033706326452022813
+      Rob_run16x16_11: 6481367803875720196
+      Rob_run16x16_12: 6393419709298397748
+      Rob_run16x16_13: 7407413179546164924
+      Rob_run16x16_14: -6910849462474968390
+      Rob_run16x16_15: 2042326645364740614
+      Rob_run16x16_16: -6198511670890562699
+      Rob_run16x16_17: -1950159664241786489
+      Rob_run16x16_18: -6710031656224652744
+      Rob_run16x16_19: -6596354589740556105
+      Rob_run16x16_2: 8011797007592013636
+      Rob_run16x16_20: -5863063137136210214
+      Rob_run16x16_21: 1094524301229694521
+      Rob_run16x16_22: 1344098275498709865
+      Rob_run16x16_3: 322393330330381775
+      Rob_run16x16_4: -7613737556627291472
+      Rob_run16x16_5: -5357646465896498909
+      Rob_run16x16_6: 7824333456316136274
+      Rob_run16x16_7: 2841073736270121308
+      Rob_run16x16_8: -765997153315424006
+      Rob_run16x16_9: -749039184649108111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Tim_run_32x32_0: 4435673799477916721
+      Kid_Tim_run_32x32_1: 7765501445762085254
+      Kid_Tim_run_32x32_10: 981338571205150126
+      Kid_Tim_run_32x32_11: 2575379160768626074
+      Kid_Tim_run_32x32_12: 3065932605136870839
+      Kid_Tim_run_32x32_13: -868072838706518805
+      Kid_Tim_run_32x32_14: -4125086226525477349
+      Kid_Tim_run_32x32_15: -2491306103208480426
+      Kid_Tim_run_32x32_16: 1096655251101097009
+      Kid_Tim_run_32x32_17: 12508802197019432
+      Kid_Tim_run_32x32_18: -8772040726327086276
+      Kid_Tim_run_32x32_19: -6257430164129154784
+      Kid_Tim_run_32x32_2: 3396598943402755736
+      Kid_Tim_run_32x32_20: -9192837145411966532
+      Kid_Tim_run_32x32_21: -1484117139098062810
+      Kid_Tim_run_32x32_22: -217010190510427654
+      Kid_Tim_run_32x32_23: -7089658555131279911
+      Kid_Tim_run_32x32_3: 3930008988432931972
+      Kid_Tim_run_32x32_4: 4970008488515642696
+      Kid_Tim_run_32x32_5: 6362645740961875513
+      Kid_Tim_run_32x32_6: -5190666995043865756
+      Kid_Tim_run_32x32_7: 7048087098201889939
+      Kid_Tim_run_32x32_8: -3459023937194558204
+      Kid_Tim_run_32x32_9: 2453412531131160623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

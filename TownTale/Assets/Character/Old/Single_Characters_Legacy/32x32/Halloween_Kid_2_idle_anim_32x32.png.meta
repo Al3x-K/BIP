@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Halloween_Kid_2_idle_anim_32x32_0: 8661685939488644232
+      Halloween_Kid_2_idle_anim_32x32_1: -1891336396141702297
+      Halloween_Kid_2_idle_anim_32x32_10: -2193594799693330198
+      Halloween_Kid_2_idle_anim_32x32_11: 4934262761768374655
+      Halloween_Kid_2_idle_anim_32x32_12: 3637436477377656598
+      Halloween_Kid_2_idle_anim_32x32_13: -2847236331906842390
+      Halloween_Kid_2_idle_anim_32x32_14: 3397246559847308376
+      Halloween_Kid_2_idle_anim_32x32_15: 7350209456847887237
+      Halloween_Kid_2_idle_anim_32x32_16: -1245675302504063641
+      Halloween_Kid_2_idle_anim_32x32_17: -5645967315901375359
+      Halloween_Kid_2_idle_anim_32x32_18: -7126425920843733386
+      Halloween_Kid_2_idle_anim_32x32_19: 8824504053944530300
+      Halloween_Kid_2_idle_anim_32x32_2: -4786197938020129793
+      Halloween_Kid_2_idle_anim_32x32_20: 4216644531937166698
+      Halloween_Kid_2_idle_anim_32x32_21: 468096188150601151
+      Halloween_Kid_2_idle_anim_32x32_22: -7807995714009265497
+      Halloween_Kid_2_idle_anim_32x32_23: 8539943926248737249
+      Halloween_Kid_2_idle_anim_32x32_3: -3474200128283229058
+      Halloween_Kid_2_idle_anim_32x32_4: -2478290423762690688
+      Halloween_Kid_2_idle_anim_32x32_5: 5232527582591231564
+      Halloween_Kid_2_idle_anim_32x32_6: -1657432737550647491
+      Halloween_Kid_2_idle_anim_32x32_7: -4095138435682090458
+      Halloween_Kid_2_idle_anim_32x32_8: 634403343458055095
+      Halloween_Kid_2_idle_anim_32x32_9: -1309476181309915406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Butcher_run_32x32_0: -8814078005748019029
+      Butcher_run_32x32_1: 6717884324588022236
+      Butcher_run_32x32_10: 3297321623261247026
+      Butcher_run_32x32_11: -6078052506285353873
+      Butcher_run_32x32_12: -1433318808559975265
+      Butcher_run_32x32_13: 2216915937244553
+      Butcher_run_32x32_14: 4486437187484537843
+      Butcher_run_32x32_15: -6618112433038774300
+      Butcher_run_32x32_16: -8770695159532512190
+      Butcher_run_32x32_17: -6163678357780635797
+      Butcher_run_32x32_2: -8633091765590315246
+      Butcher_run_32x32_3: -5668991425661375684
+      Butcher_run_32x32_4: 5045844591742205810
+      Butcher_run_32x32_5: 3672803873518412101
+      Butcher_run_32x32_6: 5786544944834851563
+      Butcher_run_32x32_7: 413754367944451139
+      Butcher_run_32x32_8: -7858768520533827030
+      Butcher_run_32x32_9: 4934594531715357592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

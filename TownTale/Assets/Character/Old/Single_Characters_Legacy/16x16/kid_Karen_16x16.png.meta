@@ -436,6 +436,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2864,7 +2888,122 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Karen_16x16_0: 4555364222638873421
+      kid_Karen_16x16_1: -6321487271804065789
+      kid_Karen_16x16_10: -3295713335102701891
+      kid_Karen_16x16_100: -2669850798973545156
+      kid_Karen_16x16_101: -3479922997887915585
+      kid_Karen_16x16_102: -7174968521917517942
+      kid_Karen_16x16_103: 2179234431665820597
+      kid_Karen_16x16_104: 6624006585219749365
+      kid_Karen_16x16_105: -8604431229250833180
+      kid_Karen_16x16_106: 1353376096350692716
+      kid_Karen_16x16_107: 2150925793433276692
+      kid_Karen_16x16_108: -6394758810787870084
+      kid_Karen_16x16_109: 7005987109517683747
+      kid_Karen_16x16_11: -495410783909757266
+      kid_Karen_16x16_110: 723962586657193092
+      kid_Karen_16x16_111: 2763476663195267249
+      kid_Karen_16x16_112: 2355914086155732041
+      kid_Karen_16x16_113: -3954611752988585479
+      kid_Karen_16x16_114: 5844264933818519885
+      kid_Karen_16x16_12: 7439977925982148753
+      kid_Karen_16x16_13: -8949277831042992743
+      kid_Karen_16x16_14: 4499689795483250230
+      kid_Karen_16x16_15: 7956710582344491495
+      kid_Karen_16x16_16: 4601854495761644094
+      kid_Karen_16x16_17: -2818909506316496175
+      kid_Karen_16x16_18: 7270097348084850433
+      kid_Karen_16x16_19: -109274083796867704
+      kid_Karen_16x16_2: -3751304842106320128
+      kid_Karen_16x16_20: 6735515341960558423
+      kid_Karen_16x16_21: -6957296742373641223
+      kid_Karen_16x16_22: -5146272534173355560
+      kid_Karen_16x16_23: -8215870676412783666
+      kid_Karen_16x16_24: -9135693069638754123
+      kid_Karen_16x16_25: -7124191383057865097
+      kid_Karen_16x16_26: 7722528251364917095
+      kid_Karen_16x16_27: 1783649369862276590
+      kid_Karen_16x16_28: -4232792895631645549
+      kid_Karen_16x16_29: -8107501126883718391
+      kid_Karen_16x16_3: -4284325832515946775
+      kid_Karen_16x16_30: 5367363351488894590
+      kid_Karen_16x16_31: 1000380054301347720
+      kid_Karen_16x16_32: -1156440721943795130
+      kid_Karen_16x16_33: -7181570911532836864
+      kid_Karen_16x16_34: 6066566502833206238
+      kid_Karen_16x16_35: -7258120339184681658
+      kid_Karen_16x16_36: -7475663111189812916
+      kid_Karen_16x16_37: -169136566111139104
+      kid_Karen_16x16_38: -3524096918149434997
+      kid_Karen_16x16_39: 5601574640245435383
+      kid_Karen_16x16_4: 2341608247986392967
+      kid_Karen_16x16_40: 4237759489197713307
+      kid_Karen_16x16_41: 7748521291091023457
+      kid_Karen_16x16_42: -4806742175943363594
+      kid_Karen_16x16_43: -4093706909786435119
+      kid_Karen_16x16_44: 2348027003124535187
+      kid_Karen_16x16_45: -33749288237560827
+      kid_Karen_16x16_46: 4105393094588176054
+      kid_Karen_16x16_47: -4224361613420921711
+      kid_Karen_16x16_48: -5309643455457023203
+      kid_Karen_16x16_49: 6670234057264993553
+      kid_Karen_16x16_5: -946248235472858623
+      kid_Karen_16x16_50: -8017568650070707220
+      kid_Karen_16x16_51: -2272253596343171012
+      kid_Karen_16x16_52: -5368079504139906808
+      kid_Karen_16x16_53: -2478721542594632869
+      kid_Karen_16x16_54: -8578972281835670048
+      kid_Karen_16x16_55: 4108445795067749791
+      kid_Karen_16x16_56: 8133379579658404344
+      kid_Karen_16x16_57: 563377406345476142
+      kid_Karen_16x16_58: -7314300982989331084
+      kid_Karen_16x16_59: 7320176419011016105
+      kid_Karen_16x16_6: 1801731439821284822
+      kid_Karen_16x16_60: 219041511431945794
+      kid_Karen_16x16_61: -8727243272540441667
+      kid_Karen_16x16_62: 8811491049491374070
+      kid_Karen_16x16_63: -8667690747488959670
+      kid_Karen_16x16_64: -3154661758072482904
+      kid_Karen_16x16_65: -1418942423488972507
+      kid_Karen_16x16_66: -647941266686202143
+      kid_Karen_16x16_67: -291421777746788735
+      kid_Karen_16x16_68: -3106473909180556157
+      kid_Karen_16x16_69: 1018115882465539556
+      kid_Karen_16x16_7: 4066119280345655130
+      kid_Karen_16x16_70: -6656544198124874384
+      kid_Karen_16x16_71: -7011483888722737626
+      kid_Karen_16x16_72: -8142216925634028692
+      kid_Karen_16x16_73: -5588079631075666298
+      kid_Karen_16x16_74: 8571731685381148920
+      kid_Karen_16x16_75: -4165228419577141680
+      kid_Karen_16x16_76: -6866662726469145683
+      kid_Karen_16x16_77: 8794457871411619209
+      kid_Karen_16x16_78: -2814380797404876038
+      kid_Karen_16x16_79: 2999390107387936555
+      kid_Karen_16x16_8: 992973526382645756
+      kid_Karen_16x16_80: -7016117104418943315
+      kid_Karen_16x16_81: 1910744716024295434
+      kid_Karen_16x16_82: 2913605704549548876
+      kid_Karen_16x16_83: -5488833701596199113
+      kid_Karen_16x16_84: -1125523575926846395
+      kid_Karen_16x16_85: -4849473739343549045
+      kid_Karen_16x16_86: -4446855420792317446
+      kid_Karen_16x16_87: -6308923864462781375
+      kid_Karen_16x16_88: 6141868325678572171
+      kid_Karen_16x16_89: -3480841460358232173
+      kid_Karen_16x16_9: -3155044220330052056
+      kid_Karen_16x16_90: 5306320702835435978
+      kid_Karen_16x16_91: 3705443021469601244
+      kid_Karen_16x16_92: -5404096823743279472
+      kid_Karen_16x16_93: -7971500144380727043
+      kid_Karen_16x16_94: 4282955652747313862
+      kid_Karen_16x16_95: -3094191305937671457
+      kid_Karen_16x16_96: -368351238703849766
+      kid_Karen_16x16_97: 7653336296026779761
+      kid_Karen_16x16_98: 3499789415300071968
+      kid_Karen_16x16_99: 7421575967937447697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

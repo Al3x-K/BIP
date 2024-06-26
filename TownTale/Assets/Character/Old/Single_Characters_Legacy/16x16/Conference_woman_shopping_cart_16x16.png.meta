@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_woman_shopping_cart_16x16_0: 6618768772040972843
+      Conference_woman_shopping_cart_16x16_1: 8300941550259200205
+      Conference_woman_shopping_cart_16x16_10: -154009456499933609
+      Conference_woman_shopping_cart_16x16_11: 1981269238061228009
+      Conference_woman_shopping_cart_16x16_12: -8993075389282190517
+      Conference_woman_shopping_cart_16x16_13: 8993887418173012928
+      Conference_woman_shopping_cart_16x16_14: 7259997019115286463
+      Conference_woman_shopping_cart_16x16_15: 2935093056103739084
+      Conference_woman_shopping_cart_16x16_16: -4791912953047302691
+      Conference_woman_shopping_cart_16x16_17: -1038392356777847965
+      Conference_woman_shopping_cart_16x16_18: -6115886685341324320
+      Conference_woman_shopping_cart_16x16_19: -9200094932420025778
+      Conference_woman_shopping_cart_16x16_2: 1344490400562602197
+      Conference_woman_shopping_cart_16x16_20: -5692913832367296130
+      Conference_woman_shopping_cart_16x16_21: 4735543306346933548
+      Conference_woman_shopping_cart_16x16_22: 4790255324948993851
+      Conference_woman_shopping_cart_16x16_23: -2955264607339330075
+      Conference_woman_shopping_cart_16x16_3: -8266567896212057246
+      Conference_woman_shopping_cart_16x16_4: 991784278084868125
+      Conference_woman_shopping_cart_16x16_5: -4816547565507338085
+      Conference_woman_shopping_cart_16x16_6: -7979911157546846730
+      Conference_woman_shopping_cart_16x16_7: -3346304046311614469
+      Conference_woman_shopping_cart_16x16_8: -7042835122455910167
+      Conference_woman_shopping_cart_16x16_9: -2310256604922295287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

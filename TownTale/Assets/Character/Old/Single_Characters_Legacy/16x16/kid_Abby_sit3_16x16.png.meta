@@ -124,6 +124,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -368,7 +392,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_Abby_sit3_16x16_0: -4571865819338962000
+      kid_Abby_sit3_16x16_1: 6676586807456992649
+      kid_Abby_sit3_16x16_10: 8990793729613870738
+      kid_Abby_sit3_16x16_2: -2847380365682253238
+      kid_Abby_sit3_16x16_3: -5837593193433169954
+      kid_Abby_sit3_16x16_4: 8900701312697500488
+      kid_Abby_sit3_16x16_5: 6965215491721236576
+      kid_Abby_sit3_16x16_6: 224214455042586732
+      kid_Abby_sit3_16x16_7: 3507410837277535102
+      kid_Abby_sit3_16x16_8: -2783436967116982070
+      kid_Abby_sit3_16x16_9: -1916347305131450741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

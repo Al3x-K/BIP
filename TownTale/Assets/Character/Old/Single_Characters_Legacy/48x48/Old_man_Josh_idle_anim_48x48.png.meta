@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Old_man_Josh_idle_anim_48x48_0: 4409919232272239646
+      Old_man_Josh_idle_anim_48x48_1: -6786360833446976038
+      Old_man_Josh_idle_anim_48x48_10: 1531361995592651516
+      Old_man_Josh_idle_anim_48x48_11: 6914147285977764685
+      Old_man_Josh_idle_anim_48x48_12: 5063473392917139612
+      Old_man_Josh_idle_anim_48x48_2: 4801633080693876358
+      Old_man_Josh_idle_anim_48x48_3: 5938253605796515724
+      Old_man_Josh_idle_anim_48x48_4: -8433885776594278581
+      Old_man_Josh_idle_anim_48x48_5: 3780945304460873797
+      Old_man_Josh_idle_anim_48x48_6: -3895863302961663790
+      Old_man_Josh_idle_anim_48x48_7: 6616766935187424731
+      Old_man_Josh_idle_anim_48x48_8: 8874904819246685630
+      Old_man_Josh_idle_anim_48x48_9: 8097623553337222328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

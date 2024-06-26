@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Prisoner_2_idle_anim_48x48_0: 3983697915216021680
+      Prisoner_2_idle_anim_48x48_1: 8832526613054882658
+      Prisoner_2_idle_anim_48x48_10: 5158002073164071203
+      Prisoner_2_idle_anim_48x48_11: 378447697610025950
+      Prisoner_2_idle_anim_48x48_12: 1826680332904687822
+      Prisoner_2_idle_anim_48x48_13: -8601054428945063070
+      Prisoner_2_idle_anim_48x48_2: 7375980888673162180
+      Prisoner_2_idle_anim_48x48_3: -288824419404369791
+      Prisoner_2_idle_anim_48x48_4: -8597616517828444235
+      Prisoner_2_idle_anim_48x48_5: 6864351583275721291
+      Prisoner_2_idle_anim_48x48_6: 3166382119640402203
+      Prisoner_2_idle_anim_48x48_7: -5568061062752527930
+      Prisoner_2_idle_anim_48x48_8: 9105667071765175449
+      Prisoner_2_idle_anim_48x48_9: 8993448144716115638
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

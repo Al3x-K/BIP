@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Tim_idle_anim_48x48_0: 678805827049532232
+      Kid_Tim_idle_anim_48x48_1: 3186761989685740630
+      Kid_Tim_idle_anim_48x48_10: 8281344048792154055
+      Kid_Tim_idle_anim_48x48_11: -607885510397622104
+      Kid_Tim_idle_anim_48x48_12: 6639000180430916190
+      Kid_Tim_idle_anim_48x48_13: -1031606333551439799
+      Kid_Tim_idle_anim_48x48_14: 7186047331202562748
+      Kid_Tim_idle_anim_48x48_15: 318552529749062965
+      Kid_Tim_idle_anim_48x48_16: 8500455167664956637
+      Kid_Tim_idle_anim_48x48_17: -2370910285526559330
+      Kid_Tim_idle_anim_48x48_18: -5934395798234071015
+      Kid_Tim_idle_anim_48x48_19: -4673049586976282802
+      Kid_Tim_idle_anim_48x48_2: -6145984226706608474
+      Kid_Tim_idle_anim_48x48_20: -7853580382719152950
+      Kid_Tim_idle_anim_48x48_21: -8624386572906349146
+      Kid_Tim_idle_anim_48x48_22: 4733404135518840891
+      Kid_Tim_idle_anim_48x48_23: 296740185752284812
+      Kid_Tim_idle_anim_48x48_3: 9041464957462799490
+      Kid_Tim_idle_anim_48x48_4: -1545318423078198934
+      Kid_Tim_idle_anim_48x48_5: -2513766647513816111
+      Kid_Tim_idle_anim_48x48_6: -1716888502544649163
+      Kid_Tim_idle_anim_48x48_7: 819224158615465606
+      Kid_Tim_idle_anim_48x48_8: 1916920217602455749
+      Kid_Tim_idle_anim_48x48_9: 6479052329699060029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

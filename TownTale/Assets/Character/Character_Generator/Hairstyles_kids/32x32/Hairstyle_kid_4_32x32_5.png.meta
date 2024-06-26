@@ -265,6 +265,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1496,7 +1520,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hairstyle_kid_4_32x32_5_0: -5429651387827412331
+      Hairstyle_kid_4_32x32_5_1: 8439197465120653160
+      Hairstyle_kid_4_32x32_5_10: -6299475626723952519
+      Hairstyle_kid_4_32x32_5_11: -9034963619803556522
+      Hairstyle_kid_4_32x32_5_12: 1563876667957198417
+      Hairstyle_kid_4_32x32_5_13: -725535922468886335
+      Hairstyle_kid_4_32x32_5_14: -4593284158408094618
+      Hairstyle_kid_4_32x32_5_15: 925827244581970545
+      Hairstyle_kid_4_32x32_5_16: -7104271206240270734
+      Hairstyle_kid_4_32x32_5_17: 6075097989526597161
+      Hairstyle_kid_4_32x32_5_18: 2178652504555061364
+      Hairstyle_kid_4_32x32_5_19: 8932659269440462850
+      Hairstyle_kid_4_32x32_5_2: 6358304204768813154
+      Hairstyle_kid_4_32x32_5_20: -8630590776564440234
+      Hairstyle_kid_4_32x32_5_21: -8805509571939292417
+      Hairstyle_kid_4_32x32_5_22: -8138884626513108052
+      Hairstyle_kid_4_32x32_5_23: 648006716468326713
+      Hairstyle_kid_4_32x32_5_24: -4478849289055176011
+      Hairstyle_kid_4_32x32_5_25: 5815704615490644636
+      Hairstyle_kid_4_32x32_5_26: -3980370946112452115
+      Hairstyle_kid_4_32x32_5_27: 8555855355330918518
+      Hairstyle_kid_4_32x32_5_28: 9218138997619841946
+      Hairstyle_kid_4_32x32_5_29: 3749498948098349636
+      Hairstyle_kid_4_32x32_5_3: 3564355076882931837
+      Hairstyle_kid_4_32x32_5_30: 2756500933996993395
+      Hairstyle_kid_4_32x32_5_31: -9101764065636494668
+      Hairstyle_kid_4_32x32_5_32: -6865663907870052184
+      Hairstyle_kid_4_32x32_5_33: 8293748145195252247
+      Hairstyle_kid_4_32x32_5_34: -1709940008995193771
+      Hairstyle_kid_4_32x32_5_35: -8584075879528023466
+      Hairstyle_kid_4_32x32_5_36: 321095312413580415
+      Hairstyle_kid_4_32x32_5_37: 8536753899436571219
+      Hairstyle_kid_4_32x32_5_38: 9217044360781880512
+      Hairstyle_kid_4_32x32_5_39: -901405249237922391
+      Hairstyle_kid_4_32x32_5_4: -6163082847135179196
+      Hairstyle_kid_4_32x32_5_40: -6046177613452059249
+      Hairstyle_kid_4_32x32_5_41: 7625314034114850817
+      Hairstyle_kid_4_32x32_5_42: 3103861658609811433
+      Hairstyle_kid_4_32x32_5_43: 8644449206643558570
+      Hairstyle_kid_4_32x32_5_44: 2844893850333472915
+      Hairstyle_kid_4_32x32_5_45: -3430815367929139989
+      Hairstyle_kid_4_32x32_5_46: -3278502309747633842
+      Hairstyle_kid_4_32x32_5_47: 3705784346972921839
+      Hairstyle_kid_4_32x32_5_48: 6532678341109711447
+      Hairstyle_kid_4_32x32_5_49: 8948464022939750859
+      Hairstyle_kid_4_32x32_5_5: -6795422698266362311
+      Hairstyle_kid_4_32x32_5_50: 8414242220594359969
+      Hairstyle_kid_4_32x32_5_51: -8201346827806839843
+      Hairstyle_kid_4_32x32_5_52: -3542973578756230616
+      Hairstyle_kid_4_32x32_5_53: -2657391778598376064
+      Hairstyle_kid_4_32x32_5_54: -813233597744955865
+      Hairstyle_kid_4_32x32_5_55: -3054417797261958302
+      Hairstyle_kid_4_32x32_5_56: -3429677385059818284
+      Hairstyle_kid_4_32x32_5_57: -6839692715672511528
+      Hairstyle_kid_4_32x32_5_6: -4974318987031833542
+      Hairstyle_kid_4_32x32_5_7: 3700378516225947512
+      Hairstyle_kid_4_32x32_5_8: 5365210656369597528
+      Hairstyle_kid_4_32x32_5_9: -3054351353251496067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Karen_reading_32x32_0: 7051260703977007723
+      Kid_Karen_reading_32x32_1: 4751058037974162463
+      Kid_Karen_reading_32x32_10: -5885567489582181691
+      Kid_Karen_reading_32x32_11: -3646216811292926023
+      Kid_Karen_reading_32x32_12: -1016007641634896930
+      Kid_Karen_reading_32x32_13: 2905078578474133438
+      Kid_Karen_reading_32x32_14: -8007253826832022684
+      Kid_Karen_reading_32x32_15: 8277950372967974704
+      Kid_Karen_reading_32x32_16: -7170651670187553850
+      Kid_Karen_reading_32x32_17: -7242673075105616374
+      Kid_Karen_reading_32x32_2: 4558395698087224051
+      Kid_Karen_reading_32x32_3: -2199623825382229727
+      Kid_Karen_reading_32x32_4: -9105238299250006904
+      Kid_Karen_reading_32x32_5: -3613040098862778252
+      Kid_Karen_reading_32x32_6: -6578151531843671872
+      Kid_Karen_reading_32x32_7: 1958938002327009025
+      Kid_Karen_reading_32x32_8: 4606516597815718720
+      Kid_Karen_reading_32x32_9: -1339704945682771998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Edward_run_16x16_0: -7597993076927496466
+      Edward_run_16x16_1: -4392116275768798737
+      Edward_run_16x16_10: -2103802951049913901
+      Edward_run_16x16_11: -4915630266357581692
+      Edward_run_16x16_12: 3865029954756156690
+      Edward_run_16x16_13: 6497910360280624029
+      Edward_run_16x16_14: -1806111272197830171
+      Edward_run_16x16_15: 1883545336125642214
+      Edward_run_16x16_16: 1194305803726184182
+      Edward_run_16x16_17: -8955893469449339772
+      Edward_run_16x16_18: -5609530367763278328
+      Edward_run_16x16_19: -2977402056956895771
+      Edward_run_16x16_2: -1973033959512893491
+      Edward_run_16x16_20: -2467216020722941405
+      Edward_run_16x16_21: 3054729690054007609
+      Edward_run_16x16_22: 270404792670785986
+      Edward_run_16x16_3: 7840588469590490710
+      Edward_run_16x16_4: -2095093608561071884
+      Edward_run_16x16_5: 7560087975520995282
+      Edward_run_16x16_6: -2480908507433865149
+      Edward_run_16x16_7: 4654097565916564925
+      Edward_run_16x16_8: -3624246942578374026
+      Edward_run_16x16_9: 3135134436149308138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

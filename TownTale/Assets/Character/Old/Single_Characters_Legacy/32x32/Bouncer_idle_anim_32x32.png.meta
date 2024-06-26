@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bouncer_idle_anim_32x32_0: -5509486611257706422
+      Bouncer_idle_anim_32x32_1: -7761006586665972077
+      Bouncer_idle_anim_32x32_10: -7301796598665081517
+      Bouncer_idle_anim_32x32_11: -6348075463300495866
+      Bouncer_idle_anim_32x32_12: 4659563060616519783
+      Bouncer_idle_anim_32x32_13: -6523805744499473500
+      Bouncer_idle_anim_32x32_2: -4082164168930664704
+      Bouncer_idle_anim_32x32_3: 6012017035608666813
+      Bouncer_idle_anim_32x32_4: -5716646678379363922
+      Bouncer_idle_anim_32x32_5: 6982709326290136378
+      Bouncer_idle_anim_32x32_6: -3717804051688267521
+      Bouncer_idle_anim_32x32_7: -5023351944633653748
+      Bouncer_idle_anim_32x32_8: -1643057448366789440
+      Bouncer_idle_anim_32x32_9: 3257766730910318546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

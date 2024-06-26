@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dan_sit_48x48_0: -1493621596123866590
+      Dan_sit_48x48_1: -5256181900045693125
+      Dan_sit_48x48_10: -6053842856949202269
+      Dan_sit_48x48_11: -1528371602262365253
+      Dan_sit_48x48_2: 8766293428217581564
+      Dan_sit_48x48_3: 4729551988069153461
+      Dan_sit_48x48_4: 867290587367085351
+      Dan_sit_48x48_5: -7216200739269732713
+      Dan_sit_48x48_6: 2497213218845354221
+      Dan_sit_48x48_7: 3696862128937392744
+      Dan_sit_48x48_8: -7999222188677703726
+      Dan_sit_48x48_9: 3657251076312133227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

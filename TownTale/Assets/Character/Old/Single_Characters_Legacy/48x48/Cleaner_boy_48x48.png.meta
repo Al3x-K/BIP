@@ -151,6 +151,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -584,7 +608,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_boy_48x48_0: 7241568956657875954
+      Cleaner_boy_48x48_1: -4668082874041475012
+      Cleaner_boy_48x48_10: 4991579047459104121
+      Cleaner_boy_48x48_11: -3305213815182088896
+      Cleaner_boy_48x48_12: 6424142459843822769
+      Cleaner_boy_48x48_13: -6154406146098464406
+      Cleaner_boy_48x48_14: 4588652554524214503
+      Cleaner_boy_48x48_15: -4856493641471101158
+      Cleaner_boy_48x48_16: -6493305695052585138
+      Cleaner_boy_48x48_17: 6030064080123360202
+      Cleaner_boy_48x48_18: -5510838999843465210
+      Cleaner_boy_48x48_19: 5139144948260888406
+      Cleaner_boy_48x48_2: 5982287895782845795
+      Cleaner_boy_48x48_3: -176039740578783348
+      Cleaner_boy_48x48_4: -4031118880297141098
+      Cleaner_boy_48x48_5: 6312170848338633437
+      Cleaner_boy_48x48_6: 6817988968902105502
+      Cleaner_boy_48x48_7: 4828432571335933964
+      Cleaner_boy_48x48_8: -1880420694121517201
+      Cleaner_boy_48x48_9: 8757137947663817360
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

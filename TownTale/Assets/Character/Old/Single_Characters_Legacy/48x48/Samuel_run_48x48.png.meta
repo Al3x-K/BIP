@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samuel_run_48x48_0: 6627936957836554603
+      Samuel_run_48x48_1: 3013319774584442278
+      Samuel_run_48x48_10: -2380892898471716481
+      Samuel_run_48x48_11: 3803054890605369825
+      Samuel_run_48x48_12: -2243677298958825833
+      Samuel_run_48x48_13: 31324878948815973
+      Samuel_run_48x48_14: 4280690358033557810
+      Samuel_run_48x48_15: -6818603179974740217
+      Samuel_run_48x48_16: -5021844702300581266
+      Samuel_run_48x48_17: 5649757517598198990
+      Samuel_run_48x48_18: -5192693938336950309
+      Samuel_run_48x48_19: -1603735165611107984
+      Samuel_run_48x48_2: -1425437700829362296
+      Samuel_run_48x48_20: -6302938849347114543
+      Samuel_run_48x48_21: -4314279757061303101
+      Samuel_run_48x48_22: 7339481035309085777
+      Samuel_run_48x48_3: 2134075936035631742
+      Samuel_run_48x48_4: -8886470621675420869
+      Samuel_run_48x48_5: 7286433208988021703
+      Samuel_run_48x48_6: -6768016884897730939
+      Samuel_run_48x48_7: 3934258714499439813
+      Samuel_run_48x48_8: 3776231725959837073
+      Samuel_run_48x48_9: -7849397210409832548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

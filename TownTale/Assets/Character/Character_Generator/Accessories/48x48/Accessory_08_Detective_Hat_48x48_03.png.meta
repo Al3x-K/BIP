@@ -157,6 +157,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -632,7 +656,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_08_Detective_Hat_48x48_03_0: -8752633362596704989
+      Accessory_08_Detective_Hat_48x48_03_1: -759685293107963137
+      Accessory_08_Detective_Hat_48x48_03_10: -8845269230353701172
+      Accessory_08_Detective_Hat_48x48_03_11: 6777794014265362237
+      Accessory_08_Detective_Hat_48x48_03_12: -6460158223719529690
+      Accessory_08_Detective_Hat_48x48_03_13: -2661254251442488468
+      Accessory_08_Detective_Hat_48x48_03_14: 7721800178595109837
+      Accessory_08_Detective_Hat_48x48_03_15: -8279568370376679814
+      Accessory_08_Detective_Hat_48x48_03_16: 6960911513773322446
+      Accessory_08_Detective_Hat_48x48_03_17: 610731027282584133
+      Accessory_08_Detective_Hat_48x48_03_18: 3615855544584135657
+      Accessory_08_Detective_Hat_48x48_03_19: 3123723580100882165
+      Accessory_08_Detective_Hat_48x48_03_2: -7181740496617466977
+      Accessory_08_Detective_Hat_48x48_03_20: -7094777906468120904
+      Accessory_08_Detective_Hat_48x48_03_21: 6814930195962740127
+      Accessory_08_Detective_Hat_48x48_03_3: 5980569562029556017
+      Accessory_08_Detective_Hat_48x48_03_4: -1214818153316466460
+      Accessory_08_Detective_Hat_48x48_03_5: 5063667649445781141
+      Accessory_08_Detective_Hat_48x48_03_6: -2530038320129814915
+      Accessory_08_Detective_Hat_48x48_03_7: -3190773010606191380
+      Accessory_08_Detective_Hat_48x48_03_8: -6620657066421984828
+      Accessory_08_Detective_Hat_48x48_03_9: 1233250518645229271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

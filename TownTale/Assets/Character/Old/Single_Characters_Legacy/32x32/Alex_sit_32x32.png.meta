@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alex_sit_32x32_0: -6605320045268593010
+      Alex_sit_32x32_1: -5864363372565592703
+      Alex_sit_32x32_10: 6889932274859724609
+      Alex_sit_32x32_11: 7652515956813769132
+      Alex_sit_32x32_2: 1320485413026096113
+      Alex_sit_32x32_3: -177865123310980975
+      Alex_sit_32x32_4: -2341576566909506688
+      Alex_sit_32x32_5: -3109687904042277705
+      Alex_sit_32x32_6: 9071890614760228075
+      Alex_sit_32x32_7: 532899184318041371
+      Alex_sit_32x32_8: 1811835595955728653
+      Alex_sit_32x32_9: 7693601132131352977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

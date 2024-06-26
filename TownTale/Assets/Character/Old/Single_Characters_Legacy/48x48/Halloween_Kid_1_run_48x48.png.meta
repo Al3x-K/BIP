@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Halloween_Kid_1_run_48x48_0: 2706171011195965207
+      Halloween_Kid_1_run_48x48_1: -8085116959060465373
+      Halloween_Kid_1_run_48x48_10: 3806528403292399834
+      Halloween_Kid_1_run_48x48_11: 4598880688666142415
+      Halloween_Kid_1_run_48x48_12: -941956005644844169
+      Halloween_Kid_1_run_48x48_13: -7055832605977380022
+      Halloween_Kid_1_run_48x48_14: -2774886692505407934
+      Halloween_Kid_1_run_48x48_15: 5429188826762164574
+      Halloween_Kid_1_run_48x48_16: -1314162423543544376
+      Halloween_Kid_1_run_48x48_17: 675428658099865213
+      Halloween_Kid_1_run_48x48_18: 5407854843173483179
+      Halloween_Kid_1_run_48x48_19: -5657330038553715784
+      Halloween_Kid_1_run_48x48_2: -4714318769905431437
+      Halloween_Kid_1_run_48x48_20: 5186543202717325528
+      Halloween_Kid_1_run_48x48_21: -4903902230170967947
+      Halloween_Kid_1_run_48x48_22: -6253441423566118537
+      Halloween_Kid_1_run_48x48_23: 2370408217617109196
+      Halloween_Kid_1_run_48x48_3: -1093838991261469907
+      Halloween_Kid_1_run_48x48_4: 5563200682552523954
+      Halloween_Kid_1_run_48x48_5: 404754860197236536
+      Halloween_Kid_1_run_48x48_6: 7949614228688592239
+      Halloween_Kid_1_run_48x48_7: -1722360915595451089
+      Halloween_Kid_1_run_48x48_8: 7523207046685800875
+      Halloween_Kid_1_run_48x48_9: -3908695053455485236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

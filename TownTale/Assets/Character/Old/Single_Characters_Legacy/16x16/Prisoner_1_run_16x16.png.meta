@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Prisoner_1_run_16x16_0: 6498258664910730891
+      Prisoner_1_run_16x16_1: -7632800097571679713
+      Prisoner_1_run_16x16_10: -3161591254517153942
+      Prisoner_1_run_16x16_11: 1543087915519309497
+      Prisoner_1_run_16x16_12: -504021075475902345
+      Prisoner_1_run_16x16_13: 5665657937141565923
+      Prisoner_1_run_16x16_14: 3252525194735385167
+      Prisoner_1_run_16x16_15: 6336127059331346131
+      Prisoner_1_run_16x16_16: 8414227539678129659
+      Prisoner_1_run_16x16_17: -6698927754006044340
+      Prisoner_1_run_16x16_18: -6240183731089062994
+      Prisoner_1_run_16x16_19: 6642572111885749722
+      Prisoner_1_run_16x16_2: 3416165295691701618
+      Prisoner_1_run_16x16_20: -4418029019409511314
+      Prisoner_1_run_16x16_21: -5469319425302347222
+      Prisoner_1_run_16x16_22: -1029962402136580818
+      Prisoner_1_run_16x16_3: -2794215371897683564
+      Prisoner_1_run_16x16_4: -108955182948306658
+      Prisoner_1_run_16x16_5: 2828771982772832068
+      Prisoner_1_run_16x16_6: -672428477310954604
+      Prisoner_1_run_16x16_7: -750177888177947693
+      Prisoner_1_run_16x16_8: 4738838212086027699
+      Prisoner_1_run_16x16_9: -686147889185616015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

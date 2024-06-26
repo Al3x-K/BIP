@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishmonger_2_idle_anim_16x16_0: -7397347302482732644
+      Fishmonger_2_idle_anim_16x16_1: -7223137468221392428
+      Fishmonger_2_idle_anim_16x16_10: 3279753273917915322
+      Fishmonger_2_idle_anim_16x16_11: 6976092736139125811
+      Fishmonger_2_idle_anim_16x16_12: 3624341847878906491
+      Fishmonger_2_idle_anim_16x16_2: -3115755186286003887
+      Fishmonger_2_idle_anim_16x16_3: -8195549187025356434
+      Fishmonger_2_idle_anim_16x16_4: 2109166015670453068
+      Fishmonger_2_idle_anim_16x16_5: 5106103880644345961
+      Fishmonger_2_idle_anim_16x16_6: -7355486005249325383
+      Fishmonger_2_idle_anim_16x16_7: -4677210283859010680
+      Fishmonger_2_idle_anim_16x16_8: 3327738475747235672
+      Fishmonger_2_idle_anim_16x16_9: 2895497328470349004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

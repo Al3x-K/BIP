@@ -130,6 +130,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -416,7 +440,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_idle_anim_48x48_0: -851181745650834556
+      Bruce_idle_anim_48x48_1: 1967043980609434024
+      Bruce_idle_anim_48x48_10: 7794091058583807285
+      Bruce_idle_anim_48x48_11: 1610388582773881837
+      Bruce_idle_anim_48x48_12: 7721996466664199755
+      Bruce_idle_anim_48x48_2: 581157500688635382
+      Bruce_idle_anim_48x48_3: -1395539108045465866
+      Bruce_idle_anim_48x48_4: 1038003767369430447
+      Bruce_idle_anim_48x48_5: -3073358234269358490
+      Bruce_idle_anim_48x48_6: -3650228592268618201
+      Bruce_idle_anim_48x48_7: 3116184161460690366
+      Bruce_idle_anim_48x48_8: 289237064315745645
+      Bruce_idle_anim_48x48_9: -4912066155217382338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

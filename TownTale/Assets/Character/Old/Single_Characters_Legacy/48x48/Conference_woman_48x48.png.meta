@@ -370,6 +370,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2336,7 +2360,100 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_woman_48x48_0: 3356594900951480028
+      Conference_woman_48x48_1: 1227421755775788941
+      Conference_woman_48x48_10: -5741239727490645248
+      Conference_woman_48x48_11: 6087174469962300138
+      Conference_woman_48x48_12: -4726261384103694579
+      Conference_woman_48x48_13: 1837706893853055683
+      Conference_woman_48x48_14: 3566776863464370853
+      Conference_woman_48x48_15: -8306762746785799341
+      Conference_woman_48x48_16: -7521178392646935410
+      Conference_woman_48x48_17: -2832652117173990909
+      Conference_woman_48x48_18: 2747547983204622536
+      Conference_woman_48x48_19: -6994495122441029981
+      Conference_woman_48x48_2: -6694251304233083065
+      Conference_woman_48x48_20: -7722342400414078679
+      Conference_woman_48x48_21: -2793924842135216071
+      Conference_woman_48x48_22: 2223456433943600019
+      Conference_woman_48x48_23: -2795030643477132157
+      Conference_woman_48x48_24: 6419383372294127152
+      Conference_woman_48x48_25: -6154840064886512808
+      Conference_woman_48x48_26: -272226117660238930
+      Conference_woman_48x48_27: -1302580227062444758
+      Conference_woman_48x48_28: 3111700756525647236
+      Conference_woman_48x48_29: -8297683786256338161
+      Conference_woman_48x48_3: 6322826458981402200
+      Conference_woman_48x48_30: 4161568469231724090
+      Conference_woman_48x48_31: -182762991084103980
+      Conference_woman_48x48_32: 8852329332822064672
+      Conference_woman_48x48_33: -7835628597816149478
+      Conference_woman_48x48_34: 7452643529004292481
+      Conference_woman_48x48_35: 7704797850395529196
+      Conference_woman_48x48_36: -2915586984196751172
+      Conference_woman_48x48_37: -3379936121131351395
+      Conference_woman_48x48_38: -6050212558120843519
+      Conference_woman_48x48_39: 5025088407342770801
+      Conference_woman_48x48_4: -7396731113558571121
+      Conference_woman_48x48_40: -8641816179854468883
+      Conference_woman_48x48_41: -1170873289287470846
+      Conference_woman_48x48_42: 7620782180270867887
+      Conference_woman_48x48_43: 8637589383718051087
+      Conference_woman_48x48_44: -2843233182814788315
+      Conference_woman_48x48_45: -2393207155647863372
+      Conference_woman_48x48_46: 1468018411059231941
+      Conference_woman_48x48_47: -4493590763154623810
+      Conference_woman_48x48_48: 4126147221419517052
+      Conference_woman_48x48_49: 6135089731710312367
+      Conference_woman_48x48_5: 5064905086897831031
+      Conference_woman_48x48_50: 77155297156492559
+      Conference_woman_48x48_51: -8069699649550271092
+      Conference_woman_48x48_52: 1079518006530337738
+      Conference_woman_48x48_53: -2014011899789659971
+      Conference_woman_48x48_54: 2322885690607679198
+      Conference_woman_48x48_55: 883352773690548835
+      Conference_woman_48x48_56: 5322539331289226169
+      Conference_woman_48x48_57: 1358595279697719084
+      Conference_woman_48x48_58: 8165473870999228886
+      Conference_woman_48x48_59: 7310455726951189542
+      Conference_woman_48x48_6: -2627643576025998229
+      Conference_woman_48x48_60: 8788566032616672453
+      Conference_woman_48x48_61: -6044360772334509972
+      Conference_woman_48x48_62: 406976423120559670
+      Conference_woman_48x48_63: 2973595334087916550
+      Conference_woman_48x48_64: 2739004523026688832
+      Conference_woman_48x48_65: 2914526572074564537
+      Conference_woman_48x48_66: 4904241833540622404
+      Conference_woman_48x48_67: 7477221975001102784
+      Conference_woman_48x48_68: 4948954560419154562
+      Conference_woman_48x48_69: 2704729461709913571
+      Conference_woman_48x48_7: -4533167618937802945
+      Conference_woman_48x48_70: 267905897389440663
+      Conference_woman_48x48_71: 5239461420473083562
+      Conference_woman_48x48_72: 8553625219660251023
+      Conference_woman_48x48_73: -6330129477432173353
+      Conference_woman_48x48_74: -5797534595197485727
+      Conference_woman_48x48_75: -2005077389432044397
+      Conference_woman_48x48_76: -2958073832630146282
+      Conference_woman_48x48_77: 6041170246558074922
+      Conference_woman_48x48_78: 2203831052668930068
+      Conference_woman_48x48_79: 9082085321011560847
+      Conference_woman_48x48_8: 3291838531873399466
+      Conference_woman_48x48_80: 8601729083828603048
+      Conference_woman_48x48_81: -1077238509185044232
+      Conference_woman_48x48_82: 3868998595116853662
+      Conference_woman_48x48_83: -4773691521755525045
+      Conference_woman_48x48_84: -1146354901455072296
+      Conference_woman_48x48_85: -5057743962834184946
+      Conference_woman_48x48_86: 2056677487804437627
+      Conference_woman_48x48_87: 3893459336311355499
+      Conference_woman_48x48_88: -2646997803128793833
+      Conference_woman_48x48_89: 6886927469149713178
+      Conference_woman_48x48_9: -539371018126412363
+      Conference_woman_48x48_90: -7060223657048972808
+      Conference_woman_48x48_91: -1229704772154574413
+      Conference_woman_48x48_92: 3484041327527533684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

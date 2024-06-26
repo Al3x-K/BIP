@@ -148,6 +148,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -560,7 +584,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucy_run_48x48_0: 1997246146554774934
+      Lucy_run_48x48_1: -209543897435988737
+      Lucy_run_48x48_10: -3320071158799436311
+      Lucy_run_48x48_11: -8602889594319373490
+      Lucy_run_48x48_12: -7011522048720141227
+      Lucy_run_48x48_13: 127246463804065002
+      Lucy_run_48x48_14: -196057326014721971
+      Lucy_run_48x48_15: -9004055572636172151
+      Lucy_run_48x48_16: 1424925888802975904
+      Lucy_run_48x48_17: -1211212681128431423
+      Lucy_run_48x48_18: 2506921398176492528
+      Lucy_run_48x48_2: 2286945513642653536
+      Lucy_run_48x48_3: -5437058584123447232
+      Lucy_run_48x48_4: 6847606306144132561
+      Lucy_run_48x48_5: 6123166371570253565
+      Lucy_run_48x48_6: -3052357786866850028
+      Lucy_run_48x48_7: -1082109644571681874
+      Lucy_run_48x48_8: -6495311211784294603
+      Lucy_run_48x48_9: 4751383426727022540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

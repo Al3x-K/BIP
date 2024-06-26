@@ -124,6 +124,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -368,7 +392,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bob_sit3_32x32_0: 5684730984700934996
+      Bob_sit3_32x32_1: -345130783645725886
+      Bob_sit3_32x32_10: 1458790380382815315
+      Bob_sit3_32x32_2: 2496788392895598478
+      Bob_sit3_32x32_3: 3956232967995670997
+      Bob_sit3_32x32_4: -8669835591175435365
+      Bob_sit3_32x32_5: -5169665123283545207
+      Bob_sit3_32x32_6: -1663842587624405642
+      Bob_sit3_32x32_7: 5890078177311774034
+      Bob_sit3_32x32_8: 6191178886864869299
+      Bob_sit3_32x32_9: 7912920851989660005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Oscar_reading_16x16_0: 3485098092214948624
+      Kid_Oscar_reading_16x16_1: -1453768525632871594
+      Kid_Oscar_reading_16x16_10: 8853154466656084117
+      Kid_Oscar_reading_16x16_11: 2055361130346824023
+      Kid_Oscar_reading_16x16_12: -3020144160888897091
+      Kid_Oscar_reading_16x16_13: -8557658724917773479
+      Kid_Oscar_reading_16x16_14: 461154976166915920
+      Kid_Oscar_reading_16x16_15: -5904388257213766610
+      Kid_Oscar_reading_16x16_16: 1767573623890027846
+      Kid_Oscar_reading_16x16_17: -4985810098245046420
+      Kid_Oscar_reading_16x16_2: -6940130490066921774
+      Kid_Oscar_reading_16x16_3: -6156425715921125237
+      Kid_Oscar_reading_16x16_4: -3235250082595048897
+      Kid_Oscar_reading_16x16_5: 3241458567163836611
+      Kid_Oscar_reading_16x16_6: -3737552641618531303
+      Kid_Oscar_reading_16x16_7: 8273235123528949835
+      Kid_Oscar_reading_16x16_8: 6555869778374703475
+      Kid_Oscar_reading_16x16_9: 350468675082693195
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

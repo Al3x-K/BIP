@@ -472,6 +472,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3152,7 +3176,134 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_32x32_0: 7250863867957883058
+      Conference_man_32x32_1: -9032865526212554556
+      Conference_man_32x32_10: 1925582908715488037
+      Conference_man_32x32_100: 6780983330011380066
+      Conference_man_32x32_101: 8057792038834090452
+      Conference_man_32x32_102: -2893515584938885877
+      Conference_man_32x32_103: -5527358676581267752
+      Conference_man_32x32_104: 4491956846709236375
+      Conference_man_32x32_105: 7334917175653593711
+      Conference_man_32x32_106: 245278460267076749
+      Conference_man_32x32_107: -741560645709304013
+      Conference_man_32x32_108: -6565196315022263997
+      Conference_man_32x32_109: -3643484320750841584
+      Conference_man_32x32_11: -8530666938695719818
+      Conference_man_32x32_110: -6895919869355240160
+      Conference_man_32x32_111: -2796838976598998551
+      Conference_man_32x32_112: 2151749281984360302
+      Conference_man_32x32_113: 1940304492764008529
+      Conference_man_32x32_114: 1289153653620895572
+      Conference_man_32x32_115: -5422369964877666185
+      Conference_man_32x32_116: 4358243393752443867
+      Conference_man_32x32_117: -2506306547916108259
+      Conference_man_32x32_118: -8999428456353029973
+      Conference_man_32x32_119: 1971633450755349528
+      Conference_man_32x32_12: 4919433706338479999
+      Conference_man_32x32_120: -4719855157087152871
+      Conference_man_32x32_121: 3836471244130404559
+      Conference_man_32x32_122: 3504282254244951661
+      Conference_man_32x32_123: -594620507880033277
+      Conference_man_32x32_124: -3231221969196899755
+      Conference_man_32x32_125: -7956223983689471921
+      Conference_man_32x32_126: 4971424067978780336
+      Conference_man_32x32_13: 1690641567937064001
+      Conference_man_32x32_14: 917022708187138840
+      Conference_man_32x32_15: -6564783336475784112
+      Conference_man_32x32_16: -1543431878411161807
+      Conference_man_32x32_17: -6100537524971419861
+      Conference_man_32x32_18: -1198040365746671794
+      Conference_man_32x32_19: 4094745381337084841
+      Conference_man_32x32_2: 4400878293879252721
+      Conference_man_32x32_20: 4857454046194038960
+      Conference_man_32x32_21: 5864908553737534915
+      Conference_man_32x32_22: -3651093131720863001
+      Conference_man_32x32_23: -4634833035940985266
+      Conference_man_32x32_24: -5108914172382086187
+      Conference_man_32x32_25: -7442555095994747252
+      Conference_man_32x32_26: -2430074466995573808
+      Conference_man_32x32_27: 3149364102117933603
+      Conference_man_32x32_28: -3211463695273945658
+      Conference_man_32x32_29: 1837248648507957446
+      Conference_man_32x32_3: -6341287892610187481
+      Conference_man_32x32_30: 2331844135423465329
+      Conference_man_32x32_31: -7650568125521049196
+      Conference_man_32x32_32: -1871824698469199259
+      Conference_man_32x32_33: 5072516560693844963
+      Conference_man_32x32_34: 7935162492907712225
+      Conference_man_32x32_35: 1361269706967792242
+      Conference_man_32x32_36: 7414234826315222109
+      Conference_man_32x32_37: -1453205510455392797
+      Conference_man_32x32_38: -6026381170675992054
+      Conference_man_32x32_39: 3068341072339281873
+      Conference_man_32x32_4: -1755332170809991425
+      Conference_man_32x32_40: 5507944754522501373
+      Conference_man_32x32_41: 6389619915225549608
+      Conference_man_32x32_42: -3682763792086555681
+      Conference_man_32x32_43: -5327591488895229681
+      Conference_man_32x32_44: 1576352287926344200
+      Conference_man_32x32_45: 6281548074290113535
+      Conference_man_32x32_46: 7104191974689312969
+      Conference_man_32x32_47: 4849319831536701131
+      Conference_man_32x32_48: -5591981990815215221
+      Conference_man_32x32_49: 2815082846355170080
+      Conference_man_32x32_5: -3438751099714703624
+      Conference_man_32x32_50: 7565472978404829557
+      Conference_man_32x32_51: -6772763737208792268
+      Conference_man_32x32_52: -4208156414402875595
+      Conference_man_32x32_53: -565138350927440886
+      Conference_man_32x32_54: -5370993236826230630
+      Conference_man_32x32_55: 8692147802670581845
+      Conference_man_32x32_56: 8623690185482383844
+      Conference_man_32x32_57: 8796569585764105948
+      Conference_man_32x32_58: -2980595716722139508
+      Conference_man_32x32_59: -613439098410346055
+      Conference_man_32x32_6: -7175444603932197877
+      Conference_man_32x32_60: -6461995783075279566
+      Conference_man_32x32_61: 6777013045776993590
+      Conference_man_32x32_62: 5367261585838946774
+      Conference_man_32x32_63: -6647957589235115610
+      Conference_man_32x32_64: 3294702353142184066
+      Conference_man_32x32_65: 2190036569378159318
+      Conference_man_32x32_66: -4153125899619668132
+      Conference_man_32x32_67: 6484982022633872631
+      Conference_man_32x32_68: 4526301864075360162
+      Conference_man_32x32_69: 7660044874275429920
+      Conference_man_32x32_7: -610494162764504974
+      Conference_man_32x32_70: -553718988626911333
+      Conference_man_32x32_71: -8432074129557382729
+      Conference_man_32x32_72: -3753288293216109959
+      Conference_man_32x32_73: -3829436783879815404
+      Conference_man_32x32_74: -1263784599518224872
+      Conference_man_32x32_75: -380953666130041678
+      Conference_man_32x32_76: 2047343112848195554
+      Conference_man_32x32_77: 3793773974314533299
+      Conference_man_32x32_78: -5993871878321161050
+      Conference_man_32x32_79: 5902651797894557641
+      Conference_man_32x32_8: -6951281783080709202
+      Conference_man_32x32_80: 7057527336097783925
+      Conference_man_32x32_81: 7930502035710964659
+      Conference_man_32x32_82: 55462450350924583
+      Conference_man_32x32_83: 5950570933367563353
+      Conference_man_32x32_84: 5474576597300031961
+      Conference_man_32x32_85: -9019809999756699412
+      Conference_man_32x32_86: -6184327629698914001
+      Conference_man_32x32_87: 5718469195446469356
+      Conference_man_32x32_88: -7957196768979038209
+      Conference_man_32x32_89: -7634914193094302801
+      Conference_man_32x32_9: 659274012749417027
+      Conference_man_32x32_90: 6978155061883956575
+      Conference_man_32x32_91: -2748221277761036590
+      Conference_man_32x32_92: -9015102147565094451
+      Conference_man_32x32_93: 8702057801597319535
+      Conference_man_32x32_94: 5954566502637211076
+      Conference_man_32x32_95: 4746449538556199453
+      Conference_man_32x32_96: 5893729915940005349
+      Conference_man_32x32_97: -9138220274510985862
+      Conference_man_32x32_98: -1665214871910549379
+      Conference_man_32x32_99: -1638218644028265888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

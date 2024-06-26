@@ -124,6 +124,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -368,7 +392,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roki_sit3_48x48_0: -1003045558573754033
+      Roki_sit3_48x48_1: -6951527372747864938
+      Roki_sit3_48x48_10: 7056635467840087634
+      Roki_sit3_48x48_2: 3181905389114855899
+      Roki_sit3_48x48_3: -5921123549885847969
+      Roki_sit3_48x48_4: 1262791770972312789
+      Roki_sit3_48x48_5: 6633648243085201744
+      Roki_sit3_48x48_6: -1876109734957640046
+      Roki_sit3_48x48_7: -4899205543026956293
+      Roki_sit3_48x48_8: 6929640646084305039
+      Roki_sit3_48x48_9: -6813733224419449812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -145,6 +145,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -536,7 +560,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_man_reading_48x48_0: -5993935072241591786
+      Conference_man_reading_48x48_1: -2477226152418449056
+      Conference_man_reading_48x48_10: -6785890988506591689
+      Conference_man_reading_48x48_11: -1032157841125797928
+      Conference_man_reading_48x48_12: 684439934966856674
+      Conference_man_reading_48x48_13: -3004623224165620993
+      Conference_man_reading_48x48_14: -8280096911445405195
+      Conference_man_reading_48x48_15: 2886943500146135848
+      Conference_man_reading_48x48_16: -7978242716405321443
+      Conference_man_reading_48x48_17: 7935376957188131808
+      Conference_man_reading_48x48_2: 1928585271176443546
+      Conference_man_reading_48x48_3: 516702454177486019
+      Conference_man_reading_48x48_4: -4428494431051646171
+      Conference_man_reading_48x48_5: -9002834185364605214
+      Conference_man_reading_48x48_6: 2544713063733523063
+      Conference_man_reading_48x48_7: -4288303467187757578
+      Conference_man_reading_48x48_8: -5849050528571981692
+      Conference_man_reading_48x48_9: 3417109808995873768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

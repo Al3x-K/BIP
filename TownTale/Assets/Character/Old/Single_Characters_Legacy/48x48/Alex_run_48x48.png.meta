@@ -160,6 +160,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -656,7 +680,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alex_run_48x48_0: -8815035586668060366
+      Alex_run_48x48_1: -3022119258451713512
+      Alex_run_48x48_10: 3564384576886097523
+      Alex_run_48x48_11: -5529610047182100488
+      Alex_run_48x48_12: -7170003146412895070
+      Alex_run_48x48_13: -2193312892831182139
+      Alex_run_48x48_14: -4467865234638840082
+      Alex_run_48x48_15: 8134540026035074608
+      Alex_run_48x48_16: -819652916022745409
+      Alex_run_48x48_17: -2754670298050239356
+      Alex_run_48x48_18: 7407141323004532194
+      Alex_run_48x48_19: -17891884730430764
+      Alex_run_48x48_2: -3071516377805172664
+      Alex_run_48x48_20: -1212255974999313260
+      Alex_run_48x48_21: -4585244707086649646
+      Alex_run_48x48_22: 5625619724448084329
+      Alex_run_48x48_3: -1202253487388724823
+      Alex_run_48x48_4: -2185061002680768354
+      Alex_run_48x48_5: -6361535530044206678
+      Alex_run_48x48_6: -4467696392853237895
+      Alex_run_48x48_7: 4903018454093082800
+      Alex_run_48x48_8: 4771806416224355126
+      Alex_run_48x48_9: -8942280627887053119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -139,6 +139,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -488,7 +512,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Pier_32x32_0: 5826462486404336162
+      Chef_Pier_32x32_1: 8824585025109018066
+      Chef_Pier_32x32_10: 7208693745439849719
+      Chef_Pier_32x32_11: -9032858375877100208
+      Chef_Pier_32x32_12: 761170397912149895
+      Chef_Pier_32x32_13: -163966551821694596
+      Chef_Pier_32x32_14: 5268902536803776636
+      Chef_Pier_32x32_15: -6694408683816504274
+      Chef_Pier_32x32_2: 8958666767069156306
+      Chef_Pier_32x32_3: -5957734840060111836
+      Chef_Pier_32x32_4: 2413288662049761584
+      Chef_Pier_32x32_5: -3698849365344641577
+      Chef_Pier_32x32_6: 7636472174029587841
+      Chef_Pier_32x32_7: 2579226268790058648
+      Chef_Pier_32x32_8: 9071558673425511459
+      Chef_Pier_32x32_9: 1946766996064563951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

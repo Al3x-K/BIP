@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Pier_idle_anim_48x48_0: -6118737310222558999
+      Chef_Pier_idle_anim_48x48_1: 8654902093307046252
+      Chef_Pier_idle_anim_48x48_10: -3285516239539660503
+      Chef_Pier_idle_anim_48x48_11: -2459422138648200832
+      Chef_Pier_idle_anim_48x48_12: -1994233396874619585
+      Chef_Pier_idle_anim_48x48_13: 4613671821382119984
+      Chef_Pier_idle_anim_48x48_2: -2258535407194116830
+      Chef_Pier_idle_anim_48x48_3: 2658553094639468862
+      Chef_Pier_idle_anim_48x48_4: 1244983486852016743
+      Chef_Pier_idle_anim_48x48_5: 384038736122725518
+      Chef_Pier_idle_anim_48x48_6: 2802065290314617270
+      Chef_Pier_idle_anim_48x48_7: 8984081442609124294
+      Chef_Pier_idle_anim_48x48_8: -163620320599058150
+      Chef_Pier_idle_anim_48x48_9: 8120303473562994901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

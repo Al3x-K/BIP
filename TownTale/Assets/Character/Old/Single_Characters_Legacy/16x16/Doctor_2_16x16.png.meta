@@ -184,6 +184,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -848,7 +872,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doctor_2_16x16_0: 5130021350866998620
+      Doctor_2_16x16_1: 3234227011974218012
+      Doctor_2_16x16_10: -3019968210513717121
+      Doctor_2_16x16_11: -8453360653399194488
+      Doctor_2_16x16_12: 1120889068072448749
+      Doctor_2_16x16_13: 1130109045645709297
+      Doctor_2_16x16_14: 1045558753150988207
+      Doctor_2_16x16_15: 7685683674851024590
+      Doctor_2_16x16_16: -6170936205171957793
+      Doctor_2_16x16_17: -7842201794255845783
+      Doctor_2_16x16_18: 8723186379325589474
+      Doctor_2_16x16_19: -4498908126988688837
+      Doctor_2_16x16_2: -711927623511136808
+      Doctor_2_16x16_20: 7059057129477492944
+      Doctor_2_16x16_21: -1264679171763454875
+      Doctor_2_16x16_22: 1587369456074391262
+      Doctor_2_16x16_23: 2491660595986732260
+      Doctor_2_16x16_24: 8608533888703994131
+      Doctor_2_16x16_25: -2656485101520189967
+      Doctor_2_16x16_26: 6408185870220630244
+      Doctor_2_16x16_27: 3136741768698787650
+      Doctor_2_16x16_28: 8409978690672179778
+      Doctor_2_16x16_29: -5966764302020882472
+      Doctor_2_16x16_3: 8288444736221237559
+      Doctor_2_16x16_30: -5998850905137154137
+      Doctor_2_16x16_4: 4182335198551412803
+      Doctor_2_16x16_5: 5027983611990087812
+      Doctor_2_16x16_6: 5239688723456359537
+      Doctor_2_16x16_7: 5867218550777269335
+      Doctor_2_16x16_8: 4393580284994695230
+      Doctor_2_16x16_9: 5052401903682560533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

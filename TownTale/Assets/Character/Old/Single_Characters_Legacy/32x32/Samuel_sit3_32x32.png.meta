@@ -124,6 +124,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -368,7 +392,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samuel_sit3_32x32_0: 8170448044657493987
+      Samuel_sit3_32x32_1: -846729100901869074
+      Samuel_sit3_32x32_10: -9151125240857394907
+      Samuel_sit3_32x32_2: 3133493212453920902
+      Samuel_sit3_32x32_3: -8446626869051588938
+      Samuel_sit3_32x32_4: 6075728952984987789
+      Samuel_sit3_32x32_5: -7670639949211996730
+      Samuel_sit3_32x32_6: 174578630203455452
+      Samuel_sit3_32x32_7: -6004929226905339153
+      Samuel_sit3_32x32_8: -1265865415373943072
+      Samuel_sit3_32x32_9: -4328338001895254628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

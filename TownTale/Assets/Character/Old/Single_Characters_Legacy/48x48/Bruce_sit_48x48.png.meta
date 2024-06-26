@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_sit_48x48_0: 7414055454240551111
+      Bruce_sit_48x48_1: 1403568700395495275
+      Bruce_sit_48x48_10: -2918602905651763096
+      Bruce_sit_48x48_11: -3130675134893509062
+      Bruce_sit_48x48_2: -1206058264652820017
+      Bruce_sit_48x48_3: -1824918329556452543
+      Bruce_sit_48x48_4: -8620282634912223671
+      Bruce_sit_48x48_5: -3652970070392590638
+      Bruce_sit_48x48_6: -4484102950445000174
+      Bruce_sit_48x48_7: 4446407006167205575
+      Bruce_sit_48x48_8: 5354171377941029325
+      Bruce_sit_48x48_9: 9058511810454367136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

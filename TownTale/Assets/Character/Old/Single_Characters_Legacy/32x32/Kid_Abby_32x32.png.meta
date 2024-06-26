@@ -328,6 +328,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2000,7 +2024,86 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Abby_32x32_0: -1101772552824532517
+      Kid_Abby_32x32_1: 3888619528225275694
+      Kid_Abby_32x32_10: 2985406370020778389
+      Kid_Abby_32x32_11: 3237401890143515958
+      Kid_Abby_32x32_12: -7132238869189767553
+      Kid_Abby_32x32_13: 1862506780125876340
+      Kid_Abby_32x32_14: 916710509763730421
+      Kid_Abby_32x32_15: 4063987626888342256
+      Kid_Abby_32x32_16: -4461915072543153835
+      Kid_Abby_32x32_17: 1894677281598390793
+      Kid_Abby_32x32_18: -6464875769216736935
+      Kid_Abby_32x32_19: 6519636649531914494
+      Kid_Abby_32x32_2: -289360943766450927
+      Kid_Abby_32x32_20: -2593459407158089093
+      Kid_Abby_32x32_21: 6633239549911913631
+      Kid_Abby_32x32_22: 8798676799042054573
+      Kid_Abby_32x32_23: -4116527121391380531
+      Kid_Abby_32x32_24: 1187521616626846780
+      Kid_Abby_32x32_25: -1926699781932354887
+      Kid_Abby_32x32_26: -4252655325966620688
+      Kid_Abby_32x32_27: 4252861569166578149
+      Kid_Abby_32x32_28: 2780117673693385466
+      Kid_Abby_32x32_29: -4401648882497601336
+      Kid_Abby_32x32_3: -3257464110636044565
+      Kid_Abby_32x32_30: 3431005399970174365
+      Kid_Abby_32x32_31: -2634895062481254166
+      Kid_Abby_32x32_32: 4383383254610849455
+      Kid_Abby_32x32_33: -2939657496363523495
+      Kid_Abby_32x32_34: 290345551588527043
+      Kid_Abby_32x32_35: -5668311048602948919
+      Kid_Abby_32x32_36: 5532367159398806596
+      Kid_Abby_32x32_37: -6214110300966626071
+      Kid_Abby_32x32_38: 618545169078394975
+      Kid_Abby_32x32_39: 3576936038665276398
+      Kid_Abby_32x32_4: -5349379257730911867
+      Kid_Abby_32x32_40: 8493596761603693705
+      Kid_Abby_32x32_41: -2009865011153690640
+      Kid_Abby_32x32_42: 3676498171173526893
+      Kid_Abby_32x32_43: 1705106033358433513
+      Kid_Abby_32x32_44: 4154056805869967115
+      Kid_Abby_32x32_45: 1572287504763079563
+      Kid_Abby_32x32_46: -5073964126175647758
+      Kid_Abby_32x32_47: 2684628787359727634
+      Kid_Abby_32x32_48: 4903426784533161039
+      Kid_Abby_32x32_49: 3346838383798239546
+      Kid_Abby_32x32_5: -8614138168053087202
+      Kid_Abby_32x32_50: 1698725998260658019
+      Kid_Abby_32x32_51: -8318268163887598669
+      Kid_Abby_32x32_52: 150059464775328176
+      Kid_Abby_32x32_53: -4844226478793400017
+      Kid_Abby_32x32_54: -692038298128036808
+      Kid_Abby_32x32_55: -3649074744376621406
+      Kid_Abby_32x32_56: -6448119359749499374
+      Kid_Abby_32x32_57: 2082331184841050659
+      Kid_Abby_32x32_58: -1038305271977019115
+      Kid_Abby_32x32_59: -5150255443127865441
+      Kid_Abby_32x32_6: -7265696492524261723
+      Kid_Abby_32x32_60: 2916142406697497622
+      Kid_Abby_32x32_61: -599299854395178255
+      Kid_Abby_32x32_62: 8739625907772873683
+      Kid_Abby_32x32_63: 8093340127624379037
+      Kid_Abby_32x32_64: -8940691022957628257
+      Kid_Abby_32x32_65: -1523842812916973141
+      Kid_Abby_32x32_66: 1896027206454453859
+      Kid_Abby_32x32_67: 8412864403685004689
+      Kid_Abby_32x32_68: -5855025568212898960
+      Kid_Abby_32x32_69: 5327723508604824959
+      Kid_Abby_32x32_7: 6329606271943674086
+      Kid_Abby_32x32_70: 7222621220094585007
+      Kid_Abby_32x32_71: -6863647746365946673
+      Kid_Abby_32x32_72: 5264284811420217065
+      Kid_Abby_32x32_73: -5124377402353702710
+      Kid_Abby_32x32_74: -4736580889286643762
+      Kid_Abby_32x32_75: -8177773260799904273
+      Kid_Abby_32x32_76: -3689338924336987214
+      Kid_Abby_32x32_77: 1667514759717890145
+      Kid_Abby_32x32_78: 770648254856970200
+      Kid_Abby_32x32_8: -5645054658994998643
+      Kid_Abby_32x32_9: -3577707677920947332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_boy_idle_anim_32x32_0: -3634834327667595022
+      Cleaner_boy_idle_anim_32x32_1: -2125134217210619490
+      Cleaner_boy_idle_anim_32x32_10: -8465764279106822742
+      Cleaner_boy_idle_anim_32x32_11: -2549306357414075425
+      Cleaner_boy_idle_anim_32x32_12: -5579891828434639943
+      Cleaner_boy_idle_anim_32x32_13: -7062266533393376730
+      Cleaner_boy_idle_anim_32x32_2: -4525373157814432305
+      Cleaner_boy_idle_anim_32x32_3: 6415858794632370932
+      Cleaner_boy_idle_anim_32x32_4: 8606456770815703832
+      Cleaner_boy_idle_anim_32x32_5: -2590230532496543317
+      Cleaner_boy_idle_anim_32x32_6: 1172165600761485421
+      Cleaner_boy_idle_anim_32x32_7: 9047055941169899076
+      Cleaner_boy_idle_anim_32x32_8: 4048749763269154920
+      Cleaner_boy_idle_anim_32x32_9: 9065781412245198037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

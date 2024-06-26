@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pier_shopping_cart_32x32_0: -1260426646858757145
+      Pier_shopping_cart_32x32_1: 4591397333071432702
+      Pier_shopping_cart_32x32_10: -5741035530759009779
+      Pier_shopping_cart_32x32_11: -3486945675763427335
+      Pier_shopping_cart_32x32_12: -1415757933440618676
+      Pier_shopping_cart_32x32_13: -1334261843863849153
+      Pier_shopping_cart_32x32_14: -3896926798904990109
+      Pier_shopping_cart_32x32_15: 370093181261956615
+      Pier_shopping_cart_32x32_16: 8584732002232009230
+      Pier_shopping_cart_32x32_17: 262342523108200361
+      Pier_shopping_cart_32x32_18: 6367944076016817517
+      Pier_shopping_cart_32x32_19: -7297339050006723875
+      Pier_shopping_cart_32x32_2: 8761485912164055801
+      Pier_shopping_cart_32x32_20: -7733314684138429843
+      Pier_shopping_cart_32x32_21: -5352390219507249678
+      Pier_shopping_cart_32x32_22: 2238498537686909690
+      Pier_shopping_cart_32x32_23: 1607751390085262309
+      Pier_shopping_cart_32x32_3: -4097147160860689952
+      Pier_shopping_cart_32x32_4: -4794589471434416131
+      Pier_shopping_cart_32x32_5: 7872267247807447122
+      Pier_shopping_cart_32x32_6: -523031583141903095
+      Pier_shopping_cart_32x32_7: 3282135547455866291
+      Pier_shopping_cart_32x32_8: 8213331853914610241
+      Pier_shopping_cart_32x32_9: -1597145535911601069
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

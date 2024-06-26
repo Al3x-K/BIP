@@ -265,6 +265,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1496,7 +1520,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Outfit_kid_7_pajama_tiger_48x48_0: -1631899924862918405
+      Outfit_kid_7_pajama_tiger_48x48_1: -3564726660912214226
+      Outfit_kid_7_pajama_tiger_48x48_10: -1824765279445359119
+      Outfit_kid_7_pajama_tiger_48x48_11: 3090717270945582308
+      Outfit_kid_7_pajama_tiger_48x48_12: -4258716083851429575
+      Outfit_kid_7_pajama_tiger_48x48_13: 5307885953987738542
+      Outfit_kid_7_pajama_tiger_48x48_14: 5722919072036190244
+      Outfit_kid_7_pajama_tiger_48x48_15: 5777700709118019217
+      Outfit_kid_7_pajama_tiger_48x48_16: 3509135779117922937
+      Outfit_kid_7_pajama_tiger_48x48_17: -128490542766981812
+      Outfit_kid_7_pajama_tiger_48x48_18: 7207928988397956996
+      Outfit_kid_7_pajama_tiger_48x48_19: -5226721684149653203
+      Outfit_kid_7_pajama_tiger_48x48_2: 165208708017857755
+      Outfit_kid_7_pajama_tiger_48x48_20: -8998270589456743841
+      Outfit_kid_7_pajama_tiger_48x48_21: -2855241916449679791
+      Outfit_kid_7_pajama_tiger_48x48_22: 1168991219920200483
+      Outfit_kid_7_pajama_tiger_48x48_23: -1315482850517875586
+      Outfit_kid_7_pajama_tiger_48x48_24: -6309472351046214473
+      Outfit_kid_7_pajama_tiger_48x48_25: 4569659909481099788
+      Outfit_kid_7_pajama_tiger_48x48_26: -9134284650654097887
+      Outfit_kid_7_pajama_tiger_48x48_27: -7037783373965714195
+      Outfit_kid_7_pajama_tiger_48x48_28: -9048950833966753592
+      Outfit_kid_7_pajama_tiger_48x48_29: -6071416220857756857
+      Outfit_kid_7_pajama_tiger_48x48_3: 173411497729749987
+      Outfit_kid_7_pajama_tiger_48x48_30: -4755698357722926989
+      Outfit_kid_7_pajama_tiger_48x48_31: -9086186002634649353
+      Outfit_kid_7_pajama_tiger_48x48_32: 5616615490756524568
+      Outfit_kid_7_pajama_tiger_48x48_33: 7685385482142029763
+      Outfit_kid_7_pajama_tiger_48x48_34: -5537038151413364603
+      Outfit_kid_7_pajama_tiger_48x48_35: 1667003562315821991
+      Outfit_kid_7_pajama_tiger_48x48_36: -8034699722455162114
+      Outfit_kid_7_pajama_tiger_48x48_37: 4288170887388492089
+      Outfit_kid_7_pajama_tiger_48x48_38: -3210509872294200740
+      Outfit_kid_7_pajama_tiger_48x48_39: -5017052827927724166
+      Outfit_kid_7_pajama_tiger_48x48_4: -6463438024379441929
+      Outfit_kid_7_pajama_tiger_48x48_40: -444955235605447878
+      Outfit_kid_7_pajama_tiger_48x48_41: -4149663231891044719
+      Outfit_kid_7_pajama_tiger_48x48_42: -7497970415566802758
+      Outfit_kid_7_pajama_tiger_48x48_43: -7973743653013229119
+      Outfit_kid_7_pajama_tiger_48x48_44: 39092297185309969
+      Outfit_kid_7_pajama_tiger_48x48_45: 8072056677783778080
+      Outfit_kid_7_pajama_tiger_48x48_46: 8292551076535325728
+      Outfit_kid_7_pajama_tiger_48x48_47: -3727042312701615665
+      Outfit_kid_7_pajama_tiger_48x48_48: -260414649604953144
+      Outfit_kid_7_pajama_tiger_48x48_49: -6879338490592154252
+      Outfit_kid_7_pajama_tiger_48x48_5: -7236616166683991436
+      Outfit_kid_7_pajama_tiger_48x48_50: 1066069215285988479
+      Outfit_kid_7_pajama_tiger_48x48_51: -4700793646116805133
+      Outfit_kid_7_pajama_tiger_48x48_52: -8263242258811908255
+      Outfit_kid_7_pajama_tiger_48x48_53: -1723703485486618943
+      Outfit_kid_7_pajama_tiger_48x48_54: 5479900746056391925
+      Outfit_kid_7_pajama_tiger_48x48_55: -8744647719018260216
+      Outfit_kid_7_pajama_tiger_48x48_56: -8616443955258507079
+      Outfit_kid_7_pajama_tiger_48x48_57: 4831940723898455012
+      Outfit_kid_7_pajama_tiger_48x48_6: -4347396388657224139
+      Outfit_kid_7_pajama_tiger_48x48_7: 4881475506196822005
+      Outfit_kid_7_pajama_tiger_48x48_8: 3480773124799915601
+      Outfit_kid_7_pajama_tiger_48x48_9: -787148068840332632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

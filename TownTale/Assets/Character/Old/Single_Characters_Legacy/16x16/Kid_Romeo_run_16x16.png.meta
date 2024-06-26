@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Romeo_run_16x16_0: -7331580718829642585
+      Kid_Romeo_run_16x16_1: 5078508401510872553
+      Kid_Romeo_run_16x16_10: 6804425267138212406
+      Kid_Romeo_run_16x16_11: 8324822831908540156
+      Kid_Romeo_run_16x16_12: -7173690085318260888
+      Kid_Romeo_run_16x16_13: -1675278366186324533
+      Kid_Romeo_run_16x16_14: -9012308386463867718
+      Kid_Romeo_run_16x16_15: 5366675628570448566
+      Kid_Romeo_run_16x16_16: -8383822068500466234
+      Kid_Romeo_run_16x16_17: -1769074452279096942
+      Kid_Romeo_run_16x16_18: 8598367473999892000
+      Kid_Romeo_run_16x16_19: -1398028803189584306
+      Kid_Romeo_run_16x16_2: -6895140850792179055
+      Kid_Romeo_run_16x16_20: -5949044280034788700
+      Kid_Romeo_run_16x16_21: 1235281130399278468
+      Kid_Romeo_run_16x16_22: 2818148658996779662
+      Kid_Romeo_run_16x16_23: 2288099110765927704
+      Kid_Romeo_run_16x16_3: 7216436746967686660
+      Kid_Romeo_run_16x16_4: 6662043870051313374
+      Kid_Romeo_run_16x16_5: 1726215391014381172
+      Kid_Romeo_run_16x16_6: 2612418878641910828
+      Kid_Romeo_run_16x16_7: 7725202720971245279
+      Kid_Romeo_run_16x16_8: 6691550376903614009
+      Kid_Romeo_run_16x16_9: 5950495654514756066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

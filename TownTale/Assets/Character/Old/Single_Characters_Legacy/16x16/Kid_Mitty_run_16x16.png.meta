@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Mitty_run_16x16_0: -5739272126158035493
+      Kid_Mitty_run_16x16_1: -6341947612032879690
+      Kid_Mitty_run_16x16_10: -5785833204229347226
+      Kid_Mitty_run_16x16_11: 2753502100402416791
+      Kid_Mitty_run_16x16_12: 1452193160128549559
+      Kid_Mitty_run_16x16_13: 980135906058896049
+      Kid_Mitty_run_16x16_14: 5318214741728441756
+      Kid_Mitty_run_16x16_15: 8752697041809763073
+      Kid_Mitty_run_16x16_16: -8320115624108703452
+      Kid_Mitty_run_16x16_17: 5959457831285290946
+      Kid_Mitty_run_16x16_18: -4444236460468394197
+      Kid_Mitty_run_16x16_19: -2357112865459525319
+      Kid_Mitty_run_16x16_2: -2414708896613978900
+      Kid_Mitty_run_16x16_20: 9001634994019783034
+      Kid_Mitty_run_16x16_21: -3777372608461006113
+      Kid_Mitty_run_16x16_22: 979091338298021853
+      Kid_Mitty_run_16x16_23: -7514487319705752865
+      Kid_Mitty_run_16x16_3: 3657470581605397649
+      Kid_Mitty_run_16x16_4: -3758870212769321100
+      Kid_Mitty_run_16x16_5: 2574409362340135284
+      Kid_Mitty_run_16x16_6: -6323947210633246175
+      Kid_Mitty_run_16x16_7: -2686672431575025949
+      Kid_Mitty_run_16x16_8: 6101441304080275632
+      Kid_Mitty_run_16x16_9: 8972316862471721414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

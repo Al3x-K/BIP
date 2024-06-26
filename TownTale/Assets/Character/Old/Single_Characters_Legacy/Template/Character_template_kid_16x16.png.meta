@@ -346,6 +346,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2144,7 +2168,92 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character_template_kid_16x16_0: -1282041376956646647
+      Character_template_kid_16x16_1: 4490621896890129899
+      Character_template_kid_16x16_10: -7721973813204433808
+      Character_template_kid_16x16_11: -6120927159804066763
+      Character_template_kid_16x16_12: 2884874269370846555
+      Character_template_kid_16x16_13: 3683534787256535760
+      Character_template_kid_16x16_14: 7466246879709134419
+      Character_template_kid_16x16_15: 3550411672105364178
+      Character_template_kid_16x16_16: -7374139274903956231
+      Character_template_kid_16x16_17: -8935350982136935148
+      Character_template_kid_16x16_18: 8772478386529840140
+      Character_template_kid_16x16_19: -8385932676626682948
+      Character_template_kid_16x16_2: 1116568740026494376
+      Character_template_kid_16x16_20: -7558157287198853270
+      Character_template_kid_16x16_21: 1419388319778317720
+      Character_template_kid_16x16_22: 7659838405841830300
+      Character_template_kid_16x16_23: -2347742757708374501
+      Character_template_kid_16x16_24: -1575650725856245071
+      Character_template_kid_16x16_25: -8430779005877016332
+      Character_template_kid_16x16_26: 3346077265420686635
+      Character_template_kid_16x16_27: -101958497593551905
+      Character_template_kid_16x16_28: 471986145120323505
+      Character_template_kid_16x16_29: 8700847009739727750
+      Character_template_kid_16x16_3: -7286449597394529172
+      Character_template_kid_16x16_30: 3073217027139476266
+      Character_template_kid_16x16_31: 3073701415201862950
+      Character_template_kid_16x16_32: 898988236715839589
+      Character_template_kid_16x16_33: 1105039723402820834
+      Character_template_kid_16x16_34: 8215639526524271560
+      Character_template_kid_16x16_35: 4718764125430882905
+      Character_template_kid_16x16_36: -1375248130335926943
+      Character_template_kid_16x16_37: 871347177465879223
+      Character_template_kid_16x16_38: 1226049789357934199
+      Character_template_kid_16x16_39: 6583703174860098032
+      Character_template_kid_16x16_4: 1559337903000827290
+      Character_template_kid_16x16_40: -2081864557585523965
+      Character_template_kid_16x16_41: 6601859039955502555
+      Character_template_kid_16x16_42: 3960604337934803813
+      Character_template_kid_16x16_43: 1303585139533384197
+      Character_template_kid_16x16_44: -4898123148517805640
+      Character_template_kid_16x16_45: -4949942748212803583
+      Character_template_kid_16x16_46: -5806495453900953884
+      Character_template_kid_16x16_47: 5065028311886159641
+      Character_template_kid_16x16_48: 2560545139751062031
+      Character_template_kid_16x16_49: -3110870058868916401
+      Character_template_kid_16x16_5: 6135039622027940680
+      Character_template_kid_16x16_50: -1494838121922775397
+      Character_template_kid_16x16_51: 4175931009548574700
+      Character_template_kid_16x16_52: 9181152865490132885
+      Character_template_kid_16x16_53: -5762622983762622529
+      Character_template_kid_16x16_54: 6646062844300809680
+      Character_template_kid_16x16_55: 7192207993740237527
+      Character_template_kid_16x16_56: 2022304513412096446
+      Character_template_kid_16x16_57: -7303989703886502749
+      Character_template_kid_16x16_58: -2993239257686069256
+      Character_template_kid_16x16_59: 2335846711070802183
+      Character_template_kid_16x16_6: -6410198064722149606
+      Character_template_kid_16x16_60: 8838600384614783399
+      Character_template_kid_16x16_61: 7330202315215195417
+      Character_template_kid_16x16_62: -1848994555713862579
+      Character_template_kid_16x16_63: -2897147367609492744
+      Character_template_kid_16x16_64: -8039395422930775288
+      Character_template_kid_16x16_65: -7592676524554923096
+      Character_template_kid_16x16_66: -9216966544726900552
+      Character_template_kid_16x16_67: -4860840815904063877
+      Character_template_kid_16x16_68: 4915770431274358058
+      Character_template_kid_16x16_69: -1713807221659873681
+      Character_template_kid_16x16_7: 1447799448630924782
+      Character_template_kid_16x16_70: 6623498346959879526
+      Character_template_kid_16x16_71: -3360391090571263170
+      Character_template_kid_16x16_72: -6528103719035109259
+      Character_template_kid_16x16_73: -1486906953028839770
+      Character_template_kid_16x16_74: -2788460518657488727
+      Character_template_kid_16x16_75: 8147994162334144696
+      Character_template_kid_16x16_76: -6308696303201113712
+      Character_template_kid_16x16_77: 2654619937009051855
+      Character_template_kid_16x16_78: -7000742116759305370
+      Character_template_kid_16x16_79: -2193765534977697343
+      Character_template_kid_16x16_8: 6904064570526344508
+      Character_template_kid_16x16_80: -7686978142326276897
+      Character_template_kid_16x16_81: 5450649620312468914
+      Character_template_kid_16x16_82: -6862048453850916203
+      Character_template_kid_16x16_83: -1941811730211008946
+      Character_template_kid_16x16_84: -5133606753319330033
+      Character_template_kid_16x16_9: -2950176996859086764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

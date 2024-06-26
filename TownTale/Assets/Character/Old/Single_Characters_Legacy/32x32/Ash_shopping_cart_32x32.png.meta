@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ash_shopping_cart_32x32_0: -3487493158162104897
+      Ash_shopping_cart_32x32_1: -2104877127950071695
+      Ash_shopping_cart_32x32_10: 1517406117252184966
+      Ash_shopping_cart_32x32_11: 2188795824350650839
+      Ash_shopping_cart_32x32_12: 6026967859577088377
+      Ash_shopping_cart_32x32_13: 5373792165154155524
+      Ash_shopping_cart_32x32_14: 5215617504515381790
+      Ash_shopping_cart_32x32_15: -1340470517740457451
+      Ash_shopping_cart_32x32_16: 2290354685586959595
+      Ash_shopping_cart_32x32_17: -4954346081078084253
+      Ash_shopping_cart_32x32_18: 5342554334495025272
+      Ash_shopping_cart_32x32_19: 5317995847364217788
+      Ash_shopping_cart_32x32_2: -2583164779584748179
+      Ash_shopping_cart_32x32_20: 6591416298987309885
+      Ash_shopping_cart_32x32_21: -1095325849887404751
+      Ash_shopping_cart_32x32_22: 238162812781121699
+      Ash_shopping_cart_32x32_23: 2065128997588550638
+      Ash_shopping_cart_32x32_3: 553689281838544970
+      Ash_shopping_cart_32x32_4: 5091929490701778032
+      Ash_shopping_cart_32x32_5: -1410190635354533177
+      Ash_shopping_cart_32x32_6: -8359032056374841551
+      Ash_shopping_cart_32x32_7: -7956727020607953996
+      Ash_shopping_cart_32x32_8: 4964432283143824367
+      Ash_shopping_cart_32x32_9: -427519460387760841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

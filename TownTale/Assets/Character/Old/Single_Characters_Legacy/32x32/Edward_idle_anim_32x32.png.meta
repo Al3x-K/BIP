@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Edward_idle_anim_32x32_0: -8062739280868734807
+      Edward_idle_anim_32x32_1: -223035379453988012
+      Edward_idle_anim_32x32_10: 769976985767865434
+      Edward_idle_anim_32x32_11: 5692758514800071434
+      Edward_idle_anim_32x32_12: 2376158911948816436
+      Edward_idle_anim_32x32_13: -7348277222832103042
+      Edward_idle_anim_32x32_2: -4212161876455493553
+      Edward_idle_anim_32x32_3: -4871923221407059653
+      Edward_idle_anim_32x32_4: -5813586791228473120
+      Edward_idle_anim_32x32_5: 8106297581635778979
+      Edward_idle_anim_32x32_6: 8725011512374661
+      Edward_idle_anim_32x32_7: -2926008546042412185
+      Edward_idle_anim_32x32_8: 2879108423533659666
+      Edward_idle_anim_32x32_9: 4287365025181053270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

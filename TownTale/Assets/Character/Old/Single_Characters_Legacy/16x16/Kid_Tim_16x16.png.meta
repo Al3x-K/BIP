@@ -247,6 +247,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1352,7 +1376,59 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Tim_16x16_0: -7705746483734861418
+      Kid_Tim_16x16_1: -6007795519543575064
+      Kid_Tim_16x16_10: 5541458579769124591
+      Kid_Tim_16x16_11: -1958644691261740584
+      Kid_Tim_16x16_12: 8800016643334476456
+      Kid_Tim_16x16_13: -6562484164903108865
+      Kid_Tim_16x16_14: 4612124865390222513
+      Kid_Tim_16x16_15: 2768414382604960275
+      Kid_Tim_16x16_16: 8121493570466915313
+      Kid_Tim_16x16_17: -93235854471834479
+      Kid_Tim_16x16_18: -6830055104515459073
+      Kid_Tim_16x16_19: 6417142453688457143
+      Kid_Tim_16x16_2: -871456225182696889
+      Kid_Tim_16x16_20: -2927968608003802420
+      Kid_Tim_16x16_21: 821084752351604692
+      Kid_Tim_16x16_22: 1506336187253005781
+      Kid_Tim_16x16_23: 3494970953408906869
+      Kid_Tim_16x16_24: 6616199661320363319
+      Kid_Tim_16x16_25: 1902998151877409583
+      Kid_Tim_16x16_26: 2042261988222607831
+      Kid_Tim_16x16_27: 5513700147768164155
+      Kid_Tim_16x16_28: 3547012903727031629
+      Kid_Tim_16x16_29: -1890544607469549539
+      Kid_Tim_16x16_3: -6228695830362098767
+      Kid_Tim_16x16_30: 4264424453532738319
+      Kid_Tim_16x16_31: -1024438137913648630
+      Kid_Tim_16x16_32: -8005277334429155268
+      Kid_Tim_16x16_33: 6493905095627013395
+      Kid_Tim_16x16_34: -2682018777443143423
+      Kid_Tim_16x16_35: 7744334103964592422
+      Kid_Tim_16x16_36: -6060865629389719774
+      Kid_Tim_16x16_37: -4025692048162312851
+      Kid_Tim_16x16_38: 424936570147850341
+      Kid_Tim_16x16_39: -8604841446092411844
+      Kid_Tim_16x16_4: -5422114591481147352
+      Kid_Tim_16x16_40: -4794468761926171125
+      Kid_Tim_16x16_41: 991923285580370031
+      Kid_Tim_16x16_42: 7017013570753121244
+      Kid_Tim_16x16_43: -7954069679150989075
+      Kid_Tim_16x16_44: 7407810773160001164
+      Kid_Tim_16x16_45: -3022180850100219453
+      Kid_Tim_16x16_46: -1589612894771441238
+      Kid_Tim_16x16_47: 5485222086288947516
+      Kid_Tim_16x16_48: 7002931087526359064
+      Kid_Tim_16x16_49: 7811558341845107064
+      Kid_Tim_16x16_5: -3009146978916172082
+      Kid_Tim_16x16_50: 539259613065493752
+      Kid_Tim_16x16_51: -4158301363444917779
+      Kid_Tim_16x16_6: -8600844966449440021
+      Kid_Tim_16x16_7: 4683100428614742924
+      Kid_Tim_16x16_8: 3120233125912626103
+      Kid_Tim_16x16_9: -8065891258667202140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

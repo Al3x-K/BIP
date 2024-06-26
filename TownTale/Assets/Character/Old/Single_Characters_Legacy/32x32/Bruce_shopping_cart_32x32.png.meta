@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_shopping_cart_32x32_0: -3560927771327187069
+      Bruce_shopping_cart_32x32_1: 4563402891518456876
+      Bruce_shopping_cart_32x32_10: 4652858328494887407
+      Bruce_shopping_cart_32x32_11: -8147929665593744729
+      Bruce_shopping_cart_32x32_12: 2689870409098482942
+      Bruce_shopping_cart_32x32_13: -2963999753861217579
+      Bruce_shopping_cart_32x32_14: 8294967537081886778
+      Bruce_shopping_cart_32x32_15: 2728663495953302690
+      Bruce_shopping_cart_32x32_16: 5462726868862162547
+      Bruce_shopping_cart_32x32_17: 4573630781205171551
+      Bruce_shopping_cart_32x32_18: 8115196899097793357
+      Bruce_shopping_cart_32x32_19: -3183424713110457369
+      Bruce_shopping_cart_32x32_2: -7964322125490660800
+      Bruce_shopping_cart_32x32_20: 6665567201252718829
+      Bruce_shopping_cart_32x32_21: -2108618513793649543
+      Bruce_shopping_cart_32x32_22: -855593213390250714
+      Bruce_shopping_cart_32x32_23: -4133795783162398684
+      Bruce_shopping_cart_32x32_3: 959806037896069055
+      Bruce_shopping_cart_32x32_4: -4243492907368968171
+      Bruce_shopping_cart_32x32_5: 3404791285532575109
+      Bruce_shopping_cart_32x32_6: 2377033772213877686
+      Bruce_shopping_cart_32x32_7: 1479985285564473190
+      Bruce_shopping_cart_32x32_8: -8933178456419066317
+      Bruce_shopping_cart_32x32_9: 5691277633816658716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

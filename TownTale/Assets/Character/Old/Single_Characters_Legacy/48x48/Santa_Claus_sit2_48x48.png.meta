@@ -127,6 +127,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -392,7 +416,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Santa_Claus_sit2_48x48_0: -6394225672903968541
+      Santa_Claus_sit2_48x48_1: -7416625933477238728
+      Santa_Claus_sit2_48x48_10: -7528440336646144867
+      Santa_Claus_sit2_48x48_11: -297454834344415687
+      Santa_Claus_sit2_48x48_2: 5023496164286267539
+      Santa_Claus_sit2_48x48_3: -5055999128694270309
+      Santa_Claus_sit2_48x48_4: -6761771532098061171
+      Santa_Claus_sit2_48x48_5: -3956320079108966514
+      Santa_Claus_sit2_48x48_6: -6089165623092702748
+      Santa_Claus_sit2_48x48_7: 6667468537145009764
+      Santa_Claus_sit2_48x48_8: -4606531994390912571
+      Santa_Claus_sit2_48x48_9: 5233130644088193530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

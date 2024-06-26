@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bob_shopping_cart_32x32_0: 8014489321241117158
+      Bob_shopping_cart_32x32_1: -604154076367397537
+      Bob_shopping_cart_32x32_10: 7172287854707307471
+      Bob_shopping_cart_32x32_11: 4394326065383372532
+      Bob_shopping_cart_32x32_12: -4066592638138118079
+      Bob_shopping_cart_32x32_13: -8650792433796945007
+      Bob_shopping_cart_32x32_14: 8729639002806454171
+      Bob_shopping_cart_32x32_15: 5090716973136456983
+      Bob_shopping_cart_32x32_16: -7192433464266124793
+      Bob_shopping_cart_32x32_17: 5023627583690758339
+      Bob_shopping_cart_32x32_18: -8273024478031000695
+      Bob_shopping_cart_32x32_19: -8939578525153057587
+      Bob_shopping_cart_32x32_2: 248420419505216198
+      Bob_shopping_cart_32x32_20: 4764867042289004874
+      Bob_shopping_cart_32x32_21: 353664140570002871
+      Bob_shopping_cart_32x32_22: -4187218779167995776
+      Bob_shopping_cart_32x32_23: -4789807041463175993
+      Bob_shopping_cart_32x32_3: -7985226115673155484
+      Bob_shopping_cart_32x32_4: -8759947725320578896
+      Bob_shopping_cart_32x32_5: 3906971491158599392
+      Bob_shopping_cart_32x32_6: 4576355037477229863
+      Bob_shopping_cart_32x32_7: -5229387459272370294
+      Bob_shopping_cart_32x32_8: 4538372582815173758
+      Bob_shopping_cart_32x32_9: -3125655104724494582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

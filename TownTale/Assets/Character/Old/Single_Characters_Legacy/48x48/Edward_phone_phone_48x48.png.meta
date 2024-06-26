@@ -118,6 +118,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -320,7 +344,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Edward_phone_phone_48x48_0: 5415924805275004793
+      Edward_phone_phone_48x48_1: -206303772765339920
+      Edward_phone_phone_48x48_2: 4014602950987193213
+      Edward_phone_phone_48x48_3: -5874938529402564707
+      Edward_phone_phone_48x48_4: -640204445505654067
+      Edward_phone_phone_48x48_5: 3734551228729661382
+      Edward_phone_phone_48x48_6: -3536115376003928946
+      Edward_phone_phone_48x48_7: -2955054684372275944
+      Edward_phone_phone_48x48_8: -7768976813055130304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

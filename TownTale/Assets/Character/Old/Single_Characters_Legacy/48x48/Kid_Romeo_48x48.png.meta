@@ -247,6 +247,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1352,7 +1376,59 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Romeo_48x48_0: 6285707862188629648
+      Kid_Romeo_48x48_1: 6496193550270581971
+      Kid_Romeo_48x48_10: 5260495119021273151
+      Kid_Romeo_48x48_11: 3106149485860463336
+      Kid_Romeo_48x48_12: 4149371263820986141
+      Kid_Romeo_48x48_13: 7492609519085863633
+      Kid_Romeo_48x48_14: -7276496118400543320
+      Kid_Romeo_48x48_15: 1844120788157839908
+      Kid_Romeo_48x48_16: -4537520065565313614
+      Kid_Romeo_48x48_17: 31305466576822461
+      Kid_Romeo_48x48_18: -6667301989450286576
+      Kid_Romeo_48x48_19: 4895440265125409242
+      Kid_Romeo_48x48_2: 1217040610997788534
+      Kid_Romeo_48x48_20: 4312049323083771475
+      Kid_Romeo_48x48_21: -2293902000227425620
+      Kid_Romeo_48x48_22: 2514848131510610705
+      Kid_Romeo_48x48_23: 8285904547451848328
+      Kid_Romeo_48x48_24: 7904352375214468474
+      Kid_Romeo_48x48_25: -2766637284516242947
+      Kid_Romeo_48x48_26: 6220709630191134228
+      Kid_Romeo_48x48_27: -3245817892139015340
+      Kid_Romeo_48x48_28: -8407319786508372635
+      Kid_Romeo_48x48_29: 3662629656149892561
+      Kid_Romeo_48x48_3: 6240289801635549230
+      Kid_Romeo_48x48_30: 8886539813242446204
+      Kid_Romeo_48x48_31: -8996022476927671893
+      Kid_Romeo_48x48_32: 6568167496748772116
+      Kid_Romeo_48x48_33: 505305688722791029
+      Kid_Romeo_48x48_34: -2222610422936449635
+      Kid_Romeo_48x48_35: 1790055705235087417
+      Kid_Romeo_48x48_36: -8587342556202897026
+      Kid_Romeo_48x48_37: -7688847229509049562
+      Kid_Romeo_48x48_38: -4776728075470532391
+      Kid_Romeo_48x48_39: -5129291010327984895
+      Kid_Romeo_48x48_4: -881294652799791506
+      Kid_Romeo_48x48_40: 1513447485934977122
+      Kid_Romeo_48x48_41: -7100535236432920504
+      Kid_Romeo_48x48_42: 981319385468978000
+      Kid_Romeo_48x48_43: 2734755510124038977
+      Kid_Romeo_48x48_44: 4492885329777341659
+      Kid_Romeo_48x48_45: -1593764407502035245
+      Kid_Romeo_48x48_46: -2604763193717139357
+      Kid_Romeo_48x48_47: 2468360011467759119
+      Kid_Romeo_48x48_48: 7234893896180176956
+      Kid_Romeo_48x48_49: 5324719996177328012
+      Kid_Romeo_48x48_5: 6769094896810963422
+      Kid_Romeo_48x48_50: -7106224790870197293
+      Kid_Romeo_48x48_51: -6472894976100062683
+      Kid_Romeo_48x48_6: -3525649703442950668
+      Kid_Romeo_48x48_7: 2700810758249103321
+      Kid_Romeo_48x48_8: 7433044978474861922
+      Kid_Romeo_48x48_9: -911277372127920659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

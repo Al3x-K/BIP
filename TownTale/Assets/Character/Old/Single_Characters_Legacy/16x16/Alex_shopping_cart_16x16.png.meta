@@ -163,6 +163,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +704,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alex_shopping_cart_16x16_0: 2013083087327705696
+      Alex_shopping_cart_16x16_1: 2962158885125872920
+      Alex_shopping_cart_16x16_10: 6584026525479505751
+      Alex_shopping_cart_16x16_11: 7924178682053234937
+      Alex_shopping_cart_16x16_12: 5002631072540358861
+      Alex_shopping_cart_16x16_13: 3235464374271300634
+      Alex_shopping_cart_16x16_14: 5024707569780783928
+      Alex_shopping_cart_16x16_15: -3746904937697725200
+      Alex_shopping_cart_16x16_16: 8275402296892970298
+      Alex_shopping_cart_16x16_17: -787903786781611065
+      Alex_shopping_cart_16x16_18: -3109605856164655657
+      Alex_shopping_cart_16x16_19: 8913029614631055307
+      Alex_shopping_cart_16x16_2: -3843833097320768574
+      Alex_shopping_cart_16x16_20: 5592898443004993481
+      Alex_shopping_cart_16x16_21: 1207398431767253955
+      Alex_shopping_cart_16x16_22: -8784382418221046718
+      Alex_shopping_cart_16x16_23: -8894575750525855622
+      Alex_shopping_cart_16x16_3: -1731701481182917568
+      Alex_shopping_cart_16x16_4: -4862648843683759971
+      Alex_shopping_cart_16x16_5: 2046185828851506736
+      Alex_shopping_cart_16x16_6: -4336723872669867425
+      Alex_shopping_cart_16x16_7: -1017492233725797295
+      Alex_shopping_cart_16x16_8: -7647620267327827778
+      Alex_shopping_cart_16x16_9: -5379304286113691688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

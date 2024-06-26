@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chef_Molly_idle_anim_32x32_0: 8927247607061631240
+      Chef_Molly_idle_anim_32x32_1: 2459277147597777814
+      Chef_Molly_idle_anim_32x32_10: -6231762226382723384
+      Chef_Molly_idle_anim_32x32_11: -3439171236078374021
+      Chef_Molly_idle_anim_32x32_12: -2196715428136958850
+      Chef_Molly_idle_anim_32x32_13: 8833817024218099163
+      Chef_Molly_idle_anim_32x32_2: 8201320630881316894
+      Chef_Molly_idle_anim_32x32_3: -1461499177757046624
+      Chef_Molly_idle_anim_32x32_4: -8937928665099564890
+      Chef_Molly_idle_anim_32x32_5: 166001652617254628
+      Chef_Molly_idle_anim_32x32_6: -7349059230641901507
+      Chef_Molly_idle_anim_32x32_7: 305329612098433606
+      Chef_Molly_idle_anim_32x32_8: 2255331027991429434
+      Chef_Molly_idle_anim_32x32_9: -7637270154324912894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

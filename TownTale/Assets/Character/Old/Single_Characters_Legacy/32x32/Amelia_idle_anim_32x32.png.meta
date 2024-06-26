@@ -133,6 +133,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -440,7 +464,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Amelia_idle_anim_32x32_0: -4797870000709649781
+      Amelia_idle_anim_32x32_1: 5002653410509761231
+      Amelia_idle_anim_32x32_10: -2552819252295117511
+      Amelia_idle_anim_32x32_11: 28369162572777340
+      Amelia_idle_anim_32x32_12: -5428334530611131445
+      Amelia_idle_anim_32x32_13: -3712039285689107114
+      Amelia_idle_anim_32x32_2: 2161779364244437615
+      Amelia_idle_anim_32x32_3: -6369113701498953075
+      Amelia_idle_anim_32x32_4: 1120749744373333001
+      Amelia_idle_anim_32x32_5: -3270147010336261173
+      Amelia_idle_anim_32x32_6: 6921614378859864545
+      Amelia_idle_anim_32x32_7: 4731958199522175989
+      Amelia_idle_anim_32x32_8: -2627953426541481384
+      Amelia_idle_anim_32x32_9: -2935633241471264661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
