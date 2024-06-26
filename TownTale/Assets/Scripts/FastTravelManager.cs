@@ -17,15 +17,18 @@ public class FastTravelManager : MonoBehaviour
         }
     }
 
-    void FastTravel(int pointIndex)
+   void FastTravel(int pointIndex)
+{
+    if (pointIndex >= 0 && pointIndex < fastTravelPoints.Length)
     {
-        if (pointIndex >= 0 && pointIndex < fastTravelPoints.Length)
-        {
-            player.transform.position = fastTravelPoints[pointIndex].position;
-        }
-        else
-        {
-            Debug.LogError("FastTravel: Invalid point index");
-        }
+        Vector3 targetPosition = fastTravelPoints[pointIndex].position;
+        Debug.Log($"FastTravel: Moving player to {targetPosition}");
+        player.transform.position = targetPosition;
     }
+    else
+    {
+        Debug.LogError("FastTravel: Invalid point index");
+    }
+}
+
 }
