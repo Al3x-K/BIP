@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - SolidObjects
   - Water
   - UI
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Terrain
     uniqueID: 3460594071
+    locked: 0
+  - name: Player
+    uniqueID: 2465237235
     locked: 0
   - name: SolidObjects
     uniqueID: 4051569073
