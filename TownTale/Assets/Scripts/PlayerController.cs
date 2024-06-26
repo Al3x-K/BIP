@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
 
     public LayerMask solidObjectsLayer;
+    public LayerMask interactableLayer;
    
     private void Awake()
     {
@@ -38,8 +39,19 @@ public class PlayerController : MonoBehaviour
         }
         animator.SetBool("isMoving", isMoving);
 
-        
+     if(Input.GetKeyDown(KeyCode.E))
+        {
+            Interact();
+        }
     }
+
+    private void Interact()
+    {
+        var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        var interactPos = transform.position + facingDir;
+        var collider = Physics2D.OverlapCircle(interactPos, 0.2f, interactableLayer);
+    }
+
 
    
     IEnumerator Move(Vector3 targetPos)
