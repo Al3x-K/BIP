@@ -4,75 +4,105 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed;
-    public bool isMoving;
-    public Vector2 input;
-   
+    public float moveSpeed = 5f;
+    private Vector2 input;
+    private Rigidbody2D rb;
     private Animator animator;
 
     public LayerMask solidObjectsLayer;
     public LayerMask interactableLayer;
-   
+
     private void Awake()
     {
+        rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        if (!isMoving)
+        HandleInput();
+        HandleMovement();
+        HandleInteraction();
+    }
+
+    private void HandleInput()
+    {
+        input.x = Input.GetAxisRaw("Horizontal");
+        input.y = Input.GetAxisRaw("Vertical");
+
+        if (input != Vector2.zero)
         {
-            input.x = Input.GetAxisRaw("Horizontal");
-            input.y = Input.GetAxisRaw("Vertical");
+            animator.SetFloat("moveX", input.x);
+            animator.SetFloat("moveY", input.y);
+        }
 
-            if (input != Vector2.zero)
+        animator.SetBool("isMoving", input != Vector2.zero);
+    }
+
+    private void HandleMovement()
+    {
+        Vector2 targetPos = rb.position + input * moveSpeed * Time.fixedDeltaTime;
+
+        if (IsWalkable(targetPos))
+        {
+            rb.MovePosition(targetPos);
+        }
+    }
+
+    private void HandleInteraction()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Vector2 facingDir = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+            Vector2 interactPos = rb.position + facingDir;
+
+            Collider2D collider = Physics2D.OverlapCircle(interactPos, 0.2f, interactableLayer);
+        }
+    }
+
+    private bool IsWalkable(Vector2 targetPos)
+    {
+        // Use multiple raycasts to check for collisions
+        float distance = moveSpeed * Time.fixedDeltaTime;
+        Vector2 direction = input.normalized;
+        
+        // Cast rays from head, center, and feet
+        Vector2[] raycastOrigins = new Vector2[]
+        {
+            rb.position + new Vector2(0, 0.5f), // Head
+            rb.position,                        // Center
+            rb.position - new Vector2(0, 0.5f)  // Feet
+        };
+
+        foreach (var origin in raycastOrigins)
+        {
+            RaycastHit2D hit = Physics2D.Raycast(origin, direction, distance, solidObjectsLayer);
+            if (hit.collider != null)
             {
-                animator.SetFloat("moveX", input.x);
-                animator.SetFloat("moveY", input.y);
-                var targetPos = transform.position;
-                targetPos.x += input.x;
-                targetPos.y += input.y;
-
-                if(isWalkable(targetPos))
-                    StartCoroutine(Move(targetPos));
+                return false;
             }
         }
-        animator.SetBool("isMoving", isMoving);
 
-     if(Input.GetKeyDown(KeyCode.E))
-        {
-            Interact();
-        }
-    }
-
-    private void Interact()
-    {
-        var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
-        var interactPos = transform.position + facingDir;
-        var collider = Physics2D.OverlapCircle(interactPos, 0.2f, interactableLayer);
-    }
-
-
-   
-    IEnumerator Move(Vector3 targetPos)
-    {
-        isMoving = true;
-        while ((targetPos - transform.position).sqrMagnitude > Mathf.Epsilon) // while not at target position
-        {
-            transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
-            yield return null; // wait until next frame
-        }
-        transform.position = targetPos;
-        isMoving = false;
-    }
-
-    private bool isWalkable(Vector3 targetPos)
-    {
-       if(Physics2D.OverlapCircle(targetPos, 0.05f, solidObjectsLayer) != null)
-        {
-            return false;
-        }
         return true;
     }
-}
 
+    private void OnDrawGizmos()
+    {
+        // Visualize the raycasts in the scene view for debugging
+        Gizmos.color = Color.red;
+        Vector2 direction = input.normalized;
+        float distance = moveSpeed * Time.fixedDeltaTime;
+
+        Vector2[] raycastOrigins = new Vector2[]
+        {
+            rb.position + new Vector2(0, 0.5f), // Head
+            rb.position,                        // Center
+            rb.position - new Vector2(0, 0.5f)  // Feet
+        };
+
+        foreach (var origin in raycastOrigins)
+        {
+            Gizmos.DrawLine(origin, origin + direction * distance);
+        }
+    }
+}
