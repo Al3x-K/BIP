@@ -10,10 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: end
+  m_Name: endDay
   m_EditorClassIdentifier: 
-  id: end
-  characterName: Narrator
-  dialogueText: This is the end of the conversation. Thank you for playing!
+  id: endDay
+  characterName: Player
+  dialogueText: As the sun sets, you reflect on the productive interactions of the
+    day. Time to report back to Marilyn.
   avatar: {fileID: 0}
-  choices: []
+  choices:
+  - text: Return and end the day.
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: 3d18a6178175c7940a1fc5461302cb8e, type: 2}
+    waitForTrigger: 0
+    trigger: 

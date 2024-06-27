@@ -10,24 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: start
+  m_Name: meetEliot2
   m_EditorClassIdentifier: 
-  id: start
-  characterName: Marilyn Brooks
-  dialogueText: Hi my dear player_name. Welcome to town tale. Today, you'll start
-    helping with my re-election campaign. I've prepared small gifts for key supporters.
-    You'll likely meet them around town as you go about your day.
+  id: meetEliot2
+  characterName: Eliot
+  dialogueText: Hey there! You must be Marilyn's nephew. I baked a cake. Grabbing
+    a quick bite?
   avatar: {fileID: 0}
   choices:
-  - text: "I\u2019m ready. Where should I start?"
+  - text: Give Eliot his gift.
     reputationChange: 0
     nextDialogues:
-    - {fileID: 11400000, guid: 7d598fbe142f72e49bb97f334b2b207e, type: 2}
+    - {fileID: 11400000, guid: f37b4102e25357745874e70fe748d3ed, type: 2}
     waitForTrigger: 0
     trigger: 
-  - text: How can I help with your campaign?
+  - text: I'm gonna meet Emily.
     reputationChange: 0
     nextDialogues:
-    - {fileID: 11400000, guid: 3370e0ff5253fd84bb6354bdfcfbe832, type: 2}
+    - {fileID: 11400000, guid: 81425dcca526b0542bb93de56927d91a, type: 2}
     waitForTrigger: 0
     trigger: 

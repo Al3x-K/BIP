@@ -10,10 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: end
+  m_Name: marcusGift
   m_EditorClassIdentifier: 
-  id: end
-  characterName: Narrator
-  dialogueText: This is the end of the conversation. Thank you for playing!
+  id: marcusGift
+  characterName: Marcus
+  dialogueText: "A cake? Well, it\u2019s the thought that counts. Thanks!"
   avatar: {fileID: 0}
-  choices: []
+  choices:
+  - text: Glad you like it. Take care!
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: d163f3a4851552b44b07c73f52fd6385, type: 2}
+    waitForTrigger: 0
+    trigger: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
+  m_Name: meetEliot
+  m_EditorClassIdentifier: 
+  id: meetEliot
+  characterName: Eliot
+  dialogueText: Hey there! You must be Marilyn's nephew. I baked a cake. Grabbing
+    a quick bite?
+  avatar: {fileID: 0}
+  choices:
+  - text: Yeah, I'm player_name. You must be Eliot, right?
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: d4a36fff3f96af642b86e79cbfe3feac, type: 2}
+    waitForTrigger: 0
+    trigger: 
+  - text: No, I have no time. I have to meet the rest of the town.
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: 81425dcca526b0542bb93de56927d91a, type: 2}
+    - {fileID: 11400000, guid: d7656e063a342974c888cd9d2f5f9b0f, type: 2}
+    - {fileID: 11400000, guid: d163f3a4851552b44b07c73f52fd6385, type: 2}
+    waitForTrigger: 1
+    trigger: 

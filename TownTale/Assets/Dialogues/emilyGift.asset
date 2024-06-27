@@ -10,10 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: end
+  m_Name: emilyGift
   m_EditorClassIdentifier: 
-  id: end
-  characterName: Narrator
-  dialogueText: This is the end of the conversation. Thank you for playing!
+  id: emilyGift
+  characterName: Dr. Emily Carter
+  dialogueText: How lovely! Please thank her for me.
   avatar: {fileID: 0}
-  choices: []
+  choices:
+  - text: Glad you like them. Take care!
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: d7656e063a342974c888cd9d2f5f9b0f, type: 2}
+    waitForTrigger: 0
+    trigger: 

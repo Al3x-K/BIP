@@ -10,10 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: end
+  m_Name: endCampaign
   m_EditorClassIdentifier: 
-  id: end
-  characterName: Narrator
-  dialogueText: This is the end of the conversation. Thank you for playing!
+  id: endCampaign
+  characterName: Marilyn Brooks
+  dialogueText: "Sounds like you made quite the impression today. Well done! Let\u2019s
+    see what tomorrow brings."
   avatar: {fileID: 0}
-  choices: []
+  choices:
+  - text: Continue
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: eb91e9de133dafd48a7214f672107779, type: 2}
+    waitForTrigger: 0
+    trigger: 

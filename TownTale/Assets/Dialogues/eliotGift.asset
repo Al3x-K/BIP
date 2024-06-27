@@ -10,10 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 390b36c5b15a5ca438b0ae5934df66c0, type: 3}
-  m_Name: end
+  m_Name: eliotGift
   m_EditorClassIdentifier: 
-  id: end
-  characterName: Narrator
-  dialogueText: This is the end of the conversation. Thank you for playing!
+  id: eliotGift
+  characterName: Eliot
+  dialogueText: Chocolates? Marvelous! Tell Marilyn thanks!
   avatar: {fileID: 0}
-  choices: []
+  choices:
+  - text: Glad you like them. Take care!
+    reputationChange: 0
+    nextDialogues:
+    - {fileID: 11400000, guid: 81425dcca526b0542bb93de56927d91a, type: 2}
+    waitForTrigger: 0
+    trigger: 
