@@ -6,6 +6,13 @@ public class SceneTransition : MonoBehaviour
     public string sceneToLoad;
     public Vector3 newPlayerPosition;
 
+    private CapsuleCollider2D capsuleCollider;
+
+    void Awake()
+    {
+        capsuleCollider = GetComponent<CapsuleCollider2D>();
+    }
+    
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
