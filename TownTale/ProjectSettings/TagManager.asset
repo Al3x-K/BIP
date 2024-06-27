@@ -3,22 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Madame Rosella
-  - Eliot
-  - Marilyn Brooks
-  - Dr.EmilyCarter
-  - Marcus
-  - PlayerAvatar
-  - NPC
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Interactable
+  - SolidObjects
   - Water
   - UI
-  - 
+  - Interactable
   - 
   - 
   - 
@@ -50,6 +43,9 @@ TagManager:
     locked: 0
   - name: Terrain
     uniqueID: 3460594071
+    locked: 0
+  - name: Player
+    uniqueID: 2465237235
     locked: 0
   - name: SolidObjects
     uniqueID: 4051569073
